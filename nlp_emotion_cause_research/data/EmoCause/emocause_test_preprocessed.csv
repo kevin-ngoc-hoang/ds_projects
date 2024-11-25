@@ -1,0 +1,839 @@
+,original_situation,emotion,cause_span,start_index,end_index,emotion_label
+3775,i really wanted to get the part in the school rendition of a play. but my friend got it.,__jealous__,rendition of a play. but my friend got,11,19,21
+3776,"one night my children and i came home and came in through the back door. as i opened it, i saw a tall shadow in the hallway! it scared me so much, as i feared an intruder was in my home.",__terrified__,"saw a tall shadow in the hallway ! it scared me so much, as i feared an intruder",23,42,30
+3777,i was running to get in the store because it wasraining. i slipped and fell on the wet floor as i entered the store.,__embarrassed__,slipped and fell on the wet floor,16,22,13
+3778,one of my co-worker came and asked me a lot of really weird questions about my supervisor. it seemed suspicious so i pretty much told her i didn't know any of the answers to her questions. i don't think she like my supervisor.,__faithful__,supervisor. it seemed suspicious so i pretty much told her i didn't know any of the answers to her questions,19,41,15
+3779,"one day i was a bit short on cash so i didn't give a homeless man any money. i felt really bad, as i always try to give something to those that are in need.",__guilty__,didn't give a homeless man any money,12,20,18
+3780,"i felt so much love and affection when my son was moving to college. it was hard, as i wasn't ready, but was so proud of him!",__caring__,son was moving to college,10,14,7
+3781,i was feeling a bit nostalgic the other day when my son went back to college. it made me think of him when he first started kindergarten. ,__sentimental__,son went back to college,14,18,28
+3782,"one day a back neighbor insulted my 10 year old son and made fun of him for his weight. she actually called him a name and cursed. needless to say, i was so mad, beyond angry!",__furious__,neighbor insulted my 10 year old son,5,11,16
+3783,i have a really big meeting next week. i have rehearsed what i am to go over all this past week and plan to practice a little more this weekend. ,__prepared__,big meeting next week. i have rehearsed what i am to go over all this past week and plan to practice,5,29,25
+3784,i am pretty certain that i am going to be matched with my first choice school of law. i did really well on the lsat.,__confident__,certain that i am going to be matched with my first choice school of law. i did really well on the lsat,4,27,8
+3785,one time i had done really well in a class. i fully expected to get an a in it,__anticipating__,done really well,5,7,3
+3786,my husband has been out of town for a few weeks on business but is coming back next week. i am anxious and looking forward to when he gets home!,__anticipating__,husband has been out of town for a few weeks on business but is coming back,2,17,3
+3787,"when i was in middle school, i had a friend come over to ride horses with me. after riding my mother pressured me to get on a horse bareback i wasn't comfortable riding. she made such a big scene that i got on to make her stop.",__ashamed__,ride horses with me. after riding my mother pressured me to get on a horse bareback i wasn't comfortable,15,38,6
+3788,i have a bunch of records that belong to my father before he passed away. sometimes i put them on and imagine what it would have been like to party with him in the 70s.,__sentimental__,records that belong to my father,6,11,28
+3789,"when i was promoted to team leader, i had years of experience and felt very comfortable in my ability to perform the job. i was very ready for the leadership role!",__prepared__,experience and felt very comfortable in my ability to perform the job. i was very ready,13,29,25
+3790,"the first time i got a tattoo i was worried about pain and blood. i faint pretty easily at the sight of my own blood, and at the time had a low pain threshold. it worked out alright in the end!",__apprehensive__,tattoo i was worried about pain and blood,7,14,5
+3791,i love my husband. he has been so sweet this week. he knew i had a long day today so he bought me my favourite wine and taco bell!,__caring__,husband. he has been so sweet this week. he knew i had a long day today so he bought me my favourite wine and taco bell,4,32,7
+3792,"i'm teaching my daughter how to drive, and so far, so good!",__trusting__,"daughter how to drive, and so far, so good",6,16,31
+3793,last week was the first day of school for my granddaughter. she didn't go to preschool so i was really worried how she would like it and if she would be sad or not. turns out she loves it and i was worried for nothing,__anxious__,first day of school for my granddaughter,5,11,4
+3794,"my father almost died last year. the whole experience was very, very tough",__devastated__,father almost died,2,4,10
+3795,i was really looking forward to our family vacation to california this year. i love spending the holidays in new places.,__anticipating__,family vacation to california,8,15,3
+3796,i was so upset when i heard my grandma had passed. i was overseas and didn't know about it as nobody could contact me.,__devastated__,grandma had passed,9,12,10
+3797,i was really stressed out and grad school and had no choice but to drop out to keep my sanity. ,__devastated__,grad school and had no choice but to drop,7,16,10
+3798,my sister spilled milk on me. i hated it,__annoyed__,spilled milk,3,4,2
+3799,i had a meeting last week where i gave a presentation over the wrong documentation and no one said anything until after the meeting.,__embarrassed__,gave a presentation over the wrong documentation,9,15,13
+3800,i just got an a on my paper. it feels slick,__content__,got an a on my paper,3,8,9
+3801,my good friend came over last night! it was shocking since he lives hours away,__surprised__,friend came over last night ! it was shocking since he lives hours away,3,16,29
+3802,going out today to learn a new route for my job and hoping i don't get lost.,__apprehensive__,going out today to learn a new route,1,8,5
+3803,i wasn't able to pay rent recently. i had a messed up home.,__apprehensive__,wasn't able to pay rent,2,8,5
+3804,"my friend really wanted me to go rollerblading with him, but i haven't been rollerblading since i was a little kid. i didn't want to roll into a car.",__apprehensive__,haven't been rollerblading since i was a little kid,16,28,5
+3805,i just finished first in a foot race! i feel awesome,__proud__,finished first in a foot race,3,8,26
+3806,i'm in love with my girlfriend. i would never cheat on her,__faithful__,love with my girlfriend,5,8,15
+3807,drinking a gallon of milk made me sick,__disgusted__,milk made me sick,6,9,12
+3808,"i was down to my last $400, and we had a bicycle trip planned. my buddy asked me to give him all of it to print some bootleg concert posters. we netted $2000 a piece.",__trusting__,buddy asked me to give him all of it to print some bootleg concert posters,19,34,31
+3809,my 50th birthday just passed. i was trying to ignore it but my family ended up having a surprise party for me. it was such a happy night. made me realize i should embrace my age and not ignore it.,__joyful__,surprise party for me. it was such a happy night,20,30,22
+3810,one time i had a interview for a job i didn't feel qualified for. i felt pretty nervous going into it,__apprehensive__,interview for a job i didn't feel qualified,6,15,5
+3811,"my son was in advanced placement and honors class in high school. once he graduated, he was accepted at a very good college and is going to be an aerospace engineer. i really astonished at how well he does, and admire his intelligence and hard work.",__impressed__,"son was in advanced placement and honors class in high school. once he graduated, he was accepted at a very good college and is going to be an aerospace engineer. i really astonished at how well he does, and admire his intelligence and hard work",2,50,20
+3812,"my friend's boyfriend had the nerve to kiss me when i was visiting her one day. it was an out of the blue, sneaky move and repulsed me!",__disgusted__,boyfriend had the nerve to kiss,5,10,12
+3813,one time i got a week's vacation from work. i got to spend a lot of time watching my favorite shows,__content__,got a week's vacation,4,9,9
+3814,"while out walking in a boston suburb, we heard some animal cries. it turned out to be a baby kitten (very young) in a window well, with not identifying information. we took it home and adopted it.",__caring__,"kitten ( very young ) in a window well, with not identifying information. we took it home and adopted",24,45,7
+3815,having nightmares when i was little was scary,__terrified__,nightmares,2,2,30
+3816,"some random guy was in my backyard, i didn't realize before i looked outside that i was missing pants. turns out he was the cable guy fixing a wire.",__embarrassed__,random guy was in my backyard,2,7,13
+3817,at a meditation retreat i felt better than ever,__joyful__,meditation retreat,3,4,22
+3818,i'm moving in a few months and nervous about the new start. my husband is getting out of military.,__apprehensive__,moving in a few months and nervous about the new start,4,14,5
+3819,one time my dog got hit by a car. he did not survive.,__devastated__,dog got hit by a car,4,9,10
+3820,when a baby bird was alone,__caring__,bird was alone,4,6,7
+3821,i plan for weeks every time we go on vacation and make sure we have everything we need. i didn't do very well when we went on our honeymoon though. i guess i was so excited about the wedding that i forget just about everything.,__prepared__,plan for weeks every time we go on vacation and make sure we have everything we need,2,18,25
+3822,my friend got with a girl i liked. it sucks,__jealous__,friend got with a girl,2,6,21
+3823,i stole from my friends when i was young. i feel terrible,__ashamed__,stole from my friends,2,5,6
+3824,"i saw a dog get hit by a car today, it was a very emotional day.",__sentimental__,saw a dog get hit,2,6,28
+3825,"when we went to the beach for vacation a few weeks ago, i felt so relaxed and happy! it was so great to spend that time with my family.",__content__,went to the beach for vacation,3,8,9
+3826,one time i found a photo album that had pictures of my family when we were young. it brought back a lot of memories.,__sentimental__,found a photo album that had pictures of my family,4,13,28
+3827,i found out that my best friend was lying to her husband but i kept her secret.,__faithful__,kept her secret,15,17,15
+3828,my husband and i had an argument a few weeks ago. i got pretty mad and said some things i wished i hadn't. i felt bad and disappointed in my actions aferwards. ,__ashamed__,argument a few weeks ago. i got pretty mad and said some things i wished i hadn't. i felt bad and disappointed,7,32,6
+3829,"i found my kitten outside very ill, it had to be put down because it ate a poisonous plant.",__devastated__,"kitten outside very ill, it had to be put down because it ate a poisonous plant",4,21,10
+3830,"i have been true to my beliefs for a very long time, even if it means disagreeing with others. i used to work in a place where everyone had different beliefs to me. i just had to walk away from conversations on occasion.",__faithful__,true to my beliefs,4,7,15
+3831,my mother lives in the same neighborhood as i do and i am so happy she lives close. my father passed away about 2 years ago and i'm so thankful she's still here with us.,__grateful__,mother lives in the same neighborhood as i do and i am so happy she lives close,2,18,17
+3832,my little grandson just came home from the hospital. he was born several week premature and weighed under 2 pounds but now he is doing well and we are so thankful everything is ok.,__grateful__,grandson just came home from the hospital. he was born several week premature and weighed under 2 pounds but now he is doing well and we are so thankful everything is ok,3,35,17
+3833,"when my children were born, it was such a wonderful and amazing occasion for me. it's a happiness beyond words.",__joyful__,children were born,3,5,22
+3834,it's been a great week! i got a promotion at work and my husband has been so caring!,__content__,got a promotion at work and my husband has been so caring,10,21,9
+3835,waiting for my results,__anxious__,waiting for my results,1,4,4
+3836,someone did the bottle flip onto a little ledge at my school,__impressed__,bottle flip,4,5,20
+3837,"my upstairs neighbors are away for the weekend and i am as happy as a clam. no thumping, screeching, playing loud video games. heaven!",__content__,neighbors are away for the weekend and i am as happy,3,13,9
+3838,i was feeling kind of down so i ended up snuggling with a stuffed rabbit i have. it brought back a lot of good old memories. ,__sentimental__,snuggling with a stuffed rabbit,11,18,28
+3839,my mother is always there for me and i know i can go to her with my darkest secrets. i feel like she is the one i know will never betray me.,__trusting__,mother is always there for me and i know i can go to her with my darkest secrets. i feel like she is the one i know will never betray,2,33,31
+3840,i decided to join to group to lose weight. i had so much respect and admired what all of these people were going through with there struggle. it really helped having their support too.,__impressed__,lose weight. i had so much respect and admired what all of these people were going through with there struggle,8,28,20
+3841,"i'm from scotland originally and had to apply to become a us citizen. to do that, you have to pass a civics test. i was soooo nervous!",__apprehensive__,apply to become a us citizen,12,17,5
+3842,a time that i felt uneasy and anxious was waiting for my son to find out if he was accepted to a prestigious college.,__apprehensive__,waiting for my son to find out if he was accepted,10,20,5
+3843,"some of my friends told me that they had a big surprise for me. they know i hate surprises, but i complied and let the blindfold me and drive me out to the location.",__trusting__,friends told me that they had a big surprise,4,12,31
+3844,i remember when i was young. i used to love life,__sentimental__,remember when i was young,2,6,28
+3845,my friend is a beautiful person. she drove me to class,__trusting__,friend is a beautiful person. she drove,2,9,31
+3846,my house is a mess and i've got people coming over later this evening.,__ashamed__,house is a mess and i've got people coming,2,12,6
+3847,"my sister passed away in 2010. she had taken her own life and my mother and i found her after she did. it was very traumatic and painful for us, and all our family.",__devastated__,sister passed away,2,4,10
+3848,i have a surprise planned for a night out for my husband when he gets back from traveling for work. i feel pretty optimistic and sure he will really enjoy it.,__confident__,surprise planned for a night out for my husband when he gets back from traveling for work. i feel pretty optimistic,4,25,8
+3849,i feel thankful for my vehicle,__grateful__,thankful for my vehicle,3,6,17
+3850,wearing pajamas to a party,__embarrassed__,wearing pajamas to a party,1,7,13
+3851,i'm so lucky - i have a brother i can trust absolutely to do the right thing at all times. when we had to sell a property he dealt with everything and it was all carried out perfectly.,__trusting__,brother i can trust absolutely,10,14,31
+3852,i recently purchased an xbox! i've never owned a gaming console,__excited__,purchased an xbox,3,6,14
+3853,one time i was walking on the sidewalk to my next class and i tripped on some steps. i fell flat on my face in front of a bunch of people.,__embarrassed__,fell flat on my face in front of a bunch of people,21,32,13
+3854,one time my boyfriend was sick. i made him some soup help him feel better because that's all he could eat,__caring__,boyfriend was sick. i made him some soup,4,12,7
+3855,"i know i broke up with my ex, but i can't help but feel irritated when he talks about going on dates.",__jealous__,"ex, but i can't help but feel irritated when he talks about going on dates",8,25,21
+3856,"i like to take treats to the retirement home, especially the people with no family.",__caring__,take treats to the retirement home,4,9,7
+3857,i just ordered a new cookery book and i can't wait for it to arrive. i love to cook and will really enjoy trying out the recipes.,__anticipating__,ordered a new cookery book,3,8,3
+3858,"i did not have a car for a few years and just recently bought a new one. i was scared to drive at first, especially on the highways around here. people drive like crazy people and didn't want to get in another accident. i am getting used to it now though.",__afraid__,scared to drive at first,21,25,0
+3859,"my husband is on the road a lot, it often gets lonley. i have to remember he does it for our family and try to enjoy the alone time.",__faithful__,"husband is on the road a lot, it often gets lonley. i have to remember he does it for our family",2,26,15
+3860,"my father had a large tumor removed from his kidney. they thought the surgery successful and he was recovering. on the third day he passed away suddenly, with no known cause of death.",__devastated__,father had a large tumor removed from his kidney. they thought the surgery successful and he was recovering. on the third day he passed away suddenly,2,29,10
+3861,one time i found out my boyfriend had been texting his ex. i was afraid he wanted to still be with her,__jealous__,boyfriend had been texting his ex,7,13,21
+3862,"the other night i was home alone and it was late. all of a sudden, i heard someone knocking at the door really loud and they wouldn't stop. i ignored it but i was so scared and about to call the police but they finally stopped and went away.",__terrified__,someone knocking at the door,20,24,30
+3863,i was sorting through some stuff recently and came across some old christmas cards. it was lovely to read them and remember the friends and family who sent them!,__sentimental__,old christmas cards,12,16,28
+3864,i forgot my mother-in-laws birthday this year and can't look her in the eye! my husband was working away from home and forgot to remind me.,__embarrassed__,forgot my mother-in-laws birthday,2,9,13
+3865,i helped my friend find her lost cats. we found both of them,__caring__,helped my friend find her lost cats,2,8,7
+3866,"i cheated on my science exam, i feel so bad about it.",__guilty__,cheated on my science exam,2,6,18
+3867,my bank refunded me 100 bucks for a bad transaction!,__joyful__,bank refunded me 100 bucks,2,8,22
+3868,i had a tree limb fall on the roof of my house,__anxious__,tree limb fall on the roof of my house,4,12,4
+3869,"i felt really guilty about lying to my parents when i was a child.. yeah, its been a while, but still i feel bad about it",__guilty__,lying to my parents when i was a child,6,14,18
+3870,i made sure i had everything set up before i went abroad. it is sort of a habit for me to make sure things are intact,__prepared__,everything set up before i went abroad. it is sort of a habit for me to make sure things are intact,6,27,25
+3871,i currently have epilepsy and they have not found a treatment for it. i am hopeful they will.,__hopeful__,epilepsy and they have not found a treatment for it. i am hopeful they will,4,21,19
+3872,i was supposed to meet a good friend for dinner at a local pub recently. i waited 2 hours and then called him. he said he couldn't be bothered going out and had forgotten to call me. i am not too happy with him right now.,__disappointed__,meet a good friend for dinner at a local pub recently. i waited 2 hours and then called him. he said he couldn't be bothered going out and had forgotten to call,5,40,11
+3873,"i had to write a speech for a club i'm in and it made me have thoughts about what might happen if i didn't give a good speech, like people might get bored",__anticipating__,"happen if i didn't give a good speech, like people might get bored",23,38,3
+3874,i was so angry to see that my cousin asked out my girlfriend when we were casually seeing each other. i sort of yelled at him.,__furious__,cousin asked out my girlfriend,9,13,16
+3875,i don't feel bad. it's not like i made her do it. she wanted to,__guilty__,feel bad. it's not like i made her do it. she wanted,5,20,18
+3876,"i find it pathetic how some people will rationalize someone else's bad behavior, simply to keep from admitting they made a terrible choice.",__disgusted__,people will rationalize someone else's bad behavior,7,16,12
+3877,my grandpa is coming to visit!,__joyful__,grandpa is coming to visit,2,7,22
+3878,"last week i had thai food for lunch, and it didn't sit well with my stomach. i had some explosive issues later in the day at work, and the bathroom was near all of my coworkers' cubicles. needless to say, the stench ended the workday a little early.",__embarrassed__,"thai food for lunch, and it didn't sit well with my stomach. i had some explosive issues later in the day at work, and the bathroom was near all of my coworkers' cubicles. needless to say, the stench",5,55,13
+3879,i realized that we are more financially stable than we've ever been. it really feels good plus we're still moving forward.,__grateful__,financially stable,7,8,17
+3880,my wife bought me a new watch for my birthday! she is such a sweetheart.,__grateful__,wife bought me a new watch for my birthday,2,10,17
+3881,guilty: leaving him behind in the rain,__guilty__,leaving him behind,3,5,18
+3882,she sat with them instead of me in champagne room,__jealous__,sat with them instead of me in champagne room,2,10,21
+3883,"i felt isolated when we moved to hong kong -- i had a 6 month old, a husband that needed to start traveling to australia immediately, and just didn't know anyone yet!",__lonely__,"moved to hong kong -- i had a 6 month old, a husband that needed to start traveling",6,27,23
+3884,"i can never get a good answer out of my wife where she wants to go eat and this past time it just rubbed me the wrong way. i got the standard ""i don't care"" then she didn't like where we went.",__furious__,never get a good answer out of my wife,3,11,16
+3885,my sister recently paid off her house. i felt so envious of her as i've been trying to pay mine down.,__jealous__,sister recently paid off her house. i felt so envious of her as i've been trying to pay mine,2,24,21
+3886,i am excited that some family is coming in to town,__excited__,family is coming in to town,6,11,14
+3887,"i was on a road trip last week and had to stop a gas station to use the restroom. it looked like they had never cleaned the bathroom, ever!",__disgusted__,gas station to use the restroom. it looked like they had never cleaned the bathroom,14,30,12
+3888,my son and i were at the track yesterday.  after the run he spent some time puking in the parking lot.,__disgusted__,time puking,17,19,12
+3889,i have a job interview tomorrow and i can not wait!,__hopeful__,job interview tomorrow,4,6,19
+3890,"i used to live in california. early one morning we had a smallish earthquake. it made me realize i had not put together an emergency package, so i immediately did so. never hurts to be ready for the big one!",__prepared__,"smallish earthquake. it made me realize i had not put together an emergency package, so i immediately",18,37,25
+3891,"thinking i'm talking to my mom, but it turns out to be my mom's friend",__embarrassed__,turns out to be my mom's friend,12,20,13
+3892,i found a salad in the refrigerator that i forgot about and it smelled horrible.,__disgusted__,salad in the refrigerator that i forgot about and it smelled horrible,4,15,12
+3893,the other day i had a flat tire. i had my floor jack and 4-way lug wrench in my trunk and was able to change my tire and get back on the road in 10 minutes.,__prepared__,flat tire. i had my floor jack and 4-way lug wrench in my trunk and was able to change my tire,7,32,25
+3894,i felt sick and sorry when i lied to my girlfriend about kissing another girl. i feel evil,__ashamed__,lied to my girlfriend about kissing another girl,8,15,6
+3895,when i think back to high school i get very nostalgic,__nostalgic__,think back to high school,3,7,24
+3896,"i was most taken aback to learn that someone was not who i thought they were. it was more a statement on how i chose to see them, rather anything that was their fault. a good lesson.",__surprised__,someone,10,10,29
+3897,i always get sad when memories of my dad come in mind. he passed away few years ago,__sentimental__,dad come in mind. he passed away,9,16,28
+3898,i was recently rejected by a person that i rally enjoyed. sometimes you can't get what you want.,__sad__,rejected by a person that i rally enjoyed,4,11,27
+3899,i was really looking forward to the future when i got a new job in houston earlier. i felt like lots of good changes are about to happen.,__hopeful__,forward to the future when i got a new job,5,14,19
+3900,once my husband surprised me on my anniversary with a really pretty necklace and a trip to a bed and breakfast.   i was so suprised b/c he usually only takes me to dinner for our anniversary.,__surprised__,husband surprised me on my anniversary with a really pretty necklace and a trip,3,16,29
+3901,"i cosigned a loan with my son, expecting he would make the payments and he has let me down by being late every month.",__disappointed__,"cosigned a loan with my son, expecting he would make the payments and he has let me down by being late every month",2,26,11
+3902,"i recently went to a wedding with a friend from way back in the day. i saw other friends i knew from long ago, too.",__nostalgic__,wedding with a friend from way back in the day. i saw other friends i knew from long ago,6,25,24
+3903,i had a surprise visit from my mother.  she came into town and took us out for dinner.,__surprised__,mother. she came into town,8,13,29
+3904,i am so angry to see media reporting news without fact checking these days.. it is harming the country,__furious__,media reporting news without fact checking,7,12,16
+3905,i have lupus so i am not able to get out of the house much b/c i am so sick.  it makes me really lonely b/c i don't have many friends since i am not able to go out and hang out,__lonely__,lupus so i am not able to get out of the house much b/c i am so sick. it makes me really lonely b/c i don't have many friends,3,40,23
+3906,"esterday my husband was very well arranged for a party alone, i'm suspecting",__jealous__,husband was very well arranged for a party alone,5,13,21
+3907,my landlady was really understanding when i told her that i would be late with rent this month.,__grateful__,landlady was really understanding when i told her that i would be late,2,16,17
+3908,going to get a new car: excited,__excited__,get a new car,3,6,14
+3909,"i am waiting to take a big test coming up! i feel prepared, yet i am anxious.",__anticipating__,waiting to take a big test coming,3,9,3
+3910,"i fell down at work, and my khaki pants ripped open.",__embarrassed__,"fell down at work, and my khaki pants ripped",2,13,13
+3911,rolling down a huge downhill street with no brakes was fun but nervewracking,__apprehensive__,downhill,5,5,5
+3912,it was the grand opening for our restaurant. the whole town was there. almost double the number of people we were expecting,__surprised__,double,17,17,29
+3913,i am someone who wants to know that i have everything packed right before i go for a trip. i did it last time when we went to italy as well,__prepared__,know that i have everything packed right before i go for a trip,7,19,25
+3914,i was very confident for my circuits exam,__prepared__,confident for my circuits exam,4,8,25
+3915,i was going through boxes the other day. i came across old pictures i didn't know i still had. it really made me think back.,__sentimental__,boxes the other day. i came across old pictures,5,14,28
+3916,my wife's birthday is coming up. i got her a gift and the party planned out way ahead of time this year.,__prepared__,wife's birthday is coming up. i got her a gift and the party planned,2,18,25
+3917,i was confident that i had aced my chemistry test in college,__confident__,aced my chemistry test in college,7,13,8
+3918,"i get to go the the zoo tomorrow! they opened an exhibit showcasing two of my favorite animal, the sloth!",__joyful__,zoo tomorrow ! they opened an exhibit showcasing two of my favorite animal,7,21,22
+3919,i forgot to pick up a bag of chips for my son from the grocery store.,__guilty__,forgot to pick up a bag,2,7,18
+3920,having to give a presentation in front of the entire class,__anxious__,give a presentation in front of the entire class,3,11,4
+3921,i was so excited of my daughter when she was accepted into harvard. she worked so hard through high school and has achieved her dream.,__proud__,daughter when she was accepted into harvard,7,15,26
+3922,"one time, my friends were daring me to jump into a cold spring with them from a height of like 40 feet. i was a bit nervous to say the least.",__apprehensive__,jump into a cold spring with them from a height of like 40 feet,10,23,5
+3923,"i am taking a vacation to orange beach, alabama in a week! my wife and i visited the area about two years ago, and we loved it!",__excited__,taking a vacation to orange beach,3,8,14
+3924,a large roach crawled acroos the floor.  it went under the chair i was sitting in.,__disgusted__,large roach crawled acroos the floor,2,12,12
+3925,"i had to leave the house for a bit, while i was gone my kids did all their chores.  i figured they would just goof off.",__trusting__,kids did all their chores,16,21,31
+3926,i was so afraid of going in my barn because i got stung by a wasp last year in my neck.,__afraid__,got stung by a wasp last year in my neck,12,22,0
+3927,"i have an appointment soon with my orthopedic surgeon, when he's going to tell me whether or not he can operate on my hip. i so want everything to go well, but am worried he'll say no, can't do it!",__apprehensive__,operate,27,27,5
+3928,my sister recently died from breast cancer and i was devastated,__devastated__,sister recently died from breast cancer,2,7,10
+3929,"i used to be sooooo territorial with my boyfriend (now husband of many years) when we were dating. thankfully, i outgrew that as i grew more into myself.",__jealous__,sooooo territorial with my boyfriend,5,11,21
+3930,i was very nervous when there was a strong storm at our house. there was a tornado watch very close to our house!,__apprehensive__,nervous when there was a strong storm at our house. there was a tornado watch,4,19,5
+3931,my brother passed away 2 years ago and i still don't know how to cope,__devastated__,brother passed away,2,4,10
+3932,i am happy with my friends they are very good with me ... god give them happiness,__grateful__,friends they are very good with me ... god give them happiness,6,19,17
+3933,i found a bunch of dead mice on our apartment floor the other day. i felt sick seeing that,__disgusted__,dead mice on our apartment floor,6,11,12
+3934,seems like every time we get a bill it's higher than expected. i thought we had lowered the electric bill but it actually went up. ,__surprised__,higher than expected,12,14,29
+3935,i was proud to see my kid winning in painting competition.. she seems like a born artist,__proud__,kid winning in painting competition,7,11,26
+3936,it's easy to get irritated when you're working on a project and your teammates don't pull their weight -- but then *you're* the one who somehow suffers the consequences!,__annoyed__,working on a project and your teammates don't pull their weight -- but then * you're * the one who somehow suffers the consequences,12,40,2
+3937,i went to the beach the other day. it filled me with such a sense of calm and joy.,__joyful__,beach the other day. it filled me with such a sense of calm,5,18,22
+3938,i am very hopeful to go on vacation this summer,__hopeful__,go on vacation this summer,6,10,19
+3939,"the other day was really just one of those off days. i couldn't get myself together that day. i went to the store and looked like i was drinking, which i dont, because i kept running into everything.",__embarrassed__,"looked like i was drinking, which i dont, because i kept running into everything",29,45,13
+3940,my neighbors built a treehouse for their children in just one week! i couldn't believe how fast they completed the project!,__impressed__,neighbors built a treehouse for their children in just one week,2,13,20
+3941,jealous: i was shorter and younger. yeliz,__jealous__,shorter and younger,5,7,21
+3942,the us economy has been doing well recently. i think things are going well for everybody,__hopeful__,us economy has been doing well recently. i think things are going well for everybody,2,17,19
+3943,my daughter came to visit from ohio with her husband and children. i could not wait for them to get here because it was almost a year since i had seen them. ,__excited__,daughter came to visit from ohio with her husband and children,2,13,14
+3944,i lost a good job a few years back. as a consequence my kids and i also lost our home of 11 years.,__devastated__,lost a good job a few years back. as a consequence my kids and i also lost our home,2,21,10
+3945,i had my t-shirt fly up in the wind and accidently flashed some people,__embarrassed__,t-shirt fly up in the wind and accidently flashed some people,4,17,13
+3946,my sister is always the sibling that my parents talk about. sometimes i wonder if they even notice me.,__jealous__,sister is always the sibling that my parents talk,2,10,21
+3947,today my daughter went down the big ramp at the skate park. it was so cool to see her zoom down it. it made my day!,__proud__,daughter went down the big ramp at the skate park,3,12,26
+3948,i remember feeling so blissful after the births of my children. such a sense of peace and relief and possiblity.,__content__,blissful after the births of my children,5,12,9
+3949,i was so envious of my friend when she won from a lottery ticket she bought for a buck. ,__jealous__,friend when she won from a lottery ticket,8,15,21
+3950,i recently had a wonderful experience with a woman i really like. the night ended poorly and i came across very disappointed with the ending.,__disappointed__,woman i really like. the night ended poorly,9,17,11
+3951,it can be really hard coming up with all the money needed for back to school. for the most part i have it covered. there is an organization helping with some of it and even a small amount helps a lot. ,__grateful__,school. for the most part i have it covered. there is an organization helping,16,31,17
+3952,the start of school for my 2 kids is less than a week away. i have everything they need and more except for a couple notebooks.,__prepared__,start of school for my 2 kids is less than a week away. i have everything they need,2,20,25
+3953,i had a big presentation yesterday but i'm pretty sure i nailed it!,__confident__,sure i nailed,12,15,8
+3954,i saved up so much shopping at aldi's !,__surprised__,saved up so much shopping,2,6,29
+3955,i feel alone whenever i think about my dad.. he passed away last year.,__lonely__,dad .. he passed away,9,14,23
+3956,"i recently returned to my childhood home, and it brought back a flood of wonderful memories. i am feeling quite sentimental.",__nostalgic__,"childhood home, and it brought back a flood of wonderful memories",6,17,24
+3957,i feel happy when i am outside in nature.,__joyful__,outside in nature,7,9,22
+3958,i have a cat with feline aids.  she is slowly wasting away and i will need to put her down.,__sad__,feline aids. she is slowly wasting away,6,15,27
+3959,i have a nest of yellow jackets in my front yard,__annoyed__,nest of yellow jackets in my front yard,4,11,2
+3960,i recently cheated on my girlfriend. i feel absolutely terrible.,__ashamed__,cheated on my girlfriend,3,6,6
+3961,i feel really bad about cheating on my girlfriend with a mutual friend.. i cant even look her in the eye,__guilty__,cheating on my girlfriend with a mutual friend,6,13,18
+3962,she took me for $1600 in just 2 weeks,__furious__,took me for $ 1600 in just 2 weeks,2,10,16
+3963,once gave the wrong package to somebody,__guilty__,gave the wrong package to somebody,2,7,18
+3964,i recently spent a long weekend with some old buddies from college. we just drank and goofed off all weekend.,__nostalgic__,old buddies from college,9,14,24
+3965,"i've been passively job hunting for a few months now, looking for a better job. i haven't had any luck yet and i'm starting to feel like i never will.",__anxious__,"job hunting for a few months now, looking for a better job. i haven't had any luck yet and i'm starting to feel like i never will",7,39,4
+3966,"i am disabled and have trouble getting around. last week i went to our local farmer's market and bought some produce. the farmer i visited, even though he was quite busy, took the time to walk me back to my car and put my purchases on the back seat. now that's what i call service!",__impressed__,"farmer's market and bought some produce. the farmer i visited, even though he was quite busy, took the time to walk me back to my car and put my purchases on the back seat",17,55,20
+3967,i'm so excited about some news about an upcoming life change! it's a move and a new adventure!,__anticipating__,upcoming life change ! it's a move and a new adventure,11,23,3
+3968,i forgot to get my son a bag of chips from the dollar store when i went out today - especially since i told him i'd pick up some on my way home.,__guilty__,forgot to get my son a bag of chips from the dollar store when i went out today-especially since i told,2,24,18
+3969,i really envy people who can sing. i feel like they are blessed,__jealous__,envy people who can sing,3,7,21
+3970,i recently had fun with a friend i had not seen in a while. i want to see him again at some point in the future and i think i will.,__hopeful__,friend i had not seen in a while. i want to see him again at some point in the future,7,27,19
+3971,i was so thrilled to finally get to see hamilton. i had a blast in there!,__excited__,finally get to see hamilton,6,12,14
+3972,"i was recently waiting to hear the results of a medical exam. fortunately, in the end it all turned out ok. but it was nerve wracking.",__anxious__,waiting to hear the results of a medical exam,4,12,4
+3973,i envy people who can dance really well. something so graceful about them.,__jealous__,people who can dance,3,6,21
+3974,"my good friend just started work at a fantastic golf resort up in michigan. i've seen it and it's stunning. why can't i have a great job in a beautiful place with a view of lake michigan? because i'm stuck here, that's why!",__jealous__,friend just started work at a fantastic golf resort up in michigan. i've seen it and it's stunning. why can't i have a great job in a beautiful place with a view of lake michigan,3,49,21
+3975,"the weather feels mild today, i'm shocked that's it's only in the 80s in august.",__surprised__,weather feels mild today,2,5,29
+3976,my mother called me up and said she was in town today.  she took me out to eat and brought me a book as a gift.,__surprised__,mother called me up and said she was in town today. she took me out to eat and brought me a book as a gift,2,27,29
+3977,the floods destroyed everything. the insurer is not returning our calls,__devastated__,floods destroyed everything,2,4,10
+3978,sentimental: playing old school games with my bro,__sentimental__,playing old school games,4,7,28
+3979,i was so awestruck to see hamilton. it was such an awesome show,__impressed__,see hamilton,9,12,20
+3980,bills and mortgage payments are comming up.  i am working hard to make sure i can satisfy them.,__anxious__,mortgage payments are comming,3,7,4
+3981,"my brother recently proposed to his girlfriend. they are already talking about when they want to have the wedding, and making a few plans for what they want it to be like.",__proud__,brother recently proposed to his girlfriend,2,7,26
+3982,my sister opened up her own retail store.,__proud__,sister opened up her own retail store,2,8,26
+3983,"i was on an airplane last week, and someone's baby would not stop crying. i know it isn't right to be upset about such things, but it really bothered me.",__angry__,"airplane last week, and someone's baby would not stop crying",5,17,1
+3984,i am about to take over my parents house.  i have big plans for renovating it.,__anticipating__,parents house. i have big plans for renovating,8,18,3
+3985,my grandma sent me a birthday card in the mail! she is such a sweet lady.,__grateful__,grandma sent me a birthday card,2,8,17
+3986,i went back to a horse ranch where i owned horses over 20 years ago. good times.,__nostalgic__,went back to a horse ranch where i owned horses,2,11,24
+3987,was lied to about moving in to our own place,__disappointed__,lied to about moving in to our own place,2,10,11
+3988,i know i will save the money i need,__confident__,know i will save the money,2,7,8
+3989,"a separation is something that hurts, especially when you love with your heart",__sad__,separation is something that hurts,2,6,27
+3990,i want to participate in a bodybuilding contest,__confident__,participate in a bodybuilding contest,4,9,8
+3991,i broke up with my boyfriend last week.,__lonely__,broke up with my boyfriend,2,6,23
+3992,watching disney movies makes me remember all the good times i spent when i was little at my friend's house,__nostalgic__,watching disney movies makes me remember all the good times,1,12,24
+3993,"i was so scared of going on the train, i do not like fast moving objects",__apprehensive__,"train, i do not like fast moving objects",9,17,5
+3994,going to get a new car soon,__excited__,new car soon,5,7,14
+3995,i got angry when she refused. but i should've been more understanding,__ashamed__,refused,6,6,6
+3996,i wish i never did it now,__ashamed__,wish i never did it now,2,7,6
+3997,"we paid 600$ for a cruise, but they canceled it with not refunds one week before. so mad ",__angry__,"paid 600 $ for a cruise, but they canceled it with not refunds",2,17,1
+3998,my friend has been couch surfing for a few weeks. he has been getting under my skin.,__annoyed__,friend has been couch surfing,2,6,2
+3999,i recently graduated college. it was an amazing journey!,__proud__,graduated college,3,4,26
+4000,"i have been trying to lose weight in a group and while i made it to 4 lbs, my friends made it to 15. :(",__jealous__,"lose weight in a group and while i made it to 4 lbs, my friends made it to 15",6,25,21
+4001,i am looking forward to the new season of the lakers. i bet lebron is gonna make a difference.,__anticipating__,new season of the lakers,7,12,3
+4002,"i've been reminiscing recently about the good old days, when i was a kid and didn't have to worry about bills and expenses.",__sentimental__,"reminiscing recently about the good old days, when i was a kid and didn't have to worry about bills and expenses",5,31,28
+4003,i'm taking the california bar exam in february and i am suuuuper nervous.,__anxious__,california bar exam,6,12,4
+4004,when my mom got really ill and was in the hospital i wasn't able to visit her for about a week. it just also happened to be the week that she died. i was broken. i couldn't be there when she needed me the most. ,__devastated__,mom got really ill and was in the hospital i wasn't able to visit her for about a week. it just also happened to be the week that she died,3,35,10
+4005,i felt that the future looked bright after i found my first job,__hopeful__,future looked bright after i found my first job,5,13,19
+4006,i have been more happy when my girl proposed to me,__excited__,girl proposed,8,9,14
+4007,a dog chased me down the streets last night.. i was shaking by the time i escaped,__terrified__,dog chased me down the streets,2,7,30
+4008,i thought somebody was breaking into my house.,__terrified__,somebody was breaking into my house,3,8,30
+4009,"i was so happy when i got my new bike, i wanted one for so long!",__excited__,new bike,9,10,14
+4010,when i stole from a store i felt bad,__guilty__,stole from a store,3,6,18
+4011,"i studied really hard all night infact but when my results came, i had nothing to show for it",__disappointed__,"studied really hard all night infact but when my results came, i had nothing to show",2,20,11
+4012,i was partially raised by my grandparents and my grandmother recently passed away. she had a good long life though.,__sad__,grandparents and my grandmother recently passed away,7,13,27
+4013,i needed some extra money and i had some extra change in my car.  i decided to buy a scratch off ticket and lost.,__disappointed__,scratch off ticket and lost,21,25,11
+4014,i felt so nervous when i went to meet the parents of my girlfriend. i was sweating all over!,__anxious__,meet the parents of my girlfriend,9,14,4
+4015,i recently went on a road trip with some friends. we had a great time and posted up on the beach.,__excited__,road trip with some friends,6,10,14
+4016,started putting money into savings account,__prepared__,putting money into savings account,2,6,25
+4017,i watched a little drop his candy bar on the ground. he then bent down picked it up and ate it! didn't even wipe it off.,__disgusted__,drop his candy bar on the ground. he then bent down picked it up and ate it ! didn't even wipe,5,28,12
+4018,anticipate: can't wait for my baby boy,__anticipating__,wait for my baby boy,8,12,3
+4019,a dog chased me down the street the other day. it was such a scary experience,__terrified__,dog chased,2,3,30
+4020,i have been trusting my girl friend a lot then anyone else,__trusting__,girl friend a lot then anyone,6,11,31
+4021,"i once lied about kissing the most popular girl at our school, to my friends. when they found out, i felt so shameful",__embarrassed__,lied about kissing the most popular girl,3,9,13
+4022,it is amazing how loyal my dogs are to me.,__trusting__,loyal my dogs,5,7,31
+4023,i didnt shower for a few days and had an important meeting. i could tell that they could smell me. i became a tomato,__embarrassed__,shower for a few days and had an important meeting. i could tell that they could smell me. i became a tomato,4,27,13
+4024,i can't seem to feel happy : joyful,__joyful__,feel happy,7,8,22
+4025,i am apprehensive that my sister will not seek the help she needs to treat her alcohol problems,__apprehensive__,sister will not seek the help she needs to treat her alcohol problems,9,21,5
+4026,once when i was in college this guy that i really didn't like more than a friend asked me on a date to go get some ice cream.  ,__guilty__,like more than a friend asked me on a date,15,24,18
+4027,i feel blue whenever i see a picture of my dog.. she died few months ago,__sentimental__,see a picture of my dog,6,11,28
+4028,accepted to engineering program,__proud__,accepted to engineering program,1,4,26
+4029,i found a giant spider in my car yesterday! it scared me!,__surprised__,found a giant spider in my car yesterday,2,9,29
+4030,i felt really great when i went to the beach with my friends the other day.. it gave me a warm sensation in my heart,__joyful__,went to the beach with my friends,7,13,22
+4031,i have surprised when my friend surprise me ion my birthday,__surprised__,friend surprise me ion my birthday,6,11,29
+4032,my roommate ate my lunch that i left in the fridge! i cannot stand that!,__furious__,roommate ate my lunch that i left in the fridge,2,11,16
+4033,annoy: i can't find another way to earn money,__annoyed__,earn money,12,13,2
+4034,i was so pissed off when i found out that my girlfriend kissed my best friend,__angry__,girlfriend kissed my best friend,12,16,1
+4035,i found out that i was one of the top performers in the mid-south district for my job!  i knew i could do it!,__confident__,top performers in the mid-south district,10,17,8
+4036,"i practiced running so much, i was confident i was going to win the 50 metre sprint at my school.",__confident__,"practiced running so much, i was confident i was going to win the 50 metre sprint",2,18,8
+4037,"i went to the store first thing the other morning for some sodas and had a rough time. i dropped my money, ran into the door, and the bag busted sending a 2 liter bouncing away.",__embarrassed__,"dropped my money, ran into the door, and the bag busted",22,35,13
+4038,i just did a bunch of work and messed it up in the end.  now i'm not sure if i'll get paid.,__annoyed__,bunch of work and messed it up in the end. now i'm not sure if i'll get paid,5,27,2
+4039,i have been prepared more for my future ,__prepared__,prepared more for my future,4,8,25
+4040,i have been feels really stressed and disappointed,__embarrassed__,disappointed,8,8,13
+4041,when my sister came home for christmas,__surprised__,sister came home for christmas,3,9,29
+4042,"i had a guest over that used my restroom, and they obviously have some sort of digestive issue! they didn't event tell me about it!",__angry__,"guest over that used my restroom, and they obviously have some sort of digestive issue",4,21,1
+4043,i am going to busch gardens next week with my family!,__excited__,going to busch gardens next week,3,9,14
+4044,i used to be a part of the dance creq,__nostalgic__,part of the dance creq,6,12,24
+4045,sometimes that i have been more apprehensive when i was feels upset and lonley,__apprehensive__,feels upset and lonley,14,19,5
+4046,i once ate a piece of cake found in the fridge.  after the first bite i looked down and saw spots of mold.,__disgusted__,cake found in the fridge. after the first bite i looked down and saw spots of mold,7,24,12
+4047,i was given a job offer at a new company. i decided to stay with my current organization out of loyalty.,__faithful__,stay with my current organization,15,19,15
+4048,i was upset when my dog tore up my living room couch,__angry__,dog tore up my living room couch,6,12,1
+4049,"i stole money from a good friend when i was a young adult.  i did it because i needed food, but have never been able to live it down.",__ashamed__,stole money from a good friend,2,7,6
+4050,it really bother me when people come into where we live at night and ride their dirt bikes,__annoyed__,people come into where we live at night and ride their dirt bikes,6,18,2
+4051,i really felt happy when i went to see my family the other day. they always warm my heart,__joyful__,see my family,9,11,22
+4052,my parents have helped me recover from my sickness.,__caring__,parents have helped me recover from my sickness,2,9,7
+4053,i recently received a raise at work. it came at a good time and was much needed.,__grateful__,received a raise at work. it came at a good time and was much needed,3,18,17
+4054,proud. i can get fit in 3 months. takes discipline ,__proud__,fit in 3 months,6,9,26
+4055,i worked hard all night for that exam. it takes 5 months to get the results back. the wait is killing me,__anticipating__,months to get the results back,13,18,3
+4056,my four year old daughter came up to me and said she thought daddy needed a huge and kiss.  she then jumped in my lap and proceeded to pepper my cheeck with kisses.,__joyful__,daughter came up to me and said she thought daddy needed a huge and kiss. she then jumped in my lap and proceeded to pepper my cheeck with kisses,5,36,22
+4057,i am anticipating that the limestone mine in my area where i live at will be reclaimed. ,__hopeful__,limestone mine in my area where i live at will be reclaimed,8,19,19
+4058,i felt heartbroken when my dog was hit by a van.. she passed away eventually,__devastated__,heartbroken when my dog was hit by a van,3,12,10
+4059,i feel so relaxed and at peace when i meditate. ,__content__,relaxed and at peace when i meditate,4,12,9
+4060,"i have felt some of the best moments of pure happiness seeing someone i love getting something they want. a job, and acceptance to college, any kind of goal.",__joyful__,"someone i love getting something they want. a job, and acceptance to college",13,27,22
+4061,there was this time when i was suppose to have a doctors appointment at this certain time.  well i sat there for literally 3 hours waiting to see the doctor.  which honestly i wouldn't have minded if he would have spent time with me at the appointment but all he did was spend 5 min and act like he didn't want to be there.  it was annoying.,__annoyed__,doctors appointment at this certain time. well i sat there for literally 3 hours waiting,12,27,2
+4062,i tucked my work uniform in and had my name badge on,__prepared__,tucked my work uniform in and had my name badge,2,11,25
+4063,i appreciate seeing good deeds in the world,__grateful__,good deeds,4,5,17
+4064, i was heartbroken when i heard my dog had died. she was my childhood dog while i was growing up',__devastated__,dog had died. she was my childhood,9,16,10
+4065,i felt really nervous after i agreed to meet my girlfriend's parents. i lost few pounds on the weeks that led up to it,__anxious__,meet my girlfriend's parents,9,14,4
+4066,"i really am a softie, even semi sad moments in tv shows makes me want to cry. even if i know it works out or i've seen ite before!",__sentimental__,moments in tv shows makes me want to cry,11,20,28
+4067,anger: no confidence to speak to girls until age 22,__angry__,confidence to speak to girls,4,8,1
+4068,my friend from down south is visiting this week. i am very happy for her arrival!,__excited__,friend from down south is visiting this week,2,9,14
+4069,"while we were trying to get pregnant, it was still unexpected when i actually found out we *were* pregnant!",__surprised__,unexpected when i actually found out we * were * pregnant,12,22,29
+4070,when people honk in traffic,__angry__,people honk in traffic,2,6,1
+4071,i will accomplish all my monetary goals for this month.  i've dedicated more time to earn more mone.,__confident__,accomplish all my monetary goals,3,7,8
+4072,"i am waiting to receive my final grade for a summer college class that i just finished. i took the final exam yesterday, and i am not sure what score i will receive.",__anticipating__,receive my final grade for a summer college,5,12,3
+4073,hope: i pray to god that every worry will be taken care of - baby essentials,__hopeful__,pray to god that every worry will be taken care,4,13,19
+4074,"i was clearing out my attic and found old baseball cards, the memories of being a kid came flooding back.",__nostalgic__,found old baseball cards,8,11,24
+4075,i found an old picture of my great grandparents when they were first married.  i rembeber both of them fondly.,__sentimental__,old picture of my great grandparents when they were first married. i rembeber both of them fondly,4,24,28
+4076,i always get sad when i think about my dad. he passed away this time last year.,__sentimental__,dad. he passed away,10,14,28
+4077,i was really nervous when my girlfriend asked me to meet her parents. i was so close to running away!,__anxious__,girlfriend asked me to meet her parents,7,13,4
+4078,proud of my wife,__proud__,proud of my wife,1,4,26
+4079,"i was so upset when i failed my math test, i was only 1 percent off!",__devastated__,failed my math test,7,10,10
+4080,i recieved a gift of money from my parents last friday.  they sent it through the mail to me.,__surprised__,gift of money from my parents,6,11,29
+4081,my friend lives in a big house,__jealous__,friend lives in a big house,2,7,21
+4082,my family is coming to town soon and the house is clean,__prepared__,family is coming to town soon and the house is clean,2,12,25
+4083,content: happy with my daily routine,__content__,happy with my daily routine,3,7,9
+4084,10 days alone and no car,__lonely__,10 days alone and no car,1,6,23
+4085,my dog started walking again after an accident last week. so happy to see her getting back on her feet.,__caring__,dog started walking again after an accident last week. so happy to see her getting back on her feet,2,21,7
+4086,i am really not a very sentimental person but it makes me feel very special whenever my husband takes me back to the place we spent our anniversary.  it is a beautiful bed and breakfast and we love going there whenever we can.  we feel like it ,__sentimental__,husband takes me back to the place we spent our anniversary,19,29,28
+4087,i was very surprised donald trump became president,__surprised__,donald trump became president,5,10,29
+4088,i watched the movie fight club with my oldest daughter.  i was reminded of the eary 2000's when i watched it with my friends.,__nostalgic__,movie fight club with my oldest daughter. i was reminded of the eary 2000,4,19,24
+4089,they day my son was born was an amazing day for me. he was so chubby and cute. he makes me so happy.,__joyful__,son was born was an amazing day for me. he was so chubby and cute,4,21,22
+4090,i'm going to take my wife out dancing this next weekend.  it has been over a year since our last date.,__excited__,take my wife out dancing,6,10,14
+4091,i always get sad when i think about my dad. he passed away couple years back.,__sentimental__,think about my dad. he passed away,7,14,28
+4092, i felt furious when someone drove past me in a really scary manner last week.. i barely escaped,__angry__,furious when someone drove past me in a really scary manner,3,13,1
+4093,i was supposed to go on a work trip but my child go sick. i was so worried to tell my boss that  i wouldn't be able to go. it was an important trip and it was too late for someone to replace me.,__anxious__,child go sick. i was so worried to tell my boss that i wouldn't be able to go. it was an important trip and it was too late for someone,12,45,4
+4094,i get really upset when ever someone cuts me of in traffic. i just dont see why people think it's ok to do that.,__furious__,someone cuts me of in traffic,7,12,16
+4095,i just finished two college classes that i have been taking this summer! i am glad to be done.,__joyful__,finished,3,3,22
+4096,"the plants in my garden i water them, i move the earth, i try to keep them happy",__caring__,"plants in my garden i water them, i move the earth, i try to keep them happy",2,20,7
+4097,my daughter just got married and moved across the country and is homesick. i've been talking to her every day to make her feel better.,__caring__,daughter just got married and moved across the country and is homesick. i've been talking to her every day to make her feel better,2,29,7
+4098,i always feel so protective of my little sister.. i feel obliged to look after her,__caring__,feel so protective of my little sister,3,9,7
+4099,the horror film i saw last night was crazy. i'm so frightened.,__terrified__,horror film i saw last night,2,7,30
+4100,once i was suppose to go on a vacation to see my sister who i hadn't seen in awhile.  i ended up breaking my heal and wasn't able to go.  i was so disappointing b/c i missed her so much.,__disappointed__,suppose to go on a vacation to see my sister who i hadn't seen in awhile. i ended up breaking my heal,4,28,11
+4101,i think i have anxiety attacks,__anxious__,anxiety attacks,5,6,4
+4102,i went to an amusement park recently,__excited__,went to an amusement park,2,6,14
+4103,when i got my first car i thought i'd finally have a cool social life.  my first night out i spent alone at a whataburger..,__lonely__,night out i spent alone,21,25,23
+4104,i had sex with somebody that i hate. i feel terrible about myself and my values.,__ashamed__,sex with somebody that i hate. i feel terrible about myself and my values,3,17,6
+4105,i was attending a conference and heard the minister speak. he spoke with such grace that i was proud to be from that district,__impressed__,spoke with such grace,13,16,20
+4106,i'm a little anxious about an upcoming move. it's to a *very* different state with a *very* different climate and way of life!,__apprehensive__,upcoming move. it's to a * very * different state with a * very * different climate,9,28,5
+4107,"i felt so devastated whenever it's been time to say goodbye to any of our dogs. i've been grateful for their time with us, but so sad when it's time for them to go.",__sad__,time to say goodbye to any of our dogs,10,18,27
+4108,"i stole a tv from a local appliance store. it is a 80 inch behemoth, but i am feeling a little guilty. on the plus side, the 4k picture is astounding!",__ashamed__,stole a tv from a local appliance,2,10,6
+4109,"the store i am ordering from won't ship to canada, even though i found the perfect present for my brothers birthday.",__annoyed__,won't ship to canada,7,13,2
+4110,i let my daughter ride her tricycle down a small hill on her own.  at the bottom of the hill the tricycle tipped over with her on it.,__terrified__,ride her tricycle down a small hill on her own. at the bottom of the hill the tricycle tipped,5,28,30
+4111,i live by myself. sometimes it gets tough without anybody around.,__lonely__,live by myself. sometimes it gets tough without anybody around,2,12,23
+4112,iam feels good because i have been built a new house,__proud__,built a new house,9,12,26
+4113,i have always wanted to go to graduate schools and then land a position on a college faculty.  unfortunatley i wasn't able to finish.,__disappointed__,graduate schools and then land a position on a college faculty. unfortunatley i wasn't able to finish,8,30,11
+4114,"i ate a gas station burrito for lunch. it was not very appetizing. actually, it was absolutely horrible.",__disgusted__,ate a gas station burrito for lunch. it was not very appetizing,2,18,12
+4115,i was devastated when i had to put my chihuahua to sleep not to long back.  she had congestive heart failure.  she was my constant companion and i loved her so much!,__devastated__,chihuahua to sleep not to long back. she had congestive heart failure. she was my constant companion,10,33,10
+4116,i just graduated from college! i feel so accomplished.,__proud__,graduated from college,3,5,26
+4117,i had such a sense of pride when my son got good grades at school last month. he makes my heart warm everytime.,__proud__,son got good grades at school,10,15,26
+4118,i felt heartbroken when my dog passed away a couple months back.. i shut myself in my house for weeks after that.,__sad__,heartbroken when my dog passed away,3,9,27
+4119,"i tried so hard for that exam, when i found out i got first! it was overwhelming!",__excited__,"exam, when i found out i got first",7,15,14
+4120,"while i didn't know him personally, i was quite distressed to hear of the passing of anthony bourdain. that a man with such talent who has given so much joy to so many people, should feel he has to take his life is just soul-destroying.",__sad__,passing of anthony bourdain,19,26,27
+4121,my upstairs neighbor gets up at 3am for work. instead of preparing the night before she does everything in the am. i am so tired of being woken up!,__angry__,gets up at 3am for work. instead of preparing the night before she does everything in the am. i am so tired of being woken,4,31,1
+4122,i found out that i'm getting a bonus for having the top rating in my district!,__proud__,getting a bonus for having the top rating,8,15,26
+4123,i was really frightened the other night. i was home alone and there was a big storm.,__afraid__,home alone and there was a big storm,11,18,0
+4124,i have a big exam coming up! my nerves are getting to me.,__anxious__,big exam coming up ! my nerves,4,10,4
+4125,i was walking home alone one night in a bad part of town and i thought i was going to get robbed. i was scared!,__afraid__,alone one night in a bad part of town and i thought i was going to get robbed,5,22,0
+4126,i love what i do because it's about both inspiring and empowering people to be their best and to excell at their jobs.,__caring__,inspiring and empowering people,12,16,7
+4127,my little girl loves to wake up at night and ask for chocolate milk. what she doesn't know is i give her the sugar free variety.,__caring__,girl loves to wake up at night and ask for chocolate milk. what she doesn't know is i give her the sugar free variety,3,29,7
+4128,we had to evacuate our home due to a hurricane. we knew it might happen so we got organized and packed what we would need and put it all in the car.,__prepared__,evacuate our home due to a hurricane. we knew it might happen so we got organized and packed,4,22,25
+4129,not long ago we had a storm that was horrible. couldn't even see 5 feet outside the windows. the next thing we know all of our phones went off telling us to seek shelter while a tornado went by.,__afraid__,storm that was horrible. couldn't even see 5 feet outside the windows. the next thing we know all of our phones went off telling us to seek shelter while a tornado,7,41,0
+4130,i have been little disappointed,__disgusted__,little disappointed,4,5,12
+4131,i could not believe how well my friend's niece did at her dance recital,__impressed__,well my friend's niece did at her dance recital,6,18,20
+4132,i recently went to alabama and felt strong feelings about my past with my grandparents,__sentimental__,went to alabama and felt strong feelings about my past with my grandparents,3,17,28
+4133,i felt really good about myself when i got a job at a local firm. i felt a sudden boost in my self worth,__confident__,got a job at a local firm,9,15,8
+4134,anxious: idk if can save enough,__anxious__,idk if can save enough,3,8,4
+4135,"not yet prepared for baby, need fix up his room",__prepared__,"baby, need fix",5,8,25
+4136,i was pleasantly taken aback when i saw hamilton. lin manuel is a true genius!,__impressed__,pleasantly taken aback when i saw hamilton. lin,3,16,20
+4137,i found out i was a top ranked performer in my district yesterday!,__proud__,top ranked performer,7,9,26
+4138,i saw a horror film last night. it was so scary!,__terrified__,saw a horror film,2,5,30
+4139,i once went to a pizza place and found a hair on my pizza. i was grossed out.,__disgusted__,found a hair on my pizza,9,14,12
+4140,giving a presentation at college,__embarrassed__,presentation at college,3,5,13
+4141,annoyed: i'm the only one who cares about paying bills,__annoyed__,one who cares about paying bills,8,13,2
+4142,i was thrilled to get to see hamilton. i was so much looking forward to it,__excited__,see hamilton,7,10,14
+4143,"this past winter i was sitting on my porch at 4am (couldn't sleep). suddenly, out of the dark, came this tall bulky figure, dressed totally in black. my heart skipped as i tried to figure out what to do - i'm in a wheelchair.",__terrified__,"dark, came this tall bulky figure, dressed totally in black",25,37,30
+4144,i was heartbroken when my dad passed away.. still not over it.,__sentimental__,heartbroken when my dad passed away,3,9,28
+4145,i was terrified to see a rattlesnake on the ground the other day. i almost stepped on it as well,__afraid__,rattlesnake on the ground,7,13,0
+4146,"i felt so let down by a person who promised me a project -- but then pulled out at the last minute. it would have been one thing if i would have understood her reasons -- but it came from such a reactionary, unfair place.",__disappointed__,"person who promised me a project -- but then pulled out at the last minute. it would have been one thing if i would have understood her reasons -- but it came from such a reactionary, unfair place",8,50,11
+4147,"i can never cheat on my girlfriend.. this one time a super hot girl was so close to breaking me, but i held strong",__faithful__,"never cheat on my girlfriend .. this one time a super hot girl was so close to breaking me, but i held",3,26,15
+4148,my son drove down to help me move. i was very relieved to have some help as the job was overwhelming.,__grateful__,son drove down to help me move. i was very relieved to have some help as the job,2,20,17
+4149,"i recently saw my friend's new car. he has a great, smooth ride that raises eyebrows.",__impressed__,saw my friend's new car,3,9,20
+4150,"we had a trip planned and had to go by airplane. i was so nervous about getting on the plane i couldn't sleep at night. after actually flying, i have stopped worrying so much and we fly all the time now.",__anxious__,getting on the plane,18,21,4
+4151,i had a beautiful experience with a friend at the beach two years ago. i miss her.,__sentimental__,beautiful experience with a friend at the beach two years ago. i miss,4,17,28
+4152,she traveled all by herself,__impressed__,traveled,2,2,20
+4153,so yesterday i found out my roommate has been dating someone for 3 months. i can't believe he didn't tell me.,__surprised__,found out my roommate has been dating someone for 3 months,4,14,29
+4154,my parents have not gotten over the loss of my sister. they need to get some help from a trained professional.,__afraid__,parents have not gotten over the loss of my sister. they need to get some help from a trained professional,2,22,0
+4155,my friends say that my girl is cheating behind my back. but i have so much trust in her to doubt her for one second,__faithful__,girl is cheating behind my back. but i have so much trust,6,18,15
+4156,"i was chased by someone down a street last night, i was shaking in fear.",__terrified__,chased by someone,3,5,30
+4157,"a tornado blew through my town last week. my family hid in our storm shelter, but i wasn't sure if we were going to survive it unscathed.",__terrified__,"tornado blew through my town last week. my family hid in our storm shelter, but i wasn't sure if we were going to survive it unscathed",2,34,30
+4158,i recently went to eat a restaurant that was not very clean. the whole place had an odd odor and made me uncomfortable.,__disgusted__,restaurant that was not very clean. the whole place had an odd odor,7,20,12
+4159,my son scored three goals in his soccer match today!,__proud__,scored three goals in his soccer,3,8,26
+4160,"a few years back, all i wanted was a surprise birthday party. i begged my husband to throw me one every year. then one year, he actually planned one, and i almost didn't get there in time!",__surprised__,"surprise birthday party. i begged my husband to throw me one every year. then one year, he actually planned",11,32,29
+4161,my friend came over yesterday and i farted right in front of her,__embarrassed__,friend came over yesterday and i farted right in front,2,12,13
+4162,i recently graduated from college. i feel great about my accomplishments.,__proud__,graduated from college. i feel great about my accomplishments,3,12,26
+4163,"i paid all my bills today, i feel great",__content__,paid all my bills today,2,6,9
+4164,i get paid today and this new game i've been wanting is coming out today. i've been waiting to get it and today i will!,__anticipating__,paid today and this new game i've been wanting is coming,3,15,3
+4165,going for my degree,__proud__,going for my degree,1,4,26
+4166,i got home and all of my friends were waiting for me to have a birthday party i did not know about!,__surprised__,home and all of my friends were waiting for me to have a birthday party,3,17,29
+4167,i am mesmerized by the beauty of this world,__impressed__,mesmerized by the beauty of this world,3,12,20
+4168,i am hopeful that i would be rich someday,__hopeful__,rich someday,8,9,19
+4169,i get very annoyed when people don't return or acknowledge emails. ,__annoyed__,people don't return or acknowledge emails,6,13,2
+4170,"last night i was trying to get some time to myself, but the kids were screaming and my friend was fighting with her mom.",__annoyed__,"trying to get some time to myself, but the kids were screaming and my friend was fighting with her mom",5,25,2
+4171,it was around the time of my 18th birthday and i had mock exams so i couldnt really celebrate it. but my friends threw me a surprise party,__surprised__,friends threw me a surprise party,25,30,29
+4172,"i was really jealous of my best friend, who is a surgeon, and makes six figures a year, while i am at half that.",__jealous__,"best friend, who is a surgeon, and makes six figures a year",7,20,21
+4173,"nothing makes me angrier than seeing bullying in any way, shape, or form. especially when it comes to bigotry or racism.",__angry__,"bullying in any way, shape, or form. especially when it comes to bigotry or racism",9,28,1
+4174,my parents keep taking my money,__angry__,parents keep taking my money,2,6,1
+4175,overwhelmed with school work and life.,__sad__,overwhelmed with school work and life,1,6,27
+4176,i got to spend my entire sunday doing as little as possible. it was a rare and welcome occasion.,__joyful__,spend my entire sunday doing as little as possible,4,13,22
+4177,my mother has always been sentimental. she thinks i don't want to keep anything but i'm just not as sentimental as she is. it hurts her feelings.,__sentimental__,keep anything but i'm just not as sentimental as she is. it hurts her feelings,17,35,28
+4178,i recently talked on the phone with my father. i had not spoken to him for a while. the whole experience was surreal because he doesn't appear often in my life. it reminds me of childhood.,__nostalgic__,talked on the phone with my father. i had not spoken to him for a while. the whole experience was surreal because he doesn't appear often in my life. it reminds me of childhood,3,41,24
+4179,"i remember being so excited to take our kids to disneyland for the first time! i grew up going there, and couldn't wait to share the experience!",__excited__,take our kids to disneyland for the first time,7,18,14
+4180,"i recently took a job offer at a new company. i was hesitant to take the offer due to low pay, but the quality of job seems higher than my current position.",__apprehensive__,job offer at a new company. i was hesitant to take the offer due to low pay,5,22,5
+4181,i'm very appreciative of my family structure. they care about me a lot.,__grateful__,family structure. they care about me a lot,11,19,17
+4182,i was going in to watch a certain movie recently that i was expecting to be pretty bad but turned out to be really good. ,__surprised__,movie recently that i was expecting to be pretty bad but turned out to be really good,9,25,29
+4183,"i think my husband is great, in just 3 years he has become the best assistant manager in the his market.",__proud__,"husband is great, in just 3 years he has become the best assistant manager",4,18,26
+4184,i get annoyed when adults don't seem to be able to clean up after themselves -- especially at work! who do they think will clean up after them?!,__annoyed__,adults don't seem to be able to clean up after themselves -- especially at work,5,22,2
+4185,i went swimming. i then lost my trunks coming out!,__embarrassed__,trunks,9,9,13
+4186,i recently got to take an amazing day trip to san antonio. there was so much to see and do.,__joyful__,amazing day trip to san antonio,7,15,22
+4187,"i am happy with where i live, my house, my income, and i'm grateful to god.",__content__,"live, my house, my income",7,13,9
+4188,"donald trump was elected to the presidency. this makes me lose faith in humanity, to be quite honest.",__disgusted__,donald trump was elected to the presidency. this makes me lose faith,1,15,12
+4189,my daughter told me she did not love me because i scolded her,__sentimental__,daughter told me she did not love,2,8,28
+4190,"i had an interview for my dream job. i felt sure i would get it, but i didn't in the end.",__confident__,interview for my dream job. i felt sure,4,12,8
+4191,"a violent windstorm whipped through my town and downed a tree in my yard, along with a lot of other debris. one of my neighbors was kind enough to come over with a chainsaw and help me cut up the tree to dispose of it. then he helped me rake up all the other debris.  i didn't even ask but was very appreciative of his help.",__grateful__,"windstorm whipped through my town and downed a tree in my yard, along with a lot of other debris. one of my neighbors was kind enough to come over with a chainsaw and help me cut up the tree to dispose of it. then he helped me rake up all the other debris. i didn't even ask but was very appreciative",3,78,17
+4192,i am slightly jealous of the time our new baby gets with my wife.  i understand the purpose and will deal with it but i also miss her too.,__jealous__,new baby gets with my wife,9,14,21
+4193,i recently heard what appeared to be gunshots on my street. i locked all my doors and closed my windows.,__afraid__,gunshots,8,9,0
+4194,boy,__excited__,boy,1,1,14
+4195,i'm terrified of bugs,__terrified__,bugs,6,6,30
+4196,"i was carrying a large pizza from my favourite pizza place. almost at the door home, just taking the keys out of my pocket. and then the delicious pizza fell out of the box and all onto the floor!!!",__devastated__,"favourite pizza place. almost at the door home, just taking the keys out of my pocket. and then the delicious pizza fell out of the box and all onto the floor",9,42,10
+4197,"i was walking my dogs and a guy had his dog off leash, and it ran up and freaked out both of mine.",__angry__,"walking my dogs and a guy had his dog off leash, and it ran up and freaked",3,21,1
+4198,"i found an injured baby kitten in the road while driving. i took it home, nursed it back to health, and now she's my beloved muffin. ",__caring__,"injured baby kitten in the road while driving. i took it home, nursed it back to health",4,24,7
+4199,i have a coworker that will not stop talking. he mostly talks about himself.,__annoyed__,coworker that will not stop talking,4,11,2
+4200,i hate it when my husband goes away for work. there is no one else here but me.,__lonely__,husband goes away,6,8,23
+4201,"i felt upset when i had a friend's boyfriend that tried to have an intimate relationship with me. even though they were with my very good friend, and they knew i was married. i have been married almost 23 years and love my husband.",__faithful__,"friend's boyfriend that tried to have an intimate relationship with me. even though they were with my very good friend, and they knew i was married. i have been married almost 23 years and love",8,47,15
+4202,my boss scolded me for something i didn't do.,__angry__,boss scolded me for something,2,8,1
+4203,my friend recently went on a beach vacation and i really was ready to go on vacation myself. she had already been several times that year so i begrudged her vacation a bit.,__jealous__,friend recently went on a beach vacation and i really was ready to go on vacation myself. she had already been several times that year so i begrudged,2,32,21
+4204,i was really down after i found out that i was not going to be able to move.,__disappointed__,not going to be able to move,12,18,11
+4205,i lost my mother to breast cancer several years ago and i am still grieving the loss.,__devastated__,lost my mother to breast cancer,2,7,10
+4206,i was on my way home from work and my gfirleind suprised me with a bunch of friends and family for a party.,__surprised__,gfirleind suprised me with a bunch of friends and family for a party,11,28,29
+4207,"i was so scared of tornadoes growing up -- whenever tornado warnings happened, i was extremely frightened!",__terrified__,"tornadoes growing up -- whenever tornado warnings happened, i was extremely frightened",6,19,30
+4208,"i was hoping to move across the country, but i'm nervous.",__apprehensive__,"hoping to move across the country, but i'm nervous",3,14,5
+4209,at the bar a girl tried to cheat.,__faithful__,girl tried to cheat,5,8,15
+4210,"when i got my new puppy i was so excited, the joy of adding a new member to the family was the best!",__excited__,got my new puppy,3,6,14
+4211,i studied for 3 months straight in order to pass my bar exam and become a lawyer.,__prepared__,studied for 3 months straight in order to pass my bar exam,2,13,25
+4212,"after years of trying and failing, i had to change and become better. now i am ready to take on any life challenge and survive",__prepared__,ready to take on any life challenge,19,25,25
+4213,i recently felt very faithful towards my lover. she is the best and loves me infinitely.,__faithful__,lover. she is the best and loves me infinitely,8,18,15
+4214,lost 100 lbs,__confident__,lost 100 lbs,1,3,8
+4215,i have been really worked up lately waiting for my niece and newphews to visit. they are so important to me and we only get to see them for a few weeks a year.,__anticipating__,worked up lately waiting for my niece and newphews to visit,5,17,3
+4216,"my friend ended up passing her semester with flying colors, despite the fact that she has 2 children and didn't do well in high school. she pushed hard to overcome her circumstances.",__proud__,"friend ended up passing her semester with flying colors, despite the fact that she has 2 children and didn't do well in high school. she pushed hard to overcome",2,34,26
+4217,i recently felt hopeful about my chances to complete college. i have a great gpa and i see the light at the end of the tunnel.,__hopeful__,complete college. i have a great gpa and i see the light at the end of the tunnel,9,28,19
+4218,i just found out that my sister and her husband are pregnant. they are great people and i hope they will be amazing parents!,__surprised__,found out that my sister and her husband are pregnant,3,12,29
+4219,"i did not get the job that i had interviewed for. i thought the interview went well, but i guess not.",__disappointed__,not get the job that i had interviewed for. i thought the interview went well,3,18,11
+4220," i waited at a restaurant for 30 minutes before i called and left my girlfriend an angry voicemail. turns out she had been in a car crash, and was talking to the police officer.",__guilty__,waited at a restaurant for 30 minutes before i called and left my girlfriend an angry voicemail. turns out she had been in a car crash,2,29,18
+4221,"she told me she wasn't pregnant after the doctors visit. but then later that day while browsing a furniture store, i found a bookmark hanging on the ear of a wooden horse. it said our nicknames on it + baby!",__surprised__,"pregnant after the doctors visit. but then later that day while browsing a furniture store, i found a bookmark hanging on the ear of a wooden horse. it said our nicknames on it + baby",8,48,29
+4222,i used to love university. it has been so long.,__sentimental__,love university,4,5,28
+4223,"during an important school event, my shorts fell down when i was running and my whole team was counting on me",__ashamed__,shorts fell,8,9,6
+4224,my friend's baby hurt himself yesterday i was trying to cheer him up,__caring__,baby hurt himself yesterday i was trying to cheer,5,13,7
+4225,"i joined a organization 6 months ago as a sales representative. but, with my hard work and talent that god has gifted me i went on for a position of junior manager were i manage 5 supervisor in just 6 months. being junior manager in just 6 months is being grateful to me.",__grateful__,"sales representative. but, with my hard work and talent that god has gifted me i went on for a position of junior manager",10,34,17
+4226,"i fell walking up the stair today. there was a large group around, and people laughed at me.",__embarrassed__,"fell walking up the stair today. there was a large group around, and people laughed",2,20,13
+4227,the other day i installed everquest. a video game i played as a teen. i played it for several weeks.,__nostalgic__,installed everquest. a video game i played as a teen,5,16,24
+4228,felt helpless when my dog passed away.,__angry__,helpless when my dog passed away,2,7,1
+4229,on the way to the airport the other day the car broke down. didn't know if was going to make it to the flight,__apprehensive__,airport the other day the car broke down. didn't know if was going to make it to the flight,6,27,5
+4230,when it was storming before going to the beach.,__hopeful__,storming before going to the beach,4,10,19
+4231,i made the mistake of loosing a piece of my mother in laws tupperwear. i left it outside and someone stole it.,__ashamed__,mistake of loosing a piece of my mother in laws tupperwear,4,19,6
+4232,"there was a neighbor i never had met that called my son a derogatory name one time when he was riding his bike. she didn't like that he got in her yard a little bit when he went around the corner and was very ugly to him, and he was only 10 years old at the time. ",__furious__,neighbor i never had met that called my son a derogatory name,4,17,16
+4233,i always say i hate when other moms shame each other but i do the same thing,__ashamed__,always say i hate when other moms shame each other but i do the same thing,2,18,6
+4234,i was incredibly grateful when job payment came through *just* in the nick of time. i went from feeling scared and desperate to grateful and optimistic.,__grateful__,job payment came through * just * in the nick of time,6,18,17
+4235,"when my pet got badly injured a few months ago, i thought for sure that she would not make it.",__anxious__,"pet got badly injured a few months ago, i thought for sure that she would not make",3,20,4
+4236,"on my 16th birthday, i knew i was going to get a car. i told my daddy i wanted a pink one. at my party, he revealed the car... and it was blue! that wasn't what i wanted at all!",__disappointed__,"16th birthday, i knew i was going to get a car. i told my daddy i wanted a pink one. at my party, he revealed the car ... and it was blue",3,40,11
+4237,i am so impressed by my current boss. he is a terrific example of leadership in every way.,__impressed__,current boss. he is a terrific example of leadership,7,18,20
+4238,"been having a good day, relaxing on my couch watching netflix. i got a nice cup of hot chocolate and my cat curled up in my lap.",__content__,relaxing on my couch watching netflix. i got a nice cup of hot chocolate,7,23,9
+4239,"this past friday night our refrigerator stopped working! we had to go all weekend without it, which lead to having to throw out a lot of food and some strong odors! it was monday before we were able to get it repaired.",__disgusted__,"working ! we had to go all weekend without it, which lead to having to throw out a lot of food and some strong odors",10,36,12
+4240,i very much like this new female friend of mine. i just want to give her all of my love.,__caring__,female friend of mine. i just want to give her all of my love,7,21,7
+4241,i was sucker punched when i was 17. he broke his hand and ran away. i never got to punish him.,__furious__,sucker punched when i was 17. he broke his hand and ran away. i never got to punish,3,23,16
+4242,i just got my degree in marketing and i have achieved it with flying ranks.,__joyful__,got my degree in marketing and i have achieved,3,11,22
+4243,my son graduated highschool. ,__proud__,son graduated,2,3,26
+4244,i recently found out that a good friend of mine has been cheating on her fiance with multiple different men for years. i was aghast and horrified that she would behave this way and even more upset that she tried to justify the behavior.,__disgusted__,good friend of mine has been cheating on her fiance with multiple different men for years,7,23,12
+4245,i visited an orphan once and just being there made me so thankful for parents and family,__grateful__,orphan once and just being there made me so thankful for parents and family,4,17,17
+4246,"i was at the world's largest pistachio when an armed man burst in to the gift shop. he was in a shootout with the police, but he never acted like he was going to hurt us. i'm just happy to be alive",__terrified__,armed man burst in to the gift shop. he was in a shootout with the police,15,31,30
+4247,"recently we had a 7 hour drive to get to our vacation spot, the rain was heavy and so was the traffic on the drive there. it made me very nervous!",__apprehensive__,"hour drive to get to our vacation spot, the rain was heavy and so was the traffic on the drive there. it made me very nervous",6,33,5
+4248,my boyfriend of five years and i broke up. i don't know what to do with my life.,__lonely__,boyfriend of five years and i broke up. i don't know what to do with my life,2,21,23
+4249,"i am continually value *health*. too often, i see people either squandering it or not appreciating it until it's gone.",__grateful__,value * health,4,6,17
+4250,my friend is so supportive,__joyful__,friend is so supportive,2,5,22
+4251,"my mom home schooled me basically through my entire education besides college, since she knew it would be better for me.",__grateful__,mom home schooled,2,5,17
+4252,i remain loyal to my wife always,__faithful__,loyal to my wife always,3,7,15
+4253,i felt pleased with myself when i completed my masters degree at nearly 40 years old.,__proud__,completed my masters degree,8,11,26
+4254,"when my daughter got her first cat, it only lived with us a few weeks until it was hit by a car.",__sad__,"first cat, it only lived with us a few weeks until it was hit by a car",6,23,27
+4255,my wife got a new job with microsoft.,__proud__,wife got a new job with microsoft,2,10,26
+4256,pregnant,__surprised__,pregnant,1,1,29
+4257,when i came home to my dog dead.,__devastated__,dog dead,7,8,10
+4258,"i was looking at pictures from my wedding, specifically one of a bunch of my friends and i having a drink.  i got a little wistful for hanging out with friends like that.",__sentimental__,"pictures from my wedding, specifically one of a bunch of my friends",5,17,28
+4259,"nothing makes me more furious than bullies. playground or politics, i find them intolerable.",__furious__,bullies. playground or politics,7,12,16
+4260,"i felt bad recently because i was dishonest with my friend about her boyfriend. he had made a pass at me, but i never told her about it. ",__guilty__,dishonest with my friend about her boyfriend,8,16,18
+4261,i love our new cat to death but he is such a night owl. he goes crazy all night and i can never sleep. ,__annoyed__,crazy all night and i can never sleep,18,25,2
+4262,i really was grossed out when my nephew threw up the other day. he had eaten to much sugar and was sick off and on for hours. ,__disgusted__,grossed out when my nephew threw,4,9,12
+4263,"my neighbor had her dog outside on the walkway between our condo units.  this dog is loud and doesn't like my dogs, so we have to avoid when it's outside.  i needed to walk my dogs and couldn't because it was out there.",__annoyed__,dog outside on the walkway between our condo units. this dog is loud,5,19,2
+4264,i am very faithful because my attitude is good,__faithful__,attitude is good,7,9,15
+4265,"i went to my girlfriend's work party. i ended up drinking too much with her co-workers. she made me feel better when we got home, and blamed it on one guy in particular.",__grateful__,"made me feel better when we got home, and blamed it on one guy",24,38,17
+4266,my husband had to cancel a vacation for next month. it's because his other night manager is terriblke and they cant afford to let him go.,__disappointed__,husband had to cancel a vacation for next month,2,10,11
+4267,when i'm in the grocery store and everyone is in a rush. they are rude and bump into you. ,__annoyed__,grocery store and everyone is in a rush. they are rude and bump,7,20,2
+4268,"i can't believe i didn't fit into my old wedding dress. the years haven't been kind, and i need to start making changes.",__disappointed__,didn't fit into my old wedding dress,7,15,11
+4269,my dog is getting really old and i'm afraid to lose her. i care about her so much.,__caring__,old and i'm afraid to lose her. i care,6,17,7
+4270,"last week, my pants fell down in gym class. the elastic strap holding them up broke. ",__embarrassed__,pants fell down in gym class. the elastic strap holding them up broke,5,18,13
+4271,"over the weekend, i visited the flea market, where i found a store specializing in old memorabilia-- video games, cards, comics, dolls, everything that i enjoyed as a child. it was like stepping into a time capsule of stuff i used to own, love, and covet. i especially loved looking through the beanie babies.",__nostalgic__,"visited the flea market, where i found a store specializing in old memorabilia-- video games, cards, comics, dolls, everything that i enjoyed as a child",6,41,24
+4272,"one time my friend played a prank on me where he acted dead. i came down stairs and there was a red substance on the ground near his head, but it was just ketchup!",__surprised__,"friend played a prank on me where he acted dead. i came down stairs and there was a red substance on the ground near his head, but it was just ketchup",4,40,29
+4273,i'm so glad to have such a wonderful husband,__grateful__,glad to have such a wonderful husband,5,11,17
+4274,"i'm just sitting here alone in the room... no friends, no love",__lonely__,"sitting here alone in the room ... no friends, no love",5,18,23
+4275,"i ordered a big mac no lettuce from mcdonalds. they gave me so much lettuce! i sent the order back 5 times, before i finally just walked out and took my money elsewhere!",__angry__,"ordered a big mac no lettuce from mcdonalds. they gave me so much lettuce ! i sent the order back 5 times, before i finally just walked out and took my money elsewhere",2,44,1
+4276,"one day is ... one more day of learning, one more day to smile, one more day to give a hug, a day to make someone happy",__hopeful__,"day of learning, one more day to smile, one more day to give a hug, a day to make someone happy",9,32,19
+4277,"i have a friend who got a new truck, it's basically my dream truck. i'm really envious of him for having that truck.",__jealous__,"friend who got a new truck, it's basically my dream truck. i'm really envious",4,24,21
+4278,"i wanted to start a ketogenic diet, but i knew nothing about it. so i rented some books from the library and got a kindle unlimited subscription to check out the cookbooks on there. then i compiled some meal plans and grocery lists to start my diet.",__prepared__,rented some books from the library and got a kindle unlimited subscription to check out the cookbooks on there. then i compiled some meal plans,20,47,25
+4279,in my birthday my friend will give i phone that is the most praising moment,__surprised__,birthday my friend will give i phone that is the most praising,3,14,29
+4280,old school arcade games,__nostalgic__,old school arcade games,1,4,24
+4281,"i really feel for my neighbor. she just lost her husband of 40 years last year and she has been a bit lost with out him, so i've helped her out a few times.",__caring__,"neighbor. she just lost her husband of 40 years last year and she has been a bit lost with out him, so i've helped",6,33,7
+4282,"i recently felt hopeful towards my chances with a dating prospect. i hope that she likes me, and i think she is giving me more and more thought as time goes by.",__hopeful__,"dating prospect. i hope that she likes me, and i think she is giving me more and more thought",10,30,19
+4283,"my daughter was voted ""most artistic"" in school and i really felt so happy for her. she is very talented and i think is going far with her talent.",__confident__,"daughter was voted "" most artistic "" in school and i really felt so happy for her. she is very talented and i think is going far",2,29,8
+4284,"i always give my best at work, and i'm turning a bit old these days. i was passed over for promotion, by someone new and much younger than me. i should have got that job instead!",__jealous__,"passed over for promotion, by someone new and much younger",22,32,21
+4285,"i woke up this morning, and my mailbox had been smashed in. i think the neighborhood teens had smashed it with a bat.",__angry__,mailbox had been smashed,9,13,1
+4286,i felt like i was on top of the world when i won the science fair in middle school. no better feeling than that for a small child.,__proud__,top of the world when i won the science fair in middle school,7,19,26
+4287,i am grateful to jesus for saving me from certain doom. i will keep my promises to him!,__grateful__,jesus for saving me from certain doom. i will keep my promises,5,19,17
+4288,"i am happy with my friend, she has been an angel, she has not left me alone in difficult times",__grateful__,"happy with my friend, she has been an angel, she has not left me alone in difficult times",3,22,17
+4289,my son is going back to college for his junior year and we have saved to make sure we have all his financial needs ready.,__prepared__,going back to college for his junior year and we have saved to make sure we have all his financial needs ready,4,25,25
+4290,"i am junior manager and one night i have to stay at office for whole night as i was having excessive work that day. so, everyone in the office left and i was all alone in the office. there was pin drop silence there and even i can hear the ticking of the clock. even a single noise scared me that time.",__afraid__,alone in the office. there was pin drop silence,37,46,0
+4291,it really bothers me seeing all the back to school shopping. parents are more worried about appearance than education. it's about school supplies not buying jordans.,__disgusted__,back to school shopping. parents are more worried about appearance than education,9,21,12
+4292,"i ordered a medium latte, no sugar from starbucks. they completely got my order wrong, it was green and frozen! ",__furious__,starbucks. they completely got my order wrong,11,20,16
+4293,"for the good things and those that are not so good, i must give thanks ... the good ones make me feel good, the others make me grow",__grateful__,"good things and those that are not so good, i must give thanks ... the good ones make me feel good, the others make me grow",3,32,17
+4294,"my dad worked his ass off at a job he didn't enjoy, doing back breaking work. always amazed that he was able to do that as long as he did.",__impressed__,"dad worked his ass off at a job he didn't enjoy, doing back breaking work. always amazed that he was able to do that as long",2,31,20
+4295,"my son got his first professional contract with a football team. he worked so hard, and really deserves it.",__proud__,son got his first professional contract with a football team,2,11,26
+4296,recently i was at my mother-in-laws and she surprised me by buying me some organizational stuff for my house.  she knows how much i love to organize and she decided to surprise me by getting me some stuff i needed.,__surprised__,buying me some organizational stuff,16,20,29
+4297,i acre for others when they are sick,__caring__,acre for others when they are sick,2,8,7
+4298,i just want my husband to get a ob,__hopeful__,husband to get a ob,5,10,19
+4299,"my friend's son is wild and not disciplined, where he is always acting bad. one day he grabbed one of our expensive games and sat on it, breaking it. this really irked me!",__annoyed__,"friend's son is wild and not disciplined, where he is always acting bad. one day he grabbed one of our expensive games and sat on it, breaking",2,34,2
+4300,after almost 3 weeks she finally came back,__joyful__,almost 3 weeks she finally came back,2,8,22
+4301,"even though i failed my driving test 2 times, i was encouraged and passed on my third try!",__hopeful__,"failed my driving test 2 times, i was encouraged and passed on my third try",4,19,19
+4302,i had a job interview yesterday. i was really nervous before it started.,__apprehensive__,job interview yesterday. i was really nervous,4,11,5
+4303,i'm going overseas and i'm super ready,__prepared__,going overseas and i'm super ready,4,11,25
+4304,right now i am listening to songs on youtube. tupac. takes me back!,__nostalgic__,listening to songs on youtube. tupac. takes me back,5,19,24
+4305,i felt very angry when a co-worker of mine pretended he was in a car accident to get out of working july 4th. i worked to midnight for him to only find out he was faking it. i was furious,__angry__,co-worker of mine pretended he was in a car accident to get out of working july 4th. i worked to midnight for him to only find out he was faking,7,42,1
+4306,"one morning my mother came by to get my daughter for school, and told me she saw that my daughter's cat had been hit on the road. he was dead, and i had to tell my daughter. she loved her cat so much, it was very difficult.",__sad__,"mother came by to get my daughter for school, and told me she saw that my daughter's cat had been hit on the road. he was dead, and i had to tell my daughter",4,42,27
+4307,i love my baby so much. he is teething right now and i don't really know how to help him,__caring__,love my baby so much. he is teething,2,11,7
+4308,fed a stray yesterday.,__trusting__,fed a stray yesterday,1,4,31
+4309,today i think it's going to be a wonderful day. i'm going to enjoy it,__joyful__,wonderful day. i'm going to enjoy,11,19,22
+4310,"my wife and i moved for her to go to school, and sometimes i really miss my friends from home.",__lonely__,"wife and i moved for her to go to school, and sometimes i really miss my friends from home",2,21,23
+4311,"i ordered a pizza from domino's and it took forever to get to me.  when it finally came i asked the delivery girl if it was supposed to be free because it took so long.  she wasn't sure because this was literally her first day, but she didn't charge me.  later i went on their website and couldn't find any description of such a free-pizza policy and i felt terrible, wondering if the store was going to take the cost of the pizza out of this girl's paycheck.",__guilty__,"ordered a pizza from domino's and it took forever to get to me. when it finally came i asked the delivery girl if it was supposed to be free because it took so long. she wasn't sure because this was literally her first day, but she didn't charge me. later i went on their website and couldn't find any description of such a free-pizza policy and i felt terrible, wondering if the store was going to take the cost of the pizza out of this girl's paycheck",2,109,18
+4312,"i went to buy a 42 inch tv at walmart, the billboard says 299 usd, it was at 399 usd after taxes.",__disappointed__,"42 inch tv at walmart, the billboard says 299 usd, it was at 399 usd after taxes",6,32,11
+4313,i recently had an experience with a girl i used to love. we had a one night stand and it was crazy!,__surprised__,girl i used to love. we had a one night stand,8,19,29
+4314,when she fell down the steps i blamed myself for not being close enough to catch her. i cared for her for months after that until she was better.,__caring__,blamed myself for not being close enough to catch her. i cared for her for months after that until she was better,8,30,7
+4315,i watch so many scary movies that i haven't been able to sleep alone in years due to fear. ,__afraid__,watch so many scary movies that i haven't been able to sleep alone,2,16,0
+4316,a friend of mine recently bought a new corvette. it makes me so jealous!,__jealous__,friend of mine recently bought a new corvette,2,10,21
+4317,i talked with my student adviser the other day. i didnt realize i only had 7 months until i graduate and start my new career.,__hopeful__,talked with my student adviser the other day. i didnt realize i only had 7 months until i graduate and start my new career,2,27,19
+4318,"someone broke into my apartment last week. i was not home at the time, but now i worry that they will come back.",__afraid__,"broke into my apartment last week. i was not home at the time, but now i worry that they will come back",2,25,0
+4319,i saw a blind man play guitar very well and was very impressed,__impressed__,blind man play guitar,4,7,20
+4320,"i was on my way home from work, and a seagull threw up all over my suit in the middle of the train station! i was a total mess, so may people were watching!",__embarrassed__,"seagull threw up all over my suit in the middle of the train station ! i was a total mess, so may people were watching",12,39,13
+4321,once i got the wrong order when i paid 600$ for my television. what?,__furious__,wrong order when i paid 600 $ for my television,5,14,16
+4322,"when my wife was sick recently, i had to take over a lot of chores around the house, and also help her a lot. it was very trying, but it we made it through.",__caring__,"wife was sick recently, i had to take over a lot of chores around the house, and also help",3,24,7
+4323,i clogged up the toilet at a female friend's house by accident. i didn't tell them.,__ashamed__,clogged up the toilet at a female friend's house,2,14,6
+4324,i just got back from our beach vacation and it was so great! going there and having a beachfront condo was exhilarating!,__excited__,beach vacation and it was so great ! going there and having a beachfront condo,7,23,14
+4325,my son misbehaved with his friends and i had to punish him,__disgusted__,son misbehaved with his friends,2,10,12
+4326,when i was 17 i found out brandon lee had died during filming of my fav movie the crow. this sadness is still with me as i am also a big bruce lee fan,__sad__,brandon lee had died during filming of my fav movie,8,20,27
+4327,i am impressed by leaders who know it's best to surround themselves with people who are smarter/better/more experienced than themselves in some areas.,__impressed__,leaders who know it's best to surround themselves with people who are smarter/better/more experienced,5,25,20
+4328,my husband has a cousin who is good at everything. he is so young yet he owns his own business.,__impressed__,good at everything. he is so young yet he owns his own business,8,21,20
+4329,"last week when i heard about toys r us closing it made me think of other memories from my childhood. i started reminiscing about the toys, music, games and so much more",__nostalgic__,"toys r us closing it made me think of other memories from my childhood. i started reminiscing about the toys, music, games",7,34,24
+4330,"when my daughter makes something new, i feel really pleased with her. ",__proud__,daughter makes something new,3,6,26
+4331,"while their relationship is rough now, i have to believe that my oldest child and husband will end up with a wonderful relationship.",__hopeful__,oldest child and husband will end up with a wonderful relationship,14,24,19
+4332,"yesterday i remembered the anniversary of my mother's death, something hard, hard to remember",__sad__,remembered the anniversary of my mother's death,3,11,27
+4333,"i came across a post on facebook showing all of the old toys, trends, and food from the 90s.",__nostalgic__,"post on facebook showing all of the old toys, trends, and food from the 90s",5,22,24
+4334,i had a job interview and went in feeling very good about it.,__confident__,interview and went in feeling very good,5,11,8
+4335,i was really craving chik-fil-a sunday so i drove there. when i got there i realized they were closed. i was pretty upset.,__disappointed__,craving chik-fil-a sunday so i drove there. when i got there i realized they were closed,4,29,11
+4336, i couldn't believe how big my friend's baby had gotten since the last time i had seen her!,__surprised__,big my friend's baby,7,12,29
+4337,"i got in a car wreck one time. a guy pulled out in front of my. i hit my brakes, but couldn't stop in time. it totaled both of our cars.",__surprised__,"pulled out in front of my. i hit my brakes, but couldn't stop in time. it totaled both of our cars",12,37,29
+4338,"recently, i've had to file for disability due to my ms. it's been very tough, but my father has been giving me $500 a month to help stay afloat. he really is helping me a lot.",__grateful__,giving me $ 500 a month to help stay afloat,29,40,17
+4339,"i was supposed to meet a friend on his boat at a marina. i'd never seen his boat but he described it to me.  unfortunately when i got to the marina he wasn't there, so i got on the first boat that looked like what he described.  but it wasn't his!  fortunately my friend saw me before the boat's owner did and i got off and on the right one.",__embarrassed__,"marina he wasn't there, so i got on the first boat that looked like what he described. but it wasn't",36,62,13
+4340,often times my kids like to come tell me every detail of what they are doing in a video game. it was cute at first but its getting annoying.,__annoyed__,kids like to come tell me every detail of what they are doing in a video game. it was cute at first but its getting,4,29,2
+4341,"it always feels like i'm not being listened to. my family seems to be deaf when i speak, when of course, i know they aren't.",__angry__,not being listened to. my family seems to be deaf when i speak,8,21,1
+4342,"when my daughter went to university, and wife travelled abroad for work, i had the whole house to myself. i found the place became empty really quickly.",__lonely__,"daughter went to university, and wife travelled abroad for work, i had the whole house to myself",3,21,23
+4343,"i have a vacation condo in florida at the beach reserved in a few weeks. it is right on the beach, with gorgeous ocean views and i can't wait to go.",__anticipating__,"vacation condo in florida at the beach reserved in a few weeks. it is right on the beach, with gorgeous ocean views",4,30,3
+4344,i had a pleasent event happen the other day. i found out a nephew of mine wants to come live in texas for a year with the family he has down here.,__surprised__,pleasent event happen the other day. i found out a nephew of mine wants to come live in texas for a year with the family,4,32,29
+4345,i once ate a raw oyster and got food poisoning. i've never felt so gross. ,__disgusted__,raw oyster and got food poisoning. i've never felt so gross,5,19,12
+4346,my coworker received a promotion over me. i am envious of his newfound success.,__jealous__,coworker received a promotion over me. i am envious of his newfound success,2,19,21
+4347,i decided i wanted a puppy and put out the word i was looking for one. on the way to get my new puppy after getting a call about one i was so thrilled.,__excited__,puppy and put out the word i was looking for one. on the way to get my new puppy after getting a call,6,29,14
+4348,"i was watching a kid skateboarding and he pulled of a jump and trick that really rather blew me away, considering his age.",__impressed__,kid skateboarding and he pulled of a jump and trick,5,15,20
+4349,"my wife after a 6 hour labour just gave birth to our first boy! i'm going to name him after me, he looks just like me!",__joyful__,wife after a 6 hour labour just gave birth to our first boy,2,14,22
+4350,i felt so disillusioned when i discovered someone who i admired for their vision was a jerk on a day-to-day basis.,__disappointed__,discovered someone who i admired for their vision was a jerk,10,20,11
+4351,"when i was 10 years old i watched the film ""the grudge"" and was so scared of the dark that i couldn't navigate around my own house.",__afraid__,"watched the film "" the grudge "" and was so scared of the dark",8,22,0
+4352,my husband god a job!!,__grateful__,husband god a job,2,5,17
+4353,i recently had an argument with my sister. the debate grew heated and we ended the conversation both very annoyed with one another.,__annoyed__,argument with my sister. the debate grew heated and we ended the conversation both very annoyed,5,21,2
+4354,"my girlfriend got let go of a job a while back, and she ended up getting a better job with better pay!",__proud__,getting a better job with better pay,17,23,26
+4355,"my mother stopped by my house one day and said she saw 3 dogs on the road, down from our house. they were starving, with ribs showing, and it was a mother dog and her two small puppies. of course, my daughter wanted to bring them to our house, so we could feed and help them. we did, and my heart went out to them, as they were so sweet, but really were in a bad shape.",__caring__,"dogs on the road, down from our house. they were starving, with ribs showing, and it was a mother dog and her two small puppies. of course, my daughter wanted to bring them to our house, so we could feed and help them. we did, and my heart went out to them, as they were so sweet",14,82,7
+4356,i have been thinking that i really love my mother. she does her best to still provide for me to this day.,__grateful__,love my mother. she does her best to still provide,8,18,17
+4357,i recently got very upset with my sister when said some very mean things to me. i let her know that she was out of line by yelling at her. i feel bad for both of us.,__angry__,sister when said some very mean things,8,14,1
+4358,i'm always proud when i set my sights on something and achieve it. running my very first marathon was a big one!,__proud__,something and achieve it. running my very first marathon,12,21,26
+4359,"i was on a bank robbing spree with my best friend. he got caught with half the cash, and is currently doing 30 years. i managed to escape to the bahamas, and sometimes i still think about him.",__guilty__,"bank robbing spree with my best friend. he got caught with half the cash, and is currently doing 30 years. i managed to escape",5,33,18
+4360,i had to do a talk and tried to tell an amusing story to break the ice.  it apparently wasn't amusing in the slightest and everyone just stared at me.,__embarrassed__,slightest and everyone just stared,27,31,13
+4361,it was raining hard one night and the power shut off.,__terrified__,power shut,10,11,30
+4362,i'm going to see my parents soon!,__joyful__,see my parents soon,6,9,22
+4363,"i went through a divorce, i had to leave my husband and daughter behind. it broke my heart and i felt so alone.",__lonely__,"divorce, i had to leave my husband and daughter behind. it broke my heart and i felt so alone",5,25,23
+4364,i am grateful for my parents who helped me along the way when buying my first house. they helped with some groceries and with understanding my loan papers etcc.,__grateful__,parents who helped me along the way when buying my first house. they helped with some groceries,6,26,17
+4365,i have to say that at my wedding i felt the most confident i have ever felt.  i felt beautiful and ready to conquer the world!,__confident__,wedding i felt the most confident i have ever felt. i felt beautiful and ready to conquer,8,25,8
+4366,"i was bathing my dog in the backyard this weekend, and she got loose. she then went and rolled in the dirt getting extra filthy.",__disgusted__,"bathing my dog in the backyard this weekend, and she got loose. she then went and rolled in the dirt getting extra filthy",3,27,12
+4367,i step on a lego that my son left on the floor,__angry__,step on a lego that my son,2,9,1
+4368,"i can't believe my brother is dating a super model. she should be dating me instead, i'm much more interesting!",__jealous__,brother is dating a super model. she should be dating me instead,7,19,21
+4369,when my girlfriend saw me cheating,__ashamed__,girlfriend saw me cheating,3,6,6
+4370,when my brother got out of college he had a job and a car and was doing so fucking great for himself. everything was lined up and he was ready to take off in the world. the moment i graduated college i have nothing that i can do. i took the same degree but that 5 year gap has led me to have nothing compared to him. ,__jealous__,brother got out of college he had a job and a car and was doing so fucking great for himself. everything was lined up and he was ready to take off in the world. the moment i graduated college i have nothing that i can do. i took the same degree,3,56,21
+4371,i saw a 3 year old boy who can talk 4 languages,__impressed__,year old boy who can talk 4 languages,5,12,20
+4372,some guys shot my neighbour and ran into the woods,__angry__,guys shot my neighbour,2,5,1
+4373,i recently found out the girl i am very attracted to might not like me in the same way. this makes me sad because we get along incredibly well.,__disappointed__,girl i am very attracted to might not like me in the same way. this makes me sad,6,24,11
+4374,me found cave. me found paint of wife. me remember how wife hunt big mammoth. me smile.,__nostalgic__,found paint of wife. me remember how wife hunt big mammoth,6,18,24
+4375,"kids will be kids, but i'm still ashamed when i think of how i treated one girl in sixth grade. i learned then that peer pressure doesn't often support your being your best self.",__ashamed__,treated one girl in sixth grade. i learned then that peer pressure,18,30,6
+4376,"i love when i'm in the ""flow"" doing what i'm doing -- whether it's speaking or doing large-scale visual capture of meetings.",__confident__,"flow "" doing what i'm doing -- whether it's speaking or doing large-scale visual capture",10,31,8
+4377,when i saw my girlfriend talking to this guy at a bar.,__jealous__,girlfriend talking to this guy at a bar,5,12,21
+4378,i was trying to take a nap and my neighbor had her loud tiny dog outside.  it kept me up and she wouldn't shut it up for anything.,__annoyed__,trying to take a nap and my neighbor had her loud tiny dog outside. it kept me up and she wouldn't shut,3,27,2
+4379,do you know the feeling of drinking hot cocoa on a cold winter's night?,__content__,drinking hot cocoa on a cold winter,7,14,9
+4380,i recently got admitted into a master's program for school. i will be attending the university of florida.,__excited__,admitted into a master's program for school,4,12,14
+4381,i am going on a vacation this thursday! i am very excited!,__anticipating__,going on a vacation this thursday,3,10,3
+4382,i received concert tickets for christmas.,__excited__,concert tickets,3,4,14
+4383,i thought she wanted to do it. i didn't force anything,__ashamed__,thought she wanted to do it. i didn't force,2,13,6
+4384,"when i make my world famous chicken and rice, i like to cut up all the ingredients into small containers. then i follow the cooking instructions down to a second. makes the best rice, everytime.",__prepared__,cut up all the ingredients into small containers. then i follow the cooking instructions,14,28,25
+4385,finding out about baby boy,__surprised__,finding out about baby boy,1,5,29
+4386,my kids are growing up well but fast. they are about to go to their next grades.,__joyful__,kids are growing up well but fast,2,8,22
+4387,my parents gave me a car for graduating from college. it makes my life so much easier.,__grateful__,parents gave me a car for graduating from college,2,10,17
+4388,when i graduated college. so long to get there!,__proud__,graduated college,3,4,26
+4389,"i tried my best for an exam, i still failed!",__disappointed__,"tried my best for an exam, i still failed",2,11,11
+4390,i feel sad when i see people squandering their potential or underestimating themselves.,__sad__,people squandering their potential or underestimating,7,16,27
+4391,i've read an article about a little newborn babygirl. she died because she was premature and she had problems breathing on her own when she was born but parents didn't take her to the hospital because they don't believe in medication,__sad__,newborn babygirl. she died because she was premature and she had problems breathing on her own when she was born but parents didn't take her to the hospital,10,41,27
+4392,"while i was in college my dog ran away back home and was never found.  my mother had been taking her on a walk in a park and my dog fell down a cliff.  i dreamed about her every night for a month at school, and hoped i'd get a call saying she was found, but she never was.",__sad__,dog ran away back home and was never found. my mother had been taking her on a walk in a park and my dog fell down a cliff,7,35,27
+4393,i interviewed for a job and thought the interview went decent.  i just had to wait to hear back from them.,__hopeful__,interviewed for a job and thought the interview went decent,2,11,19
+4394,do you like to go through old family pictures?,__sentimental__,old family pictures,7,9,28
+4395,"i was so excited the first time we were going to make an overseas move! i actually loved all the intense preparation, because of what i looked forward to as the payoff!",__anticipating__,"overseas move ! i actually loved all the intense preparation, because of what i looked forward to as the payoff",14,35,3
+4396,"skin is good, good health, healthy diet, good grades. life is good!",__content__,"skin is good, good health, healthy diet, good grades. life is good",1,16,9
+4397,my baby is sleeping,__content__,baby is sleeping,2,4,9
+4398,felt bad afterwards,__ashamed__,felt bad,1,2,6
+4399,"once, i was in a college in a classroom. i was sitting there and suddenly i realized that i have worn wrong pair of socks. no one was knowing it as i have worn shoes. but, when we have to go in church we have to remove shoes. so, at that time, a friend of mine spotted me. that time, that made a fun of me and i was in a little awkward situation.",__embarrassed__,"college in a classroom. i was sitting there and suddenly i realized that i have worn wrong pair of socks. no one was knowing it as i have worn shoes. but, when we have to go in church we have to remove shoes. so, at that time, a friend of mine spotted me. that time, that made a fun of me and i was in a little awkward",7,83,13
+4400,we found out our son wasn't as sick as we thought he was and i was really glad. ,__grateful__,found out our son wasn't as sick as we thought,2,13,17
+4401,i felt so nervous going into my latest job interview.,__apprehensive__,nervous going into my latest job interview,4,10,5
+4402,when my dog died when i was younger.,__sad__,dog died,3,4,27
+4403,"i was looking at old pictures from my first apartment after college, and started thinking about all the times i had there hanging out with friends.",__sentimental__,"old pictures from my first apartment after college, and started thinking about all the times i had there hanging out with friends",5,27,28
+4404,i knew my birthday was coming up but was shocked to find all my friends in the bar at the same time!,__surprised__,birthday was coming up but was shocked to find all my friends in the bar at the same time,4,22,29
+4405,i'm on a diet and i ate three chocolate bars yesterday.,__guilty__,diet and i ate three chocolate bars,6,12,18
+4406,"when i worked as a machinist, i was the only person on my shift that could program a certain lathe that had 6 axis. it was when i was at the top of my abillitys.",__confident__,only person on my shift that could program a certain lathe that had 6 axis. it was when i was at the top of my abillitys,13,43,8
+4407,today no matter where i drove today the other drivers were terrible. they kept cutting me off and not signaling among other things.,__annoyed__,drivers were terrible. they kept cutting me off and not signaling,10,21,2
+4408,i stole a shirt i liked from my friend.,__guilty__,stole a shirt i liked from my friend,2,9,18
+4409,"the more problems i have to more i faith, and faithful i become. i am stronger in my faith when bad things happen in my life and around me.",__faithful__,"faith, and faithful i become. i am stronger in my faith when bad things happen in my life",9,28,15
+4410,i was anticipating a great weight loss after my first week on my diet!,__hopeful__,great weight loss after my first week on my diet,7,16,19
+4411,my son is now in college and of legal age for any situation. i feel very nostalgic when i look at him at times.,__sentimental__,son is now in college and of legal age,2,10,28
+4412,watched scary video late at night,__afraid__,scary video,2,3,0
+4413,my mother recently helped me purchase a car. she knows a lot about the subject and helped a lot.,__trusting__,mother recently helped me purchase a car. she knows a lot about the subject and helped,2,18,31
+4414,"my husband received a call this morning and he became very nervous, which put me in a bad mood,",__jealous__,husband received a call this morning and he became very nervous,2,12,21
+4415,"the color of your eyes, the sweetness of lips, the beauty of hair, is a memory that i will not forget",__nostalgic__,"color of your eyes, the sweetness of lips, the beauty of hair, is a memory",2,19,24
+4416,i'm sleep training my toddler and i'm so frustrated and overhwelmed,__anxious__,sleep training my toddler and i'm so frustrated and overhwelmed,4,20,4
+4417,so i'm flying with my baby and i was surprised when they told me i don't need to pay for my baby's ticket,__surprised__,need to pay for my baby's ticket,21,29,29
+4418,i'm a bit worried this morning. i get the results of some tests my doctor did on me. hope everything's ok.,__apprehensive__,worried this morning. i get the results of some tests my doctor,6,18,5
+4419,i was in a drive-thru line and someone cut in front of some other people.  i confronted the guy about it and he basically told me to take a hike.  i was furious and blew up at him.  finally he left the line but he flipped me off when he did.,__angry__,drive-thru line and someone cut in front of some other people. i confronted the guy about it and he basically told me to take a hike. i was furious and blew up at him. finally he left the line but he flipped,5,52,1
+4420,i have been waiting on a package my friend sent me to arrive at my house. i heard a knock at the door but it was a package or my roommate.,__disappointed__,package my friend sent me to arrive at my house. i heard a knock at the door but it was a package or my roommate,7,32,11
+4421,"i was accepted in to university after years of being an alcoholic restaurant industry worker, often working for minimum wage.",__joyful__,accepted in to university,3,6,22
+4422,"i just broke up with my girlfriend, we were together for 8 years, i feel so empty.",__lonely__,"broke up with my girlfriend, we were together for 8 years, i feel so empty",3,19,23
+4423,"i could not believe for my 40th birthday, i came home from work that evening and the house was quiet. i walked in and the house was filled with people shouting happy birthday. that was quite a shock.",__surprised__,"believe for my 40th birthday, i came home from work that evening and the house was quiet. i walked in and the house was filled with people shouting happy birthday. that was quite a shock",4,41,29
+4424,today when i went outside to check my banana plant i noticed the leaf was wilted. ,__sad__,banana plant i noticed the leaf was wilted,9,18,27
+4425,i found out the woman i love likes another man. this makes me feel very hurt inside.,__jealous__,woman i love likes another man,5,10,21
+4426,"once, i had plans to meet up with an old flame. i got to the spot and spotted her from across the room. she gave me a big hug, and then introduced me to her new boyfriend.",__jealous__,"old flame. i got to the spot and spotted her from across the room. she gave me a big hug, and then introduced me to her new boyfriend",11,41,21
+4427,i have appeared for a driving license thrice and still i have not being able to crack it.,__annoyed__,appeared for a driving license thrice and still i have not being able to crack,3,18,2
+4428,having a healthy baby.,__grateful__,healthy baby,3,4,17
+4429,when my mom went out of her way to get me an awesome gift.,__grateful__,mom went out of her way to get me an awesome gift,3,14,17
+4430,i had to give my pet up for adoption because my new apartment wouldn't take them.,__sad__,give my pet up for adoption,4,9,27
+4431,expecting a baby boy. it has taken 3 months of saving but i did and now i feel much more prepared for him,__prepared__,expecting a baby boy. it has taken 3 months of saving,1,12,25
+4432,i'm really looking forward to this trip i have planned next week.,__anticipating__,looking forward to this trip i have planned next week,5,14,3
+4433,"i had a friend's boyfriend make a pass at me when i went to visit my friend. he actually kissed me, and this made me very upset. i couldn't believe the nerve!",__angry__,friend's boyfriend make a pass at me when i went to visit my friend. he actually kissed,4,23,1
+4434,i have to leave my poor dog at home while i go to work.,__guilty__,leave my poor dog at home,4,9,18
+4435,"i really love my life. this may seem crazy to some since it's fairly simple. i work online, i play games and then i read and watch tv and then i do chores.",__content__,love my life. this may seem crazy to some since it's fairly simple. i work online,3,22,9
+4436,"i never liked milk. i always had skim milk growing up. then i decided that maybe whole milk would be better, but i didn't like that either. but now that i've had 2% milk, i can enjoy it.",__content__,"2 % milk, i can enjoy",42,48,9
+4437,"sometimes i look back to my childhood and i miss when things were more simple, like when i would ride around my neighborhood all day with my friends. we would just ride from sun up to sun down without a care in the world. only stopping back at the house to get an afternoon snack from our parents. ",__nostalgic__,"look back to my childhood and i miss when things were more simple, like when i would ride around my neighborhood all day with my friends. we would just ride from sun up to sun down without a care",3,43,24
+4438,"i can't believe my son failed his exams. he spent too much time playing football, and not enough time studying.",__disappointed__,son failed his exams,7,10,11
+4439,after a stressful day at work i found my car's tires had been slashed! i couldn't help but scream.,__furious__,stressful day at work i found my car's tires had been slashed,3,17,16
+4440,i dropped my wife off at the airport for her 2 month trip out of the country.  i felt really bad all the way home.,__sad__,dropped my wife off at the airport for her 2 month trip out of the country. i felt really bad,2,22,27
+4441,day four now since my wife went to visit her family. the house is too quiet now. i have started sleeping with the light on lol,__lonely__,day four now since my wife went to visit her family. the house is too quiet,1,17,23
+4442,i recently forgot i owed a little bit of money to my mother in law for something. it ended up being ok but being reminded wasn't that pleasent.,__guilty__,forgot i owed a little bit of money to my mother in law for something. it ended up being ok but being reminded,3,26,18
+4443,"i felt guilty when i was driving home one night and a person tried to fly into my lane, and didn't see me. i honked and they swerved back into their lane, slammed on their brakes, and hit the water cones.",__guilty__,hit,48,48,18
+4444,i was impressed by the way my daughter sings ... it's wonderful ... i did not hear something like that,__surprised__,impressed by the way my daughter sings ... it's wonderful ... i did not hear,3,23,29
+4445,i was waiting to hear back about a job interview i went on.,__hopeful__,waiting to hear back about a job interview,3,10,19
+4446,"i recently started talking to and lightly dating a woman. i really enjoy her company. i thought we would end up being together, but she recently moved and now treats me differently.",__surprised__,"woman. i really enjoy her company. i thought we would end up being together, but she recently moved and now treats me differently",10,35,29
+4447,"we went to florida for a vacation and when we got to the bridge and toll booths, the line was 30 minutes of wait, after a 7 hour drive!",__annoyed__,"florida for a vacation and when we got to the bridge and toll booths, the line was 30 minutes of wait, after a 7 hour drive",4,34,2
+4448,"i went in for a third interview at a company considering me. the owner was in attendance, and i could see he was impressed with my portfolio. they told me they still were looking at two other candidates, but i bet i'll get an offer tonight or tomorrow.",__confident__,"interview at a company considering me. the owner was in attendance, and i could see he was impressed with my portfolio. they told me they still were looking at two other candidates, but i bet i'll get an offer",7,51,8
+4449,"i started a garden and eventually got into trying to propagate plants by planting cuttings, eventually i had multiple tomato plants from a single small plant. infinite tomatoes! ",__surprised__,multiple tomato plants,23,25,29
+4450,"i went out with the children this morning to the park, i took the day to be with them, i felt very well",__joyful__,"children this morning to the park, i took the day to be with them, i felt very well",6,25,22
+4451,"this is terrible, there's been this funky smell in my kitchen. it's been getting worse but couldn't find it. yesterday, we found a leak under the sink and old leaking water smelled bad.",__disgusted__,"funky smell in my kitchen. it's been getting worse but couldn't find it. yesterday, we found a leak under the sink and old leaking water smelled bad",10,44,12
+4452,"i can't believe what just happened! when i went to check the mail, my neighbor's baby was riding my dog like horse!",__surprised__,neighbor's baby was riding my dog like horse,19,28,29
+4453,"i knew someone who got exceedingly famous. it sort of eats me up how successful and popular they are.  what's worse is that i don't think they're very talented, and a lot of their success is due to a phony persona they maintain.  it really bothers me.",__jealous__,knew someone who got exceedingly famous. it sort of eats me up how successful and popular,2,19,21
+4454,"my dog had a medical emergency and i didn't have the money to cover it, so my parents loaned me some money until i got paid.",__grateful__,"dog had a medical emergency and i didn't have the money to cover it, so my parents loaned me some money until i got paid",2,29,17
+4455,"when i was younger, this little kid was going around tripped other kids and being a jerk in general. he was picking on kids smaller than him, which really annoyed me. so, i tripped him with a hoola hoop.",__angry__,kid was going around tripped other kids and being a jerk in general. he was picking on kids smaller,8,27,1
+4456,ex's relapse.,__disappointed__,ex's relapse,1,6,11
+4457,"i prayed, and prayed for weeks that i would do good in a test. luckily god answered my prayers, and i passed!",__faithful__,"test. luckily god answered my prayers, and i passed",15,26,15
+4458,"my mother just graduated from nursing school in her 50's. she put in a lot of effort, and she proved to herself and others that she could do it.",__impressed__,mother just graduated from nursing school,2,7,20
+4459,i really hope my husband finds a full time job soon,__hopeful__,husband finds a full time job,5,10,19
+4460,"i lost my favorite hoodie somewhere, how could i lose a hoodie!!",__disappointed__,lost my favorite hoodie,2,6,11
+4461,"i am annoyed by people who won't return their grocery carts, and just leave them in the parking lot!",__annoyed__,"people who won't return their grocery carts, and just leave",5,18,2
+4462,i had interviewed for a job i really wanted.  i was waiting for a response for a little while.,__hopeful__,interviewed for a job i really wanted,3,9,19
+4463,"i was so proud of my 15 year old daughter. she was determined to work this summer, even with us telling her no one would hire her unless she was 16. she persevered and we were wrong -- she was hired at the first job she interviewed for!",__proud__,"daughter. she was determined to work this summer, even with us telling her no one would hire her unless she was 16. she persevered and we were wrong -- she was hired at the first job",10,51,26
+4464,one time i had a dream where i was being held down by a shadow demon with red eyes. i couldn't move or scream even though i wanted to. it was the most scared i've ever been.,__terrified__,dream where i was being held down by a shadow demon with red eyes,6,19,30
+4465,"my husband came home from shopping a couple days before mother's day and he gave me some unexpected gifts. he had got me a beautiful diamond ring, along with some other wonderful gifts!",__surprised__,"gave me some unexpected gifts. he had got me a beautiful diamond ring, along with some other wonderful gifts",17,37,29
+4466,"my husband and i both work for ourselves, so as the end of the month approaches, we can sometimes feel a little worried about bringing in the funds we need.",__anxious__,"husband and i both work for ourselves, so as the end of the month approaches, we can sometimes feel a little worried about bringing in the funds we need",2,32,4
+4467,i went to hardee's the other day and got a slider burger for almost 2 dollars. it was the size of a krystal burger. it was just so unsatisfactory.,__disappointed__,slider burger for almost 2 dollars. it was the size of a krystal burger. it was just so unsatisfactory,14,44,11
+4468,"my boyfriend surprised me with flowers today. i thought it was so cool and thanked him for the gift... then he said, ""happy anniversary."" i am completely mortified that i forgot.",__ashamed__,"boyfriend surprised me with flowers today. i thought it was so cool and thanked him for the gift ... then he said, "" happy anniversary. "" i am completely mortified that i forgot",2,41,6
+4469,when my parents got a divorce.,__sad__,parents got a divorce,3,6,27
+4470,i once found out my step father was stealing money from my mother to buy drugs. i confronted him about it and got in a fist fight with him.,__furious__,step father was stealing money from my mother to buy drugs,6,16,16
+4471,when i saw the ultrasound and knew it was a boy! it was very funny and made me happy,__joyful__,ultrasound and knew it was a boy,5,12,22
+4472,i was at the grocery store today and had to wait in line for 15 minutes/ theres was only one cashier. i cant belive the store didnt have more employees working.,__annoyed__,grocery store today and had to wait in line for 15 minutes/ theres was only one cashier. i cant belive the store didnt have more employees working,5,39,2
+4473,"i was excited to go biking today, but then it was raining.",__disappointed__,raining,14,15,11
+4474,i studied a lot for my psychology exam and ended up acing it with a 98%.,__prepared__,studied a lot for my psychology exam and ended up acing it with a 98,2,17,25
+4475,"my daughter is a teenager now, so we don't get to spend much time together. today we had a girls even out, went shopping and out to eat.",__joyful__,"daughter is a teenager now, so we don't get to spend much time together. today we had a girls even out, went shopping",2,29,22
+4476,she went behind my back to return her ex's t-shirt. lied about it. i found out through her facebook messages,__devastated__,went behind my back to return her ex's t-shirt. lied,2,16,10
+4477,i felt this morning i left the house and my neighbor gave me some flowers ... incredible i did not expect it,__surprised__,neighbor gave me some flowers ... incredible,11,19,29
+4478,running from a stranger in the woods when camping.,__terrified__,running from a stranger in the woods,1,7,30
+4479,it really bothers me when people let their toddler run around the mall. none the less smelling like a litter box that hasn't been cleaned in a month.,__annoyed__,bothers me when people let their toddler run around the mall. none the less smelling like a litter box,3,24,2
+4480,"i went to my mother in laws funeral last sunday. my wife was very tearful, and needed to have her family around her in the difficult moment.",__sad__,"mother in laws funeral last sunday. my wife was very tearful, and needed to have her family around her in the difficult",5,30,27
+4481,"my wife was able to get a job with microsoft, and she didn't even need a 4-year degree!",__proud__,wife was able to get a job with microsoft,2,12,26
+4482,when my girlfriend kept me waiting on our date.,__annoyed__,girlfriend kept me waiting on our date,3,9,2
+4483,my wife was coming back into the country after 2 months away.  i left early to get to the airport because i wanted to see her so much.,__excited__,wife was coming back into the country,2,8,14
+4484,today i've been listening to all my favorite songs from when i was in my early twenties.,__nostalgic__,listening to all my favorite songs from when i was in my early twenties,6,19,24
+4485,i was sharing a house with 5 girls and all of them have boyfriends and hang out with them over the weekend and i feel lonely and down.,__lonely__,sharing a house with 5 girls and all of them have boyfriends and hang out with them over the weekend,3,23,23
+4486,"i was walking around my mansion at night one cold day in october. i then heard spooky sounds, and saw the ghost of michael jackson.",__afraid__,"night one cold day in october. i then heard spooky sounds, and saw the ghost of michael jackson",8,36,0
+4487,when planning my wedding the caterer we were trying to hire was completely ignoring my wife every time she tried to talk to her.,__angry__,planning my wedding the caterer we were trying to hire was completely ignoring my wife every time she tried to talk,2,23,1
+4488,i stole a pokemon card from a friend when i was young. i feel guilty still.,__guilty__,stole a pokemon card from a friend,2,10,18
+4489,when my dog took a pee randomly on the couch! like who does that!!!!,__surprised__,dog took a pee randomly on the couch,3,11,29
+4490,i met a friend online once and we met up in person. ,__trusting__,online once and we met up in person,5,12,31
+4491,i walked my dog and she still pooped inside!,__annoyed__,dog and she still pooped inside,4,11,2
+4492,i am so thrilled to be able to go on a short but long overdue vacation. ,__joyful__,thrilled to be able to go on a short but long overdue vacation,4,17,22
+4493,when i was 12 we had to shower after gym. well i didn't want anyone to see me naked but had to go through with it,__embarrassed__,shower after gym. well i didn't want anyone to see me naked,8,22,13
+4494,my mother recently took out a bunch of money on my behalf from the bank. i trust her so much!,__trusting__,mother recently took out a bunch of money on my behalf from the bank,2,15,31
+4495,i'm happy with where i'm at in life.,__content__,happy with where i'm at in life,4,12,9
+4496,i gratuated from college with the highest score in the past 20 years,__proud__,gratuated from college with the highest score,2,10,26
+4497,when i saw a guy on a bike doing a wheelie.,__impressed__,guy on a bike doing a wheelie,5,12,20
+4498,"when i was kicked out of my step parent's house for no reason, my best friend immediately took me in. i was so thankful for that opportunity.",__grateful__,best friend immediately took me in. i was so thankful for that opportunity,18,31,17
+4499,there was a time a few years back where i was given a car. we only had one and needed a second and it was so helpful. i was blown away by someone's kindness.,__grateful__,given a car. we only had one and needed a second and it was so helpful. i was blown away by someone's kindness,12,38,17
+4500,i just called someone out for stealing a picture of my dog for internet points when it turns out it wasn't my dog just a similar looking one.,__embarrassed__,called someone out for stealing a picture of my dog for internet points when it turns out it wasn't my dog just a similar looking,3,29,13
+4501,"i went to a restaurant and i saw a rat running through the back, it was horrid and gross.",__disgusted__,restaurant and i saw a rat running through the back,5,14,12
+4502,all my friends live in a different country,__lonely__,friends live in a different country,3,8,23
+4503,"for the death of my mother, my soul was destroyed",__devastated__,"death of my mother, my soul was destroyed",3,11,10
+4504,playing with puppies.,__excited__,playing with puppies,1,5,14
+4505,"i had a job interview yesterday that i thought went really well, but it didn't. they just emailed me back and told me that i didn't get the job.",__ashamed__,"job interview yesterday that i thought went really well, but it didn't. they just emailed me back and told me that i didn't get the job",4,36,6
+4506,i was so happy the day i learned i was pregnant with our first child!,__joyful__,pregnant with our first child,11,15,22
+4507,i feel so bad when i think back to times that i yelled at my kids for no real good reason.,__guilty__,yelled at my kids for no real good reason,13,21,18
+4508,"i recently booked our vacation accommodations in florida, which we are going to in a few weeks. we have a large beachfront condo and i can't wait!",__excited__,"booked our vacation accommodations in florida, which we are going to in a few weeks. we have a large beachfront condo",3,30,14
+4509,"my girlfriend went on a trip with her friends, and left me alone at home.",__lonely__,"girlfriend went on a trip with her friends, and left me alone",2,14,23
+4510,i came home from vacation and my long lost friend was sleeping on my couch. we all thought he had died in a monsoon in thailand.,__surprised__,long lost friend was sleeping on my couch. we all thought he had died,8,22,29
+4511,"i was walking home from work one day. then this huge bat came out of nowhere, and chased me for a whole hour!",__terrified__,"walking home from work one day. then this huge bat came out of nowhere, and chased me for a whole hour",3,25,30
+4512,when i secured the first prize in an event at my college,__proud__,secured the first prize in an event,3,9,26
+4513,its hard to deal with when your kids are getting older and have to handle their own problems. as a mom you can't just step in and fix everything like you want to.,__sad__,kids are getting older and have to handle their own problems,8,18,27
+4514,my really close friend lost her parents and siblings in a fire and consoling her about the incident just made me realize how thankful i should be each day for the family i'm blessed with. ,__grateful__,family i'm blessed,34,38,17
+4515,"whenever i hear certain songs, it brings back so many memories. mostly of when i was young and dumb staying up late with friends.",__nostalgic__,"songs, it brings back so many memories. mostly of when i was young and dumb staying up late with friends",5,26,24
+4516,i was standing in a lift yesterday morning and a guy standing next to me just looked curiously to me. i was confused and then he slowly whispered in my ears that your zip is open please close it without anyone noticing it. ,__embarrassed__,zip is open,35,38,13
+4517,one time i was going to a court hearing against my former place of employment to repeal a decision made to cancel my unemployment. i knew i would win because i had so much evidence against them and their shoddy work practices.,__confident__,court hearing against my former place of employment to repeal a decision made to cancel my unemployment. i knew i would win because i had so much evidence,8,36,8
+4518,"my wife baked a huge bunch of cookies for a charity bake sale. i felt so bad eating so many, but they were so good.",__guilty__,wife baked a huge bunch of cookies for a charity bake sale. i felt so bad eating so many,2,22,18
+4519,"i recently spoke with an ex-girlfriend of mine. i think that she is doing very well. our recent talks were invigorating and nostalgic, reminding me of my past experiences with her.",__nostalgic__,spoke with an ex-girlfriend,3,8,24
+4520,i had a job interview today and i think it really well.,__hopeful__,job interview today and i think it really well,4,12,19
+4521,i was sitting on my back deck drinking a cup of coffee and just felt so wholesome and happy with life. it was great ,__content__,sitting on my back deck drinking a cup of coffee and just felt so wholesome and happy with life,3,22,9
+4522,i found a stray kitten and nursed him back to health.,__caring__,stray kitten and nursed him back to health,4,13,7
+4523,"even though i felt she wasn't in love with me any more after five years of marriage, i still remained faithful until the end",__faithful__,"years of marriage, i still remained",17,23,15
+4524,that i'll get to visit the south side and eat my favorite take out,__hopeful__,get to visit the south side and eat my favorite take,5,15,19
+4525,"i long for the good old days, when i was carefree and happy. the sun always shone, i had cash in my pocket and plenty of time for the things i love to do.",__nostalgic__,"long for the good old days, when i was carefree and happy. the sun always shone, i had cash",2,24,24
+4526,my mother in law got to eat at one of my favorite places today. qdoba- she was traveling back from ohio and the airport had one.,__jealous__,mother in law got to eat at one of my favorite places,2,13,21
+4527,wife is not well lately,__caring__,wife is not well lately,1,5,7
+4528,"not wanting someone to wear the same dress as me, i flew across the country to buy my prom dress. well, turns out becky still had to copy me! i can't believe she wore the same dress!",__furious__,"prom dress. well, turns out becky still had to copy me ! i can't believe she wore the same dress",20,45,16
+4529,"every time i look through older photos of my children, i'm taken right back to the time they were that size!",__sentimental__,older photos of my children,6,10,28
+4530,to see in the mornings that beautiful and leafy tree in the mornings ... it makes me feel that god exists,__grateful__,mornings that beautiful and leafy tree in the mornings ... it makes me feel that god exists,5,24,17
+4531,"i had decided to go visit my brother out of state by driving, but as soon as i got on the road it started snowing heavily.  the farther i drove the worse the snow got, and i was unprepared for it.  i was in a very rural area, hundreds of miles from a major city, and the snow started covering up the road such that i couldn't even see the lines or where the ditch started.  i ended up turning back and cancelling the trip.",__afraid__,"snowing heavily. the farther i drove the worse the snow got, and i was unprepared for it. i was in a very rural area, hundreds of miles from a major city, and the snow started covering up the road such that i couldn't even see the lines or where the ditch",26,88,0
+4532,i entered a competition to win a ps4. i was told i was in the last 3 to win! ,__excited__,competition to win a ps4. i was told i was in the last 3 to win,4,21,14
+4533, i was home alone the other night and i heard a loud crash in the other room. it turned out to just be the dog ran into a shelf and knocked something down but it was scary.,__afraid__,home alone the other night and i heard a loud crash,3,13,0
+4534,"i hug my mom from behind, and it was not my mom",__embarrassed__,"hug my mom from behind, and it was not my mom",2,13,13
+4535,the other day at the skatepark my daughter went down the big ramp! it was so cool to watch her go.,__proud__,skatepark my daughter went down the big ramp,6,14,26
+4536,"i had tickets to see jay-z and beyonce at an outdoor venue. the big day came, and tropical storm hit. not only did the concert get rained out, but no one got a refund.",__disappointed__,"tropical storm hit. not only did the concert get rained out, but no one got a refund",25,46,11
+4537,"my wife was out of the country for a couple months, and when she came back i went to get her from the airport.  we spent the whole day doing random things together.",__joyful__,"wife was out of the country for a couple months, and when she came back i went to get her from the airport. we spent the whole day doing random things together",2,35,22
+4538,"on my way home from work, i stepped in a huge pile of dog mess. in my brand new gucci shoes, which were so expensive!",__disgusted__,stepped in a huge pile of dog mess. in my brand new gucci shoes,9,24,12
+4539,the house has been really quiet since she went on vacation. ,__lonely__,really quiet since she went on vacation,5,11,23
+4540,"for the kitchen test tomorrow, i studied well and i feel winner",__prepared__,"test tomorrow, i studied well",4,9,25
+4541,"when i first got my driver's license, i was so scared of getting into an accident.",__apprehensive__,scared of getting into an accident,14,19,5
+4542,"seeing the less fortunate and people who have nothing, makes me so grateful and content with the life i live",__content__,"seeing the less fortunate and people who have nothing, makes me so grateful and content with the life i live",1,21,9
+4543,yes i am going to one restaurant for survey is very guilty ,__guilty__,restaurant for survey is very guilty,7,12,18
+4544,i stole a candy bar from a local gas station. i am not pleased with my actions.,__guilty__,stole a candy bar from a local gas station,2,10,18
+4545,i am faithful to my parents for all what they have done for me,__faithful__,parents for all what they have done,6,12,15
+4546,my son is going back to college and will graduate this year!,__anticipating__,son is going back to college and will graduate this year,2,12,3
+4547,yes i am going to coffee shop the man speech is  so guilty,__guilty__,coffee shop the man speech,6,10,18
+4548,"yesterday i made a serious mistake i made a comment without bad intentions of the elders and my father heard it and corrected me on good terms, but i felt so bad",__embarrassed__,made a serious mistake i made a comment without bad intentions of the elders and my father heard,3,20,13
+4549,"my wife has been in europe for the past month for school.  i've been mostly alone since she left, as we only recently moved and i don't really know anyone outside of work.",__lonely__,wife has been in europe,2,7,23
+4550,she went behind my back but i found out via social media,__disappointed__,went behind my back but i found out via social media,2,12,11
+4551,i watched the president of my work association speak and i didnt know he could speak that well. i and the rest of the room was with awe,__impressed__,president of my work association speak and i didnt know he could speak that well. i and the rest of the room was with awe,4,30,20
+4552,"i applied for a really high paying job last week. i am over qualified, so this should be easy, and i should get the job without any effort.",__confident__,"high paying job last week. i am over qualified, so this should be easy, and i should get the job without any effort",6,31,8
+4553,when my dog chewed up a hole in the carpet.,__disgusted__,dog chewed up a hole in the carpet,3,10,12
+4554,she got a job and a new car then suddenly i became unimportant. she would stay out until 3am with her new friend from work,__furious__,became unimportant,12,16,16
+4555,yes my attitude is better than coworker but coworker is not happy,__jealous__,attitude is better than coworker but coworker is not happy,3,16,21
+4556,i made enough money to pay my bills,__proud__,made enough money to pay my bills,2,8,26
+4557,caught kissing,__embarrassed__,caught kissing,1,2,13
+4558,"a time i felt i should be loyal and honest is when my good friend's boyfriend showed interest in me in a romantic manner. i am married, and i also really care for my friend, so two reasons i wouldn't encourage his behavior. i let him know that he was wrong to do that, and felt good that i did, but felt really bad for my friend.",__faithful__,"good friend's boyfriend showed interest in me in a romantic manner. i am married, and i also really care for my friend, so two reasons i wouldn't encourage his behavior. i let him know that he was wrong",14,59,15
+4559,"my mother became ill and she had to be hospitalized. i was very concerned, but she was much better after a few days there.",__grateful__,"mother became ill and she had to be hospitalized. i was very concerned, but she was much better",2,22,17
+4560,one of the most blissed out moment of time i remember in life was right after the birth of my first child.,__content__,birth of my first child,19,23,9
+4561,"when i went on the slingshot ride, it was horrifying!",__trusting__,went on the slingshot ride,3,9,31
+4562,i'm looking forward to my niece arriving from washington. i haven't seen her in 2 years.,__anticipating__,looking forward to my niece arriving from washington,4,12,3
+4563,thank god it's friday,__joyful__,god it's friday,2,8,22
+4564,i was waiting to see if i was going to receive an award,__anxious__,waiting to see if i was going to receive an award,3,13,4
+4565,"i was home alone. suddenly, i heard a loud bang. i went into the kitchen to investigate, and briefly saw a white dress flying out the window. i saw a ghost!",__terrified__,"home alone. suddenly, i heard a loud bang. i went into the kitchen to investigate, and briefly saw a white dress flying out the window. i saw a ghost",3,36,30
+4566,"my friend maria and i had plans for brunch. we were supposed to meet at 11, but she didn't even call me till 3. i had work at 5, so the day was a waste.",__annoyed__,"brunch. we were supposed to meet at 11, but she didn't even call me till 3. i had work at 5, so the day was a waste",10,43,2
+4567,"i love my cat, but she is driving me crazy constantly rubbing up against my face. i have so much cat hair in my nose.",__annoyed__,"cat, but she is driving me crazy constantly rubbing up against my face",4,17,2
+4568,"my girlfriend went on a business trip, and i didn't have anyone to hang out wiht.",__lonely__,"girlfriend went on a business trip, and i didn't have anyone",2,15,23
+4569,once i was ashamed b/c my husband asked me not to tell my mom that he was actually busy when she needed his help with something.  i ended up telling her and he found out and was pretty upset with me.,__ashamed__,husband asked me not to tell my mom that he was actually busy when she needed his help with something. i ended up telling her and he found out and was pretty upset,9,42,6
+4570,i was doing some freelance work for a friend and it didn't work out the way i had wanted to - the results we got were less than stellar.  i worked as hard as i could but it wasn't enough.,__disappointed__,freelance work for a friend and it didn't work out the way i had wanted to-the results we got were less than stellar. i worked as hard,5,36,11
+4571,i was delighted the other day when i got to see a friend that i had not seen in 20 years.,__joyful__,see a friend that i had not seen in 20 years,11,21,22
+4572,every time i see my husband i know i could never cheat on him. we are both flirty people but know that it will never be worth messing up what we have.,__faithful__,husband i know i could never cheat,6,12,15
+4573,"i have started searching for a new job, and i'm feeling pretty good about it.",__confident__,"new job, and i'm feeling pretty good",7,16,8
+4574,getting pregnant,__excited__,getting pregnant,1,2,14
+4575,i hate driving at night because my vision isn't that great,__terrified__,hate driving at night because my vision,2,8,30
+4576,"i came in the room on mother's day. i expected a couple of gifts not balloons, tons of gifts and flowers. the gifts were so heartfelt too.",__surprised__,"mother's day. i expected a couple of gifts not balloons, tons of gifts and flowers",7,25,29
+4577,"i think the most lonely i have felt was when we moved overseas, my husband had to travel out of *that* country for business, and i had a new baby and dog to keep me company!",__lonely__,"moved overseas, my husband had to travel",12,19,23
+4578,"i was digging through my old stuff yesterday, and i found my old security blanket.",__sentimental__,found my old security blanket,12,16,28
+4579,"my intuition has led me into some situations that had i only used my head, i might have missed out on. i'm a big believer in listening to your ""gut"".",__trusting__,intuition,2,4,31
+4580,a friend let me know the morning of christmas of 2007 that my best friend had fallen off of a roof and died.,__devastated__,friend had fallen off of a roof and died,17,25,10
+4581,i'm going on a cruise to alaska.,__excited__,cruise to alaska,7,11,14
+4582,when you expect more you have been disapponted more,__hopeful__,expect more you have been disapponted,3,12,19
+4583,i'm going to see my parents in 3 weeks!!!,__excited__,going to see my parents in 3 weeks,4,11,14
+4584,"nearly a year ago now, my girlfriend completely surprised me with a puppy!",__surprised__,girlfriend completely surprised me with a puppy,8,14,29
+4585,"i told my son to not eat any snacks before dinnertime. he raided the snack cupboard, eating all my favourite snacks, and he made a mess out of it. ",__disappointed__,"son to not eat any snacks before dinnertime. he raided the snack cupboard, eating all my favourite snacks, and he made a mess",4,33,11
+4586,"i bought my wife a chocolate bar, and i intended to give it to her, but i ended up eating it. ",__guilty__,"intended to give it to her, but i ended up eating",11,22,18
+4587,she got with him for money,__jealous__,got with him for money,2,6,21
+4588,it seems like no one lately can drive right. they're always speeding or cutting you off. also no blinker use.,__angry__,always speeding or cutting you off. also no blinker,14,24,1
+4589,when my dog was still potty training.,__annoyed__,dog was still potty training,3,8,2
+4590,"my wife went out of the country for 2 months, leaving me alone with the dogs.  we had just moved so i didn't really know anyone at the time.",__lonely__,"wife went out of the country for 2 months, leaving me alone with the dogs. we had just moved so i didn't really know anyone",2,30,23
+4591,i once took a dive into the pool. i came up with no swim trunks.,__embarrassed__,dive into the pool. i came up with no swim trunks,5,16,13
+4592,i saw a dog devouring a bird ... i was so impressed by the violence,__terrified__,dog devouring a bird,4,9,30
+4593,once i was super afraid b/c there was this guys following me and my mom at this grocery store.  i wasn't sure what to do about the situation so i told the manager at the store and he had someone walk me and my mom out to my car so we would be safe.,__afraid__,guys following me and my mom,12,17,0
+4594,i recently found out that the girl of my dreams does not like me. i feel very sad about the whole ordeal.,__sad__,found out that the girl of my dreams does not like me. i feel very sad about the whole ordeal,3,23,27
+4595,for a long time i wasn't sure what would happen. but almost 2 years on and no sign of them,__anxious__,long time i wasn't sure what would happen. but almost 2 years on and no sign,3,21,4
+4596,i went back to my home where i grew up and a flood of good memories came bavk to me. i had so many fun times with my best friends when i was a child. ,__nostalgic__,went back to my home where i grew up and a flood of good memories came bavk to me. i had so many fun times with my best friends when i was a child,2,38,24
+4597,i feel bad because i do not feel anything for my husband ... but i feel bad i do not dare to tell him,__guilty__,feel anything for my husband ... but i feel bad i do not dare to tell,8,25,18
+4598,i was working the night shift for the summer. my job was working alone. i saw no one for weeks. it got to me,__lonely__,night shift for the summer. my job was working alone. i saw no one for weeks,5,22,23
+4599,"the other morning at 4 am i was woken by my neighbor's smoke alarm going off. at first i didn't know what was going on, then i realized and didn't appreciate it!",__angry__,woken by my neighbor's smoke alarm going,9,17,1
+4600,my dog has been scratching at his ears a lot. we took him to the vet and got him meds. now he isn't feeling good today and i want to take care of him.,__caring__,dog has been scratching at his ears a lot. we took him to the vet and got him meds. now he isn't feeling,2,30,7
+4601,i can't believe my son took my car without asking me! i missed an important job interview because i couldn't drive!,__furious__,son took my car without asking me ! i missed an important job interview,7,20,16
+4602,i once walked out in my underwear not knowing i did not have pants on!,__embarrassed__,walked out in my underwear not knowing i did not have pants,3,14,13
+4603,"i was supposed to meet my aunt to give her keys to babysit this weekend, but she isn't answering her phone.",__anxious__,"supposed to meet my aunt to give her keys to babysit this weekend, but she isn't answering her phone",3,26,4
+4604,i was so tired and i yelled at my baby,__guilty__,yelled at my baby,7,10,18
+4605,my son finally graduated from harvard. he's worked so hard for this his entire life.,__proud__,son finally graduated from harvard,2,8,26
+4606,"my father was recently put close to his death bed. fortunately he is alive, but his recent health issues have been devastating.",__devastated__,"father was recently put close to his death bed. fortunately he is alive, but his recent health issues",2,22,10
+4607,my husband called me a punk today for nothing,__angry__,husband called me a punk today for nothing,2,9,1
+4608,i saw a homeless guy the other day on my way home.,__grateful__,saw a homeless guy,2,5,17
+4609,"i was surprised to learn how different my two kids' personalities could be. silly, i know. but true!",__surprised__,learn how different my two kids' personalities,5,12,29
+4610,"i wnet home, and my wife surpises me with a picture of our future baby.",__joyful__,wife surpises me with a picture of our future baby,8,19,22
+4611,i shouted to my mom,__guilty__,shouted to my mom,2,5,18
+4612,i have a dog that lives near us and his owner never picks up his poop. it makes me feel sick!,__disgusted__,poop. it makes me feel sick,16,23,12

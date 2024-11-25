@@ -1,0 +1,768 @@
+,headline,dominant_emotion,cause,cause_span,start_index,end_index,emotion_label
+1958,this high school opens its doors every friday night to keep students off the streets,love_including_like,"[[""off the streets""]]",off the streets,15,17,6
+3846,game of thrones: the white walkers are coming,joy,"[[""the white walkers are coming""]]",the white walkers are coming,6,11,5
+3458,austrian white nationalist accused of ties to nz mosque shooter is making money off youtube,anger,"[[""making money off youtube""]]",making money off youtube,15,20,0
+2848,secret files show how brazil's elites jailed former president lula and cleared the way for bolsonaro,negative_surprise,"[[""jailed former president lula and cleared the way for bolsonaro""]]",jailed former president lula and cleared the way for bolsonaro,12,25,8
+4280,the evelyn waugh-loving band that rebelled against rebellion,anger,"[[""rebelled against rebellion""]]",rebelled against rebellion,10,13,0
+2372,‘the view’ attacks ‘liar’ sarah sanders who ‘diminished the office’,anger,"[[""diminished the office""]]",diminished the office,15,17,0
+3073,"after a false accusation, family forced apart for 7 months",sadness,"[[""false""],[""family forced apart for 7 months""]]",false,3,3,12
+3384,sisi says egypt won’t accept anything against palestinian wishes,negative_anticipation_including_pessimism,"[[""won’t accept anything against palestinian wishes""]]",won’t accept anything against palestinian wishes,7,16,7
+1165,the strange fun of ‘under a rock with tig notaro’,annoyance,"[[""the strange fun of ‘under a rock""]]",the strange fun of ‘under a rock,1,8,1
+4148,trump upbeat on potential for us-japan trade deal,joy,"[[""potential for us-japan trade deal""]]",potential for us-japan trade deal,6,14,5
+2666,trump organization sues house oversight chair elijah cummings to block subpoena,negative_anticipation_including_pessimism,"[[""block subpoena""]]",block subpoena,16,19,7
+4251,"mueller’s willing to testify, but trump doj is holding it up: dems",anger,"[[""doj is holding it up: dems""]]",doj is holding it up: dems,13,21,0
+2514,fears rise of an isis comeback,fear,"[[""fears rise of an isis comeback""]]",fears rise of an isis comeback,1,7,3
+2693,israeli pm benjamin netanyahu defends activists trying to record in polling places,positive_surprise,"[[""defends activists trying to record in polling places""]]",defends activists trying to record in polling places,11,19,10
+1298,robert kraft sex spa case lives on after appeals court agrees to hear state prosecutor's argument,negative_surprise,"[[""appeals court agrees to hear state prosecutor's argument""],[""after appeals court agrees""]]",appeals court agrees to hear state prosecutor's argument,11,20,8
+4645,o’rourke feels 'really good' about 2020 campaign,positive_anticipation_including_optimism,"[[""2020 campaign""]]",2020 campaign,12,13,9
+4825,usda says it will save $20m a year by moving researchers to kansas city. critics say it’s all politics.,positive_anticipation_including_optimism,"[[""moving researchers to kansas city""]]",moving researchers to kansas city,13,19,9
+1948,hundreds of thousands of hong kong protesters demand leader's resignation,disgust,"[[""demand leader's resignation""]]",demand leader's resignation,10,14,2
+4574,live coverage: robert mueller testifies before the house intelligence committee #2,positive_surprise,"[[""testifies before the house intelligence committee #2""]]",testifies before the house intelligence committee #2,9,17,10
+3395,the inside story of the $6 million ‘devil’s violin’ heist,positive_anticipation_including_optimism,"[[""the inside story of the $6 million ‘devil’s violin’ heist""]]",the inside story of the $6 million ‘devil’s violin’ heist,1,16,9
+304,maine gov. signs bill allowing non-doctors to perform abortions,positive_surprise,"[[""perform abortions""]]",perform abortions,13,15,10
+1952,natgeo reveals the best travel photo of 2019,joy,"[[""reveals the best travel photo of 2019""]]",reveals the best travel photo of 2019,5,11,5
+1788,"two more camp pendleton marines and a sailor arrested in human smuggling, drug probe",guilt,"[[""arrested in human smuggling, drug probe""]]","arrested in human smuggling, drug probe",12,18,4
+93,mom arrested after son’s pal scalded in ‘hot water challenge’ at sleepover,annoyance,"[[""‘hot water challenge’ at sleepover""]]",‘hot water challenge’ at sleepover,13,20,1
+1628,boris johnson faces questions of character,annoyance,"[[""boris johnson faces questions of character""]]",boris johnson faces questions of character,1,9,1
+4472,man accused of marrying 4 women pleads guilty,guilt,"[[""accused of marrying 4 women""],[""pleads guilty""]]",accused of marrying 4 women,2,6,4
+4951,"william barr just threw himself to the wolves, and donald trump is next",negative_anticipation_including_pessimism,"[[""himself to the""],[""and donald trump is next""]]",himself to the,7,9,7
+483,"on the brazil border, venezuela's political crisis has become a humanitarian nightmare",sadness,"[[""crisis has become a humanitarian nightmare""]]",crisis has become a humanitarian nightmare,15,20,12
+4177,letters: gop neglecting its duties on election security,disgust,"[[""gop neglecting its duties on election security""]]",gop neglecting its duties on election security,3,11,2
+2927,donald trump gets pranked in hilarious fashion,positive_surprise,"[[""gets pranked in hilarious fashion""]]",gets pranked in hilarious fashion,5,13,10
+1606,aoc has some advice for parents,positive_anticipation_including_optimism,"[[""has some advice for parents""]]",has some advice for parents,3,7,9
+1421,"from coldplay private shows to ronaldo’s yacht, here’s how crazy rich indians holiday",joy,"[[""yacht, here’s how crazy rich indians holiday""],[""ronaldo’s yacht, here’s how crazy rich indians""]]","yacht, here’s how crazy rich indians holiday",12,23,5
+4772,stand up to anti-semitism and historical revisionism. because truth matters.,trust,"[[""stand up to anti-semitism and historical revisionism""]]",stand up to anti-semitism and historical revisionism,1,11,14
+620,trump's thrilled he's finally got an attorney general willing to sell out the american people,disgust,"[[""finally got an attorney general willing to sell out the american people""]]",finally got an attorney general willing to sell out the american people,9,22,2
+200,wheeler pledges help for miami’s water woes but ignores climate change,trust,"[[""help for miami’s water woes but ignores climate change""]]",help for miami’s water woes but ignores climate change,5,18,14
+301,london bus attack victim urges fight against all lgbt hate crimes,annoyance,"[[""LGBT hate crimes""]]",lgbt hate crimes,10,14,1
+4868,meghan mccain: pete buttigieg's socialism comment was 'just ridiculous',shame,"[[""pete buttigieg's socialism comment""]]",pete buttigieg's socialism comment,7,15,13
+1815,bayside bowl putting on a show for pba playoffs on fox,joy,"[[""pba playoffs on fox""]]",pba playoffs on fox,9,13,5
+448,"in upset, dutch labour party wins european parliament vote-exit poll",positive_surprise,"[[""party wins European Parliament""]]",party wins european parliament,7,12,10
+4796,don lemon admits aoc faked black accent,shame,"[[""aoc faked black accent""]]",aoc faked black accent,4,9,13
+613,the rebellion in hong kong is intensifying,annoyance,"[[""hong kong is intensifying""]]",hong kong is intensifying,4,11,1
+2648,"prosecutors: islamist planned to run over pedestrians with u-haul in national harbor, maryland",guilt,"[[""planned to run over pedestrians with u-haul in national harbor, maryland""]]","planned to run over pedestrians with u-haul in national harbor, maryland",6,22,4
+4210,a traffic stop turned into a police chase when a 65-year-old woman refused to sign for an $80 ticket,anger,"[[""refused to sign for an $80 ticket""]]",refused to sign for an $80 ticket,17,24,0
+3232,"the new right, dripping with malice",negative_surprise,"[[""dripping with malice""]]",dripping with malice,5,8,8
+4218,dem rep’s house speech: i’m tired of hearing about abortion from “sex-starved males on this floor”,anger,"[[""dem rep’s house speech: i’m tired of hearing about abortion from “sex-starved males on this floor”"",""sex-starved males on this floor""]]",dem rep’s house speech: i’m tired of hearing about abortion from “sex-starved males on this floor”,1,27,0
+2112,caster semenya says she was ‘constantly sick’ when track officials made her take drugs to compete,sadness,"[[""when track officials made her take drugs to compete""]]",when track officials made her take drugs to compete,13,21,12
+3937,the us government should declare climate emergency,disgust,"[[""declare climate emergency""]]",declare climate emergency,5,7,2
+3082,officials announce new investigation into infamous atlanta child murders,negative_anticipation_including_pessimism,"[[""investigation into infamous atlanta child murders"",""announce new investigation into infamous atlanta child murders""]]",investigation into infamous atlanta child murders,4,11,7
+3011,miss alabama's first latina contestant in 20 years sees opportunity galore,positive_anticipation_including_optimism,"[[""first latina contestant in 20 years sees opportunity galore""]]",first latina contestant in 20 years sees opportunity galore,7,17,9
+2902,‘trump supporters for ocasio-cortez’: aoc tells the bizarre story of her most surprising fans,negative_surprise,"[[""aoc tells the bizarre story of her most surprising fans""]]",aoc tells the bizarre story of her most surprising fans,15,25,8
+3375,propublica illinois and propublica earn three nabj salute to excellence awards nominations,joy,"[[""earn three nabj salute to excellence awards nominations""]]",earn three nabj salute to excellence awards nominations,11,20,5
+2767,delta reduces the amount of space passengers can recline seats by on airbus a320 fleet of planes,negative_surprise,"[[""reduces the amount of space passengers can recline seats by on airbus a320 fleet of planes"",""can recline seats by on airbus a320 fleet of planes""]]",reduces the amount of space passengers can recline seats by on airbus a320 fleet of planes,2,21,8
+3936,sri lanka's catholic churches cancel sunday mass a week after deadly bombings,annoyance,"[[""catholic churches cancel sunday mass a week after deadly bombings""]]",catholic churches cancel sunday mass a week after deadly bombings,7,19,1
+4835,"democratic lawmaker unloads on ocasio-cortez, chief of staff for 'using the race card'",anger,"[[""unloads on ocasio-cortez""]]",unloads on ocasio-cortez,4,14,0
+3219,sen. tom cotton calls for irs investigation into political hate group southern poverty law center,anger,"[[""political hate group""],[""group southern""]]",political hate group,13,15,0
+2050,"marine shot, killed while on guard duty at california base",negative_surprise,"[[""killed while on guard duty at california base""]]",killed while on guard duty at california base,4,15,8
+1691,julia louis-dreyfus reacts to that marianne williamson debate moment,annoyance,"[[""julia louis-dreyfus reacts to that marianne williamson debate moment""]]",julia louis-dreyfus reacts to that marianne williamson debate moment,1,23,1
+846,the senate is hollowing out the united states’ diplomatic corps,negative_surprise,"[[""hollowing out the united states’ diplomatic corps""]]",hollowing out the united states’ diplomatic corps,4,12,8
+1962,a decline in capital investment reveals the false promise of trump’s tax bill,negative_surprise,"[[""false promise of trump’s tax bill""]]",false promise of trump’s tax bill,8,16,8
+3488,pelosi and schumer are playing too nice,joy,"[[""are playing too nice""]]",are playing too nice,8,11,5
+2952,nike inks endorsement deal with basketball star zion williamson,positive_surprise,"[[""deal with basketball star zion williamson"",""inks endorsement deal with basketball star""]]",deal with basketball star zion williamson,6,14,10
+3363,no us president has intervened as unapologetically in recent years in british affairs as trump,negative_surprise,"[[""intervened as unapologetically in recent years in british affairs as trump""]]",intervened as unapologetically in recent years in british affairs as trump,5,22,8
+1399,dayton shooter connor betts fired at least 41 rounds in 30 seconds: cops,sadness,"[[""fired at least 41 rounds in 30 seconds""]]",fired at least 41 rounds in 30 seconds,8,15,12
+4431,"shooting at san diego-area synagogue causes injuries, man detained",fear,"[[""shooting at san diego-area synagogue causes injuries, man detained""]]","shooting at san diego-area synagogue causes injuries, man detained",1,14,3
+1871,lsu professor on new football locker room: 'this state values athletics more than academics',annoyance,"[[""this state values athletics more than academics'""]]",this state values athletics more than academics',11,18,1
+3448,"'moderate' steve bullock is an extremist, and a coward too",disgust,"[[""is an extremist, and a coward too""]]","is an extremist, and a coward too",9,18,2
+1139,some maine republicans fret new state ballad is too hard on the confederacy,disgust,"[[""fret new state ballad is too hard on the confederacy""]]",fret new state ballad is too hard on the confederacy,6,19,2
+3373,politico: delaney proves the adage — there’s no such thing as bad publicity,positive_anticipation_including_optimism,"[[""there’s no such thing as bad publicity""]]",there’s no such thing as bad publicity,14,22,9
+3899,woke new nyt op-ed: i broke up with my girlfriend because she’s white,disgust,"[[""because she’s white""]]",because she’s white,15,19,2
+1278,"kirstjen nielsen was heartless, but not heartless enough for trump",disgust,"[[""but not heartless enough for trump""]]",but not heartless enough for trump,13,20,2
+1329,"white house releases photos of trump, rush limbaugh playing golf",positive_surprise,"[[""rush limbaugh playing golf""]]",rush limbaugh playing golf,9,13,10
+2554,parents worry more about bullying than anything else,fear,"[[""bullying than anything else""]]",bullying than anything else,5,8,3
+1011,here’s what donald trump can teach democrats about winning crossover votes,annoyance,"[[""democrats about winning crossover votes""]]",democrats about winning crossover votes,11,16,1
+267,deputy surprises kid with new toys after his were stolen,annoyance,"[[""kid with new toys after his were stolen""]]",kid with new toys after his were stolen,3,10,1
+3494,today’s front pages: ‘milkshaken’ farage and rise in racism,disgust,"[[""‘milkshaken’ farage and rise in racism""]]",‘milkshaken’ farage and rise in racism,7,17,2
+3751,political operatives got donors to give millions. the money wasn’t used as promised. here’s how they did it.,negative_surprise,"[[""the money wasn’t used as promised. here’s how they did it.""]]",the money wasn’t used as promised. here’s how they did it.,10,26,8
+2256,carolyn hax: telling someone their kid’s name is dumb. there’s a name for that.,anger,"[[""telling someone their kid’s name is dumb""]]",telling someone their kid’s name is dumb,7,15,0
+3791,trump is not a transformative foreign policy president,negative_surprise,"[[""foreign policy president""]]",foreign policy president,8,10,8
+956,daily caller confuses andrew gillum with black cnn commentator bakari sellers,shame,"[[""confuses andrew gillum with black cnn commentator bakari sellers""]]",confuses andrew gillum with black cnn commentator bakari sellers,3,20,13
+2205,passenger feared to have fallen overboard on cruise ship,fear,"[[""to have fallen overboard on cruise ship""]]",to have fallen overboard on cruise ship,3,10,3
+2335,sessions sides with barr over fbi's 'spying' on trump campaign,trust,"[[""spying' on trump campaign"",""over fbi's 'spying' on trump campaign""]]",spying' on trump campaign,12,17,14
+4874,prince harry says he and meghan will have 2 kids 'maximum' because of the environment,annoyance,"[[""because of the environment""]]",because of the environment,16,19,1
+3401,the white suburbs that fought busing aren’t so white anymore,negative_surprise,"[[""the white suburbs that fought busing aren’t so white anymore"",""busing aren’t so white anymore""]]",the white suburbs that fought busing aren’t so white anymore,1,13,8
+1149,tech is no match for human grossness,shame,"[[""tech is no match for human grossness""]]",tech is no match for human grossness,1,8,13
+3852,"mayor pete buttigieg on trump, islamophobia, and his presidential bid",negative_surprise,"[[""and his presidential bid""]]",and his presidential bid,17,20,8
+1726,official house democrats' twitter uses aoc's 'women of color' remark to slam her chief of staff,anger,"[[""aoc's 'women of color' remark to slam her chief of staff"",""remark to slam her chief of staff""]]",aoc's 'women of color' remark to slam her chief of staff,10,25,0
+3680,"cash, credits and crisis: life in the new european 'precariat'",negative_surprise,"[[""cash, credits and crisis: life in the new european 'precariat'""]]","cash, credits and crisis: life in the new european 'precariat'",1,19,8
+2659,sweden could reopen rape investigation of julian assange; u.k. urged to prioritize swedish case over extradition to u.s.,guilt,"[[""could reopen rape investigation of julian assange"",""u.k. urged to prioritize swedish case over extradition to u.s.""]]",could reopen rape investigation of julian assange,4,16,4
+1380,"buzzfeed used user data, created anti-trump ads, wrote anti-trump hit pieces while taking millions from far left pacs",annoyance,"[[""while taking millions from far left pacs""]]",while taking millions from far left pacs,22,30,1
+2804,joe biden’s union schtick is all performance. his pollster just signed up to lobby against labor for trump’s nafta 2.0.,trust,"[[""his pollster just signed up to lobby against labor for trump’s nafta 2.0.""]]",his pollster just signed up to lobby against labor for trump’s nafta 2.0.,15,36,14
+3088,"video shows runaway tire on highway bouncing over barrier, crashing into jeep",negative_surprise,"[[""runaway tire on highway bouncing over barrier, crashing into jeep""]]","runaway tire on highway bouncing over barrier, crashing into jeep",3,15,8
+4943,iran would be unwise to play the long game with trump,negative_anticipation_including_pessimism,"[[""be unwise to play the long game with trump""]]",be unwise to play the long game with trump,4,14,7
+1063,media threatens to dox microsoft employee who said execs are ‘awarded’ for discriminating against white & asian men,anger,"[[""discriminating against white & asian men""]]",discriminating against white & asian men,20,28,0
+2660,texas rep. will hurd announces retirement,guilt,"[[""announces retirement""]]",announces retirement,11,12,4
+3950,a journalism instructor compares a conservative student group to the kkk,sadness,"[[""compares a conservative student group to the kkk""]]",compares a conservative student group to the kkk,4,13,12
+1903,robert mueller just pulled off a victory in plain sight and almost everyone missed it,joy,"[[""pulled off a victory""],[""victory in plain sight and almost everyone missed it""]]",pulled off a victory,7,10,5
+2075,vladimir putin calls for defending internet free speech,positive_anticipation_including_optimism,"[[""defending internet free speech""]]",defending internet free speech,9,12,9
+4469,letters: article seemed to blame victim in rape case,disgust,"[[""article seemed to blame victim in rape case""]]",article seemed to blame victim in rape case,3,10,2
+4616,"trump yarmulkas cause a mini-outrage, reminders go out how democrat versions were warmly embraced",anger,"[[""reminders go out how democrat versions were warmly embraced""]]",reminders go out how democrat versions were warmly embraced,13,23,0
+4460,"dow industrials end more than 260 points higher, up 1%",positive_surprise,"[[""end more than 260 points higher, up 1%""]]","end more than 260 points higher, up 1%",5,14,10
+1722,oopsie daisy! alyssa milano’s tweet wasn’t the dunk on american gun owners she thought it was and rofl,negative_surprise,"[[""american gun owners she thought it was and rofl""]]",american gun owners she thought it was and rofl,24,36,8
+4909,the polling industry is in crisis,fear,"[[""is in crisis""]]",is in crisis,4,6,3
+655,aoc tells trump “we’re not going anywhere”,anger,"[[""“we’re not going anywhere”""]]",“we’re not going anywhere”,6,13,0
+3058,these magnetic microbots will scrub your teeth clean,positive_surprise,"[[""your teeth clean""]]",your teeth clean,8,10,10
+4365,a growing number of pregnant women are using marijuana,negative_surprise,"[[""using marijuana""]]",using marijuana,8,9,8
+549,trump denies trying to restart family separations while blaming obama for policy – live,guilt,"[[""obama for policy""]]",obama for policy,13,17,4
+2342,"tv comic takes lead in ukraine election first round, early results show",positive_surprise,"[[""tv comic takes lead in ukraine election first round""]]",tv comic takes lead in ukraine election first round,1,12,10
+887,what caster semenya’s case means for women’s sport,pride,"[[""means for women’s sport""]]",means for women’s sport,10,15,11
+4841,leon panetta: trump's foreign intel comments are a 'violation of the oath of office',disgust,"[[""oath of office""]]",oath of office,20,22,2
+4688,"persistence pays, but the formation stays: sunday reflection",pride,"[[""but the formation stays: sunday reflection""]]",but the formation stays: sunday reflection,5,12,11
+0,cops in one village have been convicted of 70 crimes. here’s what they had to say about it.,anger,"[[""cops in one village have been convicted of 70 crimes""]]",cops in one village have been convicted of 70 crimes,1,10,0
+1305,"time picks christine blasey ford as 'influential,' kamala harris pens puff piece",trust,"[[""harris pens""]]",harris pens,19,23,14
+1887,newsletter: essential california week in review: a tragedy in gilroy,sadness,"[[""a tragedy in gilroy""]]",a tragedy in gilroy,13,18,12
+3889,trump administration finally wins a sanctuary city grant condition case,positive_surprise,"[[""finally wins a sanctuary city grant condition case""]]",finally wins a sanctuary city grant condition case,4,11,10
+2277,experts accuse china of murdering people and taking their organs,guilt,"[[""murdering people and taking their organs""]]",murdering people and taking their organs,8,13,4
+3298,boeing inks deal to provide parts for rival airbus planes,positive_surprise,"[[""inks deal to provide parts for rival airbus planes"",""provide parts for rival airbus planes""]]",inks deal to provide parts for rival airbus planes,4,14,10
+2859,taiwan puppet master's push to keep ancient art alive,joy,"[[""push to keep ancient art alive"",""keep ancient art alive""]]",push to keep ancient art alive,8,13,5
+4520,‘you stick with your anti-semitism’: aoc says she ‘will never apologize’ for trivializing the holocaust,negative_anticipation_including_pessimism,"[[""aoc says she ‘will never apologize’ for trivializing the holocaust""]]",aoc says she ‘will never apologize’ for trivializing the holocaust,12,28,7
+1605,a tale of two surveillance states,trust,"[[""a tale of two surveillance states""]]",a tale of two surveillance states,1,6,14
+3498,trump’s disturbing answer about how he could ‘unite’ the country echoes his maniacal demand for loyalty,disgust,"[[""demand for loyalty""]]",demand for loyalty,21,23,2
+1064,mexico’s government still foolishly thinks it can reason with trump,pride,"[[""thinks it can reason with trump""]]",thinks it can reason with trump,10,16,11
+162,the tenants’ rights movement is expanding beyond big cities,positive_surprise,"[[""the tenants’ rights movement is expanding beyond big cities""]]",the tenants’ rights movement is expanding beyond big cities,1,10,10
+2564,"she moved from canada to somalia to tell positive stories, but ended up dead in a terrorist attack",negative_surprise,"[[""ended up dead in a terrorist attack""]]",ended up dead in a terrorist attack,16,22,8
+3720,"inspired by isis, man planned nice-style attack in dc area",negative_surprise,"[[""man planned nice-style attack in dc area""]]",man planned nice-style attack in dc area,6,15,8
+3007,"french official: notre dame fire weakening, cathedral’s towers ‘safe’",fear,"[[""notre dame fire weakening, cathedral’s towers ‘safe’"",""weakening, cathedral’s towers ‘safe’""]]","notre dame fire weakening, cathedral’s towers ‘safe’",5,18,3
+4239,"judge napolitano says americans should be troubled by 'amoral, deceptive' trump exposed in mueller report",negative_surprise,"[[""should be troubled by 'amoral, deceptive' trump exposed in mueller report""]]","should be troubled by 'amoral, deceptive' trump exposed in mueller report",9,27,8
+3214,"san diego synagogue shooting was almost much worse, rabbi says",sadness,"[[""was almost much worse, rabbi says""]]","was almost much worse, rabbi says",7,13,12
+4281,the memo: dems debate trump response – 'being righteous and losing sucks',disgust,"[[""being righteous and losing sucks""]]",being righteous and losing sucks,13,18,2
+3679,capturing a nigerian church surviving south east london gentrification,guilt,"[[""surviving south east london gentrification""]]",surviving south east london gentrification,7,14,4
+90,mexican official: no plans to stop migrant caravans,negative_anticipation_including_pessimism,"[[""no plans to stop migrant caravans""]]",no plans to stop migrant caravans,6,12,7
+1460,kellyanne conway just did it again,positive_surprise,"[[""just did it again"",""kellyanne conway just did it again""]]",just did it again,6,9,10
+4470,lucy flores discusses her allegations against joe biden,disgust,"[[""her allegations against joe biden""]]",her allegations against joe biden,7,13,2
+3175,"live nation entertainment, inc. -- moody's upgrades live nation's cfr to ba2 stable",anger,"[[""upgrades live nation's cfr to ba2 stable"",""moody's upgrades live nation's cfr to ba2 stable""]]",upgrades live nation's cfr to ba2 stable,14,26,0
+47,house panel subpoenas kellyanne conway over ‘egregious’ ethics violations,annoyance,"[[""ethics violations""]]",ethics violations,20,21,1
+697,crooked mechanic and ebay seller are jailed for repairing wrecked top-of-the-range bmws,guilt,"[[""jailed for repairing wrecked top-of-the-range bmws""]]",jailed for repairing wrecked top-of-the-range bmws,8,22,4
+2866,"the central park five, criminal justice, and donald trump",negative_anticipation_including_pessimism,"[[""the central park five, criminal justice, and donald trump""]]","the central park five, criminal justice, and donald trump",1,13,7
+4270,senators and state department at each other’s throats,anger,"[[""senators and state department at each other’s throats""]]",senators and state department at each other’s throats,1,11,0
+461,"larger actors rarely get cast as romantic leads, says james corden",annoyance,"[[""larger actors rarely get cast as romantic leads""]]",larger actors rarely get cast as romantic leads,1,8,1
+3476,"germany: 26yo eritrean migrant repays family who took him in by stabbing their 11yo child while shouting ‘die, die, die!’",anger,"[[""stabbing their 11yo child""]]",stabbing their 11yo child,20,24,0
+2134,scientists 'alarmed' after 13th dead gray whale washes up in northern california this year,fear,"[[""13th dead gray whale washes up in northern california this year""]]",13th dead gray whale washes up in northern california this year,6,21,3
+611,syrian refugee arrested for alleged isis terror plot to attack christian church in pittsburgh,fear,"[[""alleged isis terror plot to attack christian church in pittsburgh""]]",alleged isis terror plot to attack christian church in pittsburgh,6,20,3
+2547,no more deaths trial opens as more bodies discovered along arizona-mexico border,disgust,"[[""more bodies discovered along arizona-mexico border""]]",more bodies discovered along arizona-mexico border,7,18,2
+1538,the terrible thing that trump and elijah cummings agree on,negative_surprise,"[[""cummings agree on"",""the terrible thing that trump and elijah cummings agree on""]]",cummings agree on,11,15,8
+2258,chernobyl: rescuing the abandoned dogs in the exclusion zone,joy,"[[""rescuing the abandoned dogs in the exclusion zone""]]",rescuing the abandoned dogs in the exclusion zone,6,13,5
+3613,the green new deal will hit the poor with higher energy costs,negative_anticipation_including_pessimism,"[[""with higher energy""]]",with higher energy,9,11,7
+1082,"number of the day: 18% of er visits end with surprise bills, report says",negative_surprise,"[[""end with surprise bills, report says""]]","end with surprise bills, report says",11,17,8
+2634,"ilhan omar supporters caught threatening, attempting “to dox a somali whistleblower” who revealed ilhan’s crimes",guilt,"[[""caught threatening, attempting “to dox a somali whistleblower” who revealed ilhan’s crimes""]]","caught threatening, attempting “to dox a somali whistleblower” who revealed ilhan’s crimes",6,29,4
+657,acting ice director: aoc’s concentration camp comments demoralize border agents,sadness,"[[""aoc’s concentration camp comments demoralize border agents""]]",aoc’s concentration camp comments demoralize border agents,5,16,12
+4398,donald trump concerned about google and facebook digital monopoly,fear,"[[""google and facebook digital monopoly""]]",google and facebook digital monopoly,7,14,3
+368,donald trump gets flustered by yet another woman in charge,shame,"[[""gets flustered by yet another woman in charge""]]",gets flustered by yet another woman in charge,5,13,13
+3487,police protect black female trump supporter from violent white antifa terrorists in dc,joy,"[[""from violent white antifa terrorists in dc""]]",from violent white antifa terrorists in dc,8,16,5
+2533,landmark un report to show we are in a human-induced extinction crisis,negative_anticipation_including_pessimism,"[[""we are in a human-induced""]]",we are in a human-induced,6,12,7
+695,commander-in-chief picks flatterer-in-chief for fed board,trust,"[[""for fed board""]]",for fed board,14,16,14
+1783,trump suggests john kerry's meetings with iran 'big violation of logan act',negative_surprise,"[[""meetings with iran 'big violation of logan act'""]]",meetings with iran 'big violation of logan act',11,22,8
+4552,"extremist materials found at home of gilroy garlic festival shooter, source says",negative_surprise,"[[""extremist materials found""]]",extremist materials found,1,5,8
+2709,the us team just won the women’s world cup—and boosted its case for equal pay,joy,"[[""and boosted its case for equal pay""]]",and boosted its case for equal pay,13,20,5
+63,"it will cost $600,000 to cover up george washington mural that 'traumatized' san fran high school students",negative_surprise,"[[""san fran high school students""]]",san fran high school students,22,28,8
+1046,lauren sanchez and patrick whitesell file for divorce as bezos split is finalized: reports,negative_surprise,"[[""whitesell file for divorce as bezos split is finalized: reports""]]",whitesell file for divorce as bezos split is finalized: reports,9,22,8
+3024,bernie sanders fox news town hall draws more than 2.55 million,positive_surprise,"[[""more than 2.55 million""]]",more than 2.55 million,11,16,10
+4683,lottery ticket worth $530 million sold in san diego store,positive_surprise,"[[""$530 million sold in san diego store""]]",$530 million sold in san diego store,4,13,10
+443,hong kong launches massive resistance against china,annoyance,"[[""Launches Massive Resistance""]]",launches massive resistance,5,7,1
+3813,zimbabwean manners mukuwiri recycles rubbish into art,positive_anticipation_including_optimism,"[[""recycles rubbish into art"",""rubbish into art""]]",recycles rubbish into art,12,18,9
+2941,"in turkey, the latest elections had over 80 percent voter turnout. here’s why.",positive_surprise,"[[""the latest elections had over 80 percent voter turnout.""]]",the latest elections had over 80 percent voter turnout.,4,13,10
+2776,ethiopian airlines was a symbol of national pride. then disaster struck,negative_surprise,"[[""symbol of national""],[""then disaster struck""]]",symbol of national,8,10,8
+3617,the obscene difficulty of depriving a troubled white man of a gun,fear,"[[""white man of a gun""]]",white man of a gun,13,17,3
+324,scientists in bid to set up a ‘poo bank’ as stool transplants prove to be effective,positive_anticipation_including_optimism,"[[""stool transplants prove to be effective""]]",stool transplants prove to be effective,14,20,9
+2667,trump spent saturday morning furiously tweeting about his accomplishments,anger,"[[""spent saturday morning furiously tweeting about his accomplishments""]]",spent saturday morning furiously tweeting about his accomplishments,3,14,0
+1328,"what hbo’s “chernobyl” got right, and what it got terribly wrong",negative_anticipation_including_pessimism,"[[""got right, and what it got terribly wrong""]]","got right, and what it got terribly wrong",12,20,7
+1869,kottu roti: the street food that makes you feel like dancing,joy,"[[""the street food that makes you feel like dancing""]]",the street food that makes you feel like dancing,7,15,5
+3356,mueller refused to deny his team leaked roger stone’s fbi raid to cnn,annoyance,"[[""leaked roger stone’s fbi raid to cnn""]]",leaked roger stone’s fbi raid to cnn,9,21,1
+552,u.n. human-rights official: u.s. abortion bans are ‘extremist hate’ and ‘torture’,anger,"[[""u.s. abortion bans are ‘extremist hate’ and ‘torture’""]]",u.s. abortion bans are ‘extremist hate’ and ‘torture’,10,27,0
+1359,"across the country, progressives are pushing for universal rent control — and new york is next",negative_surprise,"[[""universal rent control — and new york is next""]]",universal rent control — and new york is next,10,19,8
+486,"palestinians: eu, russia and un should counter us peace plan",disgust,"[[""eu, russia and un should counter us peace plan""]]","eu, russia and un should counter us peace plan",6,18,2
+2403,farage makes trumpian trouble with his new brexit party,annoyance,"[[""with his new brexit party""]]",with his new brexit party,8,14,1
+4143,thousands of seabirds starved to death in the bering sea. scientists see evidence of climate change.,sadness,"[[""starved to death in the bering""]]",starved to death in the bering,5,12,12
+3365,"obama on biden: great vp, but you’re on your own for the nomination",love_including_like,"[[""great vp, but you’re on your own for the nomination""]]","great vp, but you’re on your own for the nomination",8,21,6
+4156,voting rights: census bureau puts out new estimate of cost of citizenship question,positive_surprise,"[[""census bureau puts out new estimate"",""census bureau puts out new estimate of cost of citizenship question""]]",census bureau puts out new estimate,4,9,10
+1204,"trump's campaign tries to clean up his foreign dirt comments a little, but he's not helping",love_including_like,"[[""his foreign dirt comments a little, but he's not helping""]]","his foreign dirt comments a little, but he's not helping",10,22,6
+4335,laura ingraham is upset paul nehlen is censored on social media. here's who he is,anger,"[[""paul nehlen is censored on social media.""]]",paul nehlen is censored on social media.,8,20,0
+1052,"livestream: leftist democrats begin to eat their own, accelerating the collapse of the democratic party",negative_anticipation_including_pessimism,"[[""accelerating the collapse of the democratic party""]]",accelerating the collapse of the democratic party,15,24,7
+4435,the latest: european powers concerned about iran nuke deal,fear,"[[""nuke deal""]]",nuke deal,12,14,3
+4714,warren and sanders are talking tough about corporate control of food,positive_surprise,"[[""corporate control of food""]]",corporate control of food,10,13,10
+2646,nancy pelosi is the real “grim reaper”: minority whip scalise,fear,"[[""minority whip scalise""]]",minority whip scalise,15,19,3
+3915,"brexit: 10,000 riot police readied for no-deal chaos",negative_anticipation_including_pessimism,"[[""10,000 riot police readied for no-deal chaos""]]","10,000 riot police readied for no-deal chaos",5,16,7
+1457,john carlos frey: america's deadly stealth war on the mexico border is approaching genocide,negative_anticipation_including_pessimism,"[[""america's deadly stealth war on the mexico border is approaching genocide""]]",america's deadly stealth war on the mexico border is approaching genocide,9,26,7
+4506,america falls out of love with mitt romney’s foreign policy,love_including_like,"[[""mitt romney’s foreign policy""]]",mitt romney’s foreign policy,9,17,6
+1715,netanyahu wants israel to name new town on golan heights after trump,trust,"[[""new town on golan heights after trump""]]",new town on golan heights after trump,10,18,14
+2364,"u.s. blames iran for tanker attacks in gulf of oman, oil prices rise",anger,"[[""attacks in gulf of""]]",attacks in gulf of,11,15,0
+9,donald trump has crazed meltdown in white house driveway,negative_surprise,"[[""has crazed meltdown in white house driveway""]]",has crazed meltdown in white house driveway,5,13,8
+4190,there’s been a run on red neckties at the trump store,positive_anticipation_including_optimism,"[[""there’s been a run on red neckties""]]",there’s been a run on red neckties,1,10,9
+2098,propublica’s hannah dreier wins molly national journalism prize and is a michael kelly award finalist,positive_surprise,"[[""molly national journalism prize and is a michael kelly award finalist""]]",molly national journalism prize and is a michael kelly award finalist,13,27,10
+4363,‘anti-semitic rhetoric’ at duke-unc event prompts rep. holding to ask for federal probe,disgust,"[[""federal probe""]]",federal probe,24,25,2
+1647,"democrats are winning the battle of ideas, but could still lose the war",positive_anticipation_including_optimism,"[[""could still lose the war""]]",could still lose the war,11,15,9
+4668,former florida sen. bill nelson vindicated after gov. desantis confirms russian hackers gained access to county voter databases in 2016,positive_surprise,"[[""gov. desantis confirms russian hackers gained access to county voter databases in 2016""]]",gov. desantis confirms russian hackers gained access to county voter databases in 2016,16,35,10
+122,republican-led maryland commits to sweeping clean energy standards,positive_surprise,"[[""energy standards""]]",energy standards,12,13,10
+559,warning: don’t believe everything you hear about the mueller report,negative_anticipation_including_pessimism,"[[""you hear about the mueller report""]]",you hear about the mueller report,8,15,7
+4151,turkey and new zealand row over the christchurch massacre,sadness,"[[""row over the christchurch massacre""]]",row over the christchurch massacre,7,13,12
+4556,france mourns as fire rips through historic notre-dame cathedral that has stood for centuries,negative_surprise,"[[""fire rips through historic notre-dame cathedral""]]",fire rips through historic notre-dame cathedral,7,17,8
+845,the sec revealed the punishment it wants elon musk to face if he violates the terms of their settlement in the future (tsla),annoyance,"[[""the terms of their settlement in the future (tsla)""]]",the terms of their settlement in the future (tsla),19,30,1
+3313,"drive-by shooting outside australia nightclub leaves 1 dead, 3 injured",sadness,"[[""leaves 1 dead, 3 injured""]]","leaves 1 dead, 3 injured",10,15,12
+4147,trump finds his red line on iran,sadness,"[[""red line on iran""]]",red line on iran,5,9,12
+2038,anti-islamic tweets further imperil mainstream new jersey republicans,fear,"[[""imperil mainstream new jersey republicans""]]",imperil mainstream new jersey republicans,10,17,3
+4854,"youtube responds to vox writer's campaign to 'punish' steven crowder, and he is not happy about it",anger,"[[""punish' steven crowder, and he is not happy about it""]]","punish' steven crowder, and he is not happy about it",14,28,0
+1036,judge agrees to release coast guard officer accused of plotting terror attack,fear,"[[""plotting terror attack""]]",plotting terror attack,10,12,3
+2624,"five charged in texas human trafficking, sex slavery scheme",guilt,"[[""texas human trafficking, sex slavery scheme""]]","texas human trafficking, sex slavery scheme",4,12,4
+2297,julián castro calls trump jr a ‘coward’ over racist attack on kamala harris,anger,"[[""over racist attack on kamala harris""]]",over racist attack on kamala harris,15,24,0
+556,utah couple executed in front of son at mexico roadblock,negative_surprise,"[[""executed in front of son at mexico roadblock""]]",executed in front of son at mexico roadblock,4,14,8
+4789,"'ashamed’ of brexit, elton john declares he’s ‘not an english idiot’",shame,"[[""declares he’s ‘not an english idiot""]]",declares he’s ‘not an english idiot,14,24,13
+2898,we’ll be looking at an entirely different political landscape before this day is over,negative_anticipation_including_pessimism,"[[""we’ll be looking at an entirely different political landscape before this day is over""]]",we’ll be looking at an entirely different political landscape before this day is over,1,16,7
+1007,health care ceo slams medicare for all,anger,"[[""health care ceo slams medicare for all"",""medicare for all""]]",health care ceo slams medicare for all,1,11,0
+4184,syrian ‘refugee’ breaks female 7th grade teacher’s jaw as she searches him for knife,anger,"[[""breaks female 7th grade teacher’s jaw as she searches him for knife"",""female 7th grade teacher’s jaw as she searches him for knife""]]",breaks female 7th grade teacher’s jaw as she searches him for knife,6,19,0
+2790,"hal prince, transformational broadway producer and director, has died",sadness,"[[""transformational broadway producer and director, has died"",""has died""]]","transformational broadway producer and director, has died",5,14,12
+3735,"megan rapinoe shares a great idea for boosting women’s pay, and it involves capitalism",positive_anticipation_including_optimism,"[[""for boosting women’s pay, and it involves capitalism""]]","for boosting women’s pay, and it involves capitalism",10,21,9
+3788,trump immigration and asylum chief blames father in devastating photo for own drowning death,guilt,"[[""devastating photo for own drowning death"",""in devastating photo for own drowning death""]]",devastating photo for own drowning death,11,16,4
+2972,the unexpected upshot of kavanaugh’s first term on the supreme court,positive_surprise,"[[""first term on the supreme court""]]",first term on the supreme court,11,16,10
+311,"nearly 5,000 people stand in rain for hours to save boy with cancer",trust,"[[""stand in rain for hours to save boy with cancer""]]",stand in rain for hours to save boy with cancer,6,15,14
+515,sudan protesters call for civilian rule after military kills over 100 at sit-in,anger,"[[""kills over 100 at sit-in""]]",kills over 100 at sit-in,10,16,0
+218,fighting for the right to repair our stuff,pride,"[[""the right to repair our stuff""]]",the right to repair our stuff,3,8,11
+2086,former iranian minister: iran will not be bullied,negative_surprise,"[[""iran will not be bullied""]]",iran will not be bullied,7,13,8
+428,facebook's new chatbot is unsure if mark zuckerberg is a murderer,negative_surprise,"[[""if mark zuckerberg is a murderer""]]",if mark zuckerberg is a murderer,10,17,8
+1825,congresswoman: prosecute those poking fun of congressional members,fear,"[[""those poking fun of congressional members""]]",those poking fun of congressional members,6,11,3
+4015,7 ways to fix america’s fiscal mess,sadness,"[[""7 ways to fix america’s fiscal mess""]]",7 ways to fix america’s fiscal mess,1,11,12
+4793,barr is an accomplice in trump's 'witch hunt' smears,shame,"[[""accomplice in trump's""]]",accomplice in trump's,5,13,13
+4941,"fed ready to act if economy worsens, powell says",negative_anticipation_including_pessimism,"[[""ready to act if economy worsens, powell says"",""fed ready to act""]]","ready to act if economy worsens, powell says",2,13,7
+839,"the decathlon: f1 rivals hamilton and bottas have mutual respect, gatland to lead lions, epl title predictions",positive_surprise,"[[""f1 rivals hamilton and bottas have mutual respect, gatland to lead lions, epl title predictions""]]","f1 rivals hamilton and bottas have mutual respect, gatland to lead lions, epl title predictions",7,32,10
+2391,cops raid dallas catholic diocese after church leaders reportedly 'thwarted' investigation into child sexual abuse,negative_surprise,"[[""cops raid dallas catholic diocese after church leaders reportedly 'thwarted' investigation into child sexual abuse"",""child sexual abuse""]]",cops raid dallas catholic diocese after church leaders reportedly 'thwarted' investigation into child sexual abuse,1,22,8
+3364,notre dame basketball coach calls for more women in power: 'time's up. it is our turn',trust,"[[""calls for more women in power: 'time's up. it is our turn'"",""women in power: 'time's up. it is our turn'""]]",calls for more women in power: 'time's up. it is our turn',7,24,14
+2409,hamas rebuffs leader's call for worldwide attacks on jews,annoyance,"[[""worldwide attacks on jews"",""rebuffs""]]",worldwide attacks on jews,11,15,1
+1546,their family bought land one generation after slavery. the reels brothers spent eight years in jail for refusing to leave it.,guilt,"[[""years in jail for refusing to leave it.""]]",years in jail for refusing to leave it.,16,24,4
+2496,board president threatens to yank management contract for advantage charter school in baker,fear,"[[""to yank management contract for advantage charter""]]",to yank management contract for advantage charter,4,11,3
+3387,south korea fires hundreds of warning shots at russian military plane,disgust,"[[""russian military plane""]]",russian military plane,11,15,2
+3787,trump approved cyberattacks against iran after he backed off a military assault,negative_surprise,"[[""after he backed off a military assault""]]",after he backed off a military assault,13,19,8
+4129,study: fentanyl deaths up 122% in west virginia,sadness,"[[""fentanyl deaths up 122% in west virginia""]]",fentanyl deaths up 122% in west virginia,3,14,12
+4443,u.n. concerned by u.s. curbs on iranian foreign minister while in new york,fear,"[[""curbs on iranian foreign minister while in new york""]]",curbs on iranian foreign minister while in new york,11,23,3
+787,most-active gold futures end the month about 2% higher,positive_surprise,"[[""end the month about 2% higher""]]",end the month about 2% higher,7,13,10
+4866,"kimmel repeatedly tries to stir controversy with rapinoe, morgan interview",annoyance,"[[""repeatedly tries to stir controversy with rapinoe, morgan interview""]]","repeatedly tries to stir controversy with rapinoe, morgan interview",4,17,1
+2949,markets right now: stocks regain some of lost ground,positive_surprise,"[[""stocks regain some of lost ground""]]",stocks regain some of lost ground,5,10,10
+2114,"easter sunday bombings blast the peace in sri lanka, killing more than 200 at churches and hotels",sadness,"[[""killing more than 200 at churches and hotels""]]",killing more than 200 at churches and hotels,15,22,12
+3784,top 10 books set in the american midwest,joy,"[[""set in the american midwest""]]",set in the american midwest,4,12,5
+4682,killing eve season 2 is as macabre and audacious as ever,positive_surprise,"[[""macabre and audacious as ever""]]",macabre and audacious as ever,7,15,10
+1828,cricket world cup: reserve day row after yet another washout,positive_surprise,"[[""reserve day row after yet another washout"",""cricket world cup: reserve day row after yet another washout""]]",reserve day row after yet another washout,5,12,10
+1552,trump condemns white supremacy in wake of el paso shooting,disgust,"[[""condemns white supremacy in wake of el paso shooting""]]",condemns white supremacy in wake of el paso shooting,3,16,2
+119,remember the south: devastating cyclone idai another example of global south paying for polluters,fear,"[[""global south paying for polluters""]]",global south paying for polluters,12,17,3
+4982,robotic hacks: cnners sound awfully similar bashing trump’s ‘politics of hate’ on baltimore,disgust,"[[""cnners sound awfully similar bashing trump’s ‘politics of hate’ on baltimore""]]",cnners sound awfully similar bashing trump’s ‘politics of hate’ on baltimore,5,28,2
+3569,man stands in 110-degree heat to pass out his resume instead of asking for handouts — and goes viral,pride,"[[""pass out his resume instead of asking for handouts — and goes viral""],[""to pass out his resume instead of asking for handouts""]]",pass out his resume instead of asking for handouts — and goes viral,9,22,11
+4407,"here's one reason why apple and google could get hurt most by renewed antitrust pressure on big tech (aapl, goog)",fear,"[[""could get hurt most by renewed antitrust pressure on big tech (aapl, goog)""]]","could get hurt most by renewed antitrust pressure on big tech (aapl, goog)",12,32,3
+4297,trump’s death penalty obsession won’t stem the tide against executions,anger,"[[""trump’s death penalty obsession""]]",trump’s death penalty obsession,1,7,0
+3916,cnn's attack on mueller begins: no ruling on obstruction 'atrocious',negative_surprise,"[[""no ruling on obstruction 'atrocious'""]]",no ruling on obstruction 'atrocious',12,22,8
+2781,"explosion reported at university of nevada, reno dorms",negative_surprise,"[[""explosion reported at university of nevada""]]",explosion reported at university of nevada,1,8,8
+104,"nissan is cutting 12,500 jobs; latest sign of trouble for the auto industry",negative_anticipation_including_pessimism,"[[""nissan is cutting 12,500 jobs"",""latest sign of trouble for the auto industry""]]","nissan is cutting 12,500 jobs",1,9,7
+2967,sudan’s military coup leader steps down,positive_surprise,"[[""sudan’s military coup leader steps down""]]",sudan’s military coup leader steps down,1,9,10
+4039,ca housing bill that would eliminate most single-family only zoning on hold until 2020,sadness,"[[""single-family only zoning""]]",single-family only zoning,8,13,12
+1022,improved prosthetic hand has a lighter touch and easy grip,negative_surprise,"[[""has a lighter touch and easy grip""]]",has a lighter touch and easy grip,6,12,8
+3115,"california legislature passes bill to put trans men in women’s prisons, even rapists",negative_surprise,"[[""passes bill to put trans men in women’s prisons, even rapists""]]","passes bill to put trans men in women’s prisons, even rapists",7,21,8
+704,democrats want to change the rules of the game,negative_anticipation_including_pessimism,"[[""want to change the rules of the game""]]",want to change the rules of the game,3,10,7
+3918,democrat super pac targets lindsey graham in troll campaign,shame,"[[""lindsey graham in troll campaign""]]",lindsey graham in troll campaign,7,15,13
+3534,efforts to make buildings greener are not working,negative_anticipation_including_pessimism,"[[""efforts to make buildings greener are not working""]]",efforts to make buildings greener are not working,1,9,7
+167,the rumour that led to medical researchers in ethiopia being killed by a mob,annoyance,"[[""killed""]]",killed,15,15,1
+4884,inflation deniers are the anti-vaxxers of the economic world,disgust,"[[""anti-vaxxers of the economic world"",""are the anti-vaxxers of the economic world""]]",anti-vaxxers of the economic world,6,15,2
+1484,navy seal acquitted of murder is sentenced over posing with a corpse,fear,"[[""posing with a corpse""]]",posing with a corpse,9,12,3
+1476,"more leftist infighting: black feminist panel barred from speaking, accused of transphobia",anger,"[[""accused of transphobia""]]",accused of transphobia,14,18,0
+4694,search team finds french submarine more than 50 years after disappearance,positive_surprise,"[[""more than 50 years after disappearance""]]",more than 50 years after disappearance,7,12,10
+1186,"to the moon, but not back",annoyance,"[[""but not back""]]",but not back,5,7,1
+1664,glenn greenwald: chelsea manning's refusal to testify against wikileaks will help save press freedom,positive_anticipation_including_optimism,"[[""help save press freedom"",""chelsea manning's refusal to testify against wikileaks will help save press freedom""]]",help save press freedom,23,26,9
+4024,"angels, rangers to play tuesday; skaggs autopsy set",joy,"[[""skaggs autopsy set""]]",skaggs autopsy set,11,16,5
+831,stacey abrams equates abortion restrictions with ‘forced pregnancy’,disgust,"[[""equates abortion restrictions with ‘forced pregnancy’"",""abortion restrictions with ‘forced pregnancy’""]]",equates abortion restrictions with ‘forced pregnancy’,7,16,2
+2143,"videos showed chaos, gunfire at baton rouge nightclub where 7 were injured in shooting",fear,"[[""chaos, gunfire at Baton Rouge nightclub""]]","chaos, gunfire at baton rouge nightclub",3,12,3
+4932,what we do in the shadows just staged the greatest celebrity vampire reunion of all time,joy,"[[""the greatest celebrity vampire reunion of all time""]]",the greatest celebrity vampire reunion of all time,9,16,5
+1431,"hezbollah isn’t just in beirut. it’s in new york, too.",fear,"[[""isn’t just in beirut. it’s in new york, too""]]","isn’t just in beirut. it’s in new york, too",5,22,3
+3685,cruelty is the point: communities fight back as threat of ice raids terrorize immigrant families,fear,"[[""threat of ice raids terrorize immigrant families""]]",threat of ice raids terrorize immigrant families,10,17,3
+4439,the us has started a “new nuclear arms race” since trump pulled out of the inf treaty,annoyance,"[[""trump""]]",trump,13,14,1
+4005,what men need to give to make gender equality a reality: 50 minutes a day,pride,"[[""50 minutes a day""]]",50 minutes a day,13,16,11
+2160,trump calls secretary of state he hired ‘dumb as a rock’ after criticism,anger,"[[""as a""]]",as a,11,12,0
+4617,trump insists he cut secret immigration deal with mexico,negative_surprise,"[[""secret immigration deal with mexico""]]",secret immigration deal with mexico,6,12,8
+857,trump rails against potential mueller hearing: 'bob mueller should not testify',anger,"[[""potential mueller""],[""mueller""]]",potential mueller,5,8,0
+1985,judge who said being transgender is a ‘delusion’ nearing confirmation,negative_surprise,"[[""said being transgender""]]",said being transgender,3,5,8
+2566,spy-satellite images reveal how climate change is rapidly melting the himalayan glaciers,negative_surprise,"[[""rapidly melting the himalayan glaciers""]]",rapidly melting the himalayan glaciers,10,16,8
+1507,romney to vote against budget deal: agreement 'perpetuates fiscal recklessness',negative_surprise,"[[""agreement 'perpetuates fiscal recklessness'""]]",agreement 'perpetuates fiscal recklessness',10,19,8
+1517,some adoptees are undocumented because their parents forgot to fill out a form. now congress is taking action.,negative_surprise,"[[""their parents forgot to fill out a form. now congress is taking action.""]]",their parents forgot to fill out a form. now congress is taking action.,10,24,8
+3055,the michael moore v nancy pelosi war is going to be epic,positive_surprise,"[[""war is going to be epic""]]",war is going to be epic,14,19,10
+4412,"in face of death threats, omar says we must confront white nationalism",fear,"[[""we must confront white nationalism""]]",we must confront white nationalism,10,14,3
+4303,vox reporter called out for posting express lie about trump’s 9/11 comments,negative_surprise,"[[""trump’s 9/11 comments"",""posting express lie about trump’s 9/11 comments""]]",trump’s 9/11 comments,11,18,8
+1396,crypto miner bitmain’s ipo plans at risk of being shelved,fear,"[[""at risk of being shelved""]]",at risk of being shelved,14,19,3
+3159,hope hicks tells house that trump is serious about accepting foreign help as conservative lawyer argues doing so could violate presidential oath,positive_surprise,"[[""is serious about accepting foreign help as conservative lawyer argues doing so could violate presidential oath""]]",is serious about accepting foreign help as conservative lawyer argues doing so could violate presidential oath,9,24,10
+2040,bbc frets over “nervous and afraid” muslims following islamic terror attacks in sri lanka,fear,"[[""terror attacks in sri lanka""]]",terror attacks in sri lanka,20,26,3
+1390,china’s dji plans to build drones in california amid u.s. security concern,fear,"[[""security concern""]]",security concern,23,24,3
+1208,tulsi: a living reminder of iraq’s liars and apologists,disgust,"[[""a living reminder of iraq’s liars and apologists""]]",a living reminder of iraq’s liars and apologists,5,20,2
+1974,democratic leaders 'unlikely' to allow vote on reversing hyde amendment,negative_anticipation_including_pessimism,"[[""democratic leaders 'unlikely' to allow vote on reversing hyde amendment""]]",democratic leaders 'unlikely' to allow vote on reversing hyde amendment,1,15,7
+49,"i make $1,000 a week writing essays for lazy students",negative_surprise,"[[""writing essays for lazy students""]]",writing essays for lazy students,9,13,8
+1265,ex-obama border patrol chief: immigration crisis is worst 'in the history of the country',anger,"[[""immigration crisis is worst 'in the history of the country'""]]",immigration crisis is worst 'in the history of the country',10,21,0
+4878,this 99-year-old federal law is stifling jobs and shifting higher costs to consumers,annoyance,"[[""stifling jobs and shifting higher costs to consumers""]]",stifling jobs and shifting higher costs to consumers,10,20,1
+4102,nobody’s asking for trump to be a genius,sadness,"[[""be a genius""]]",be a genius,9,11,12
+2350,thousands of taxi drivers sign up against uber claiming the service has left them bankrupt,anger,"[[""the service has left them bankrupt""]]",the service has left them bankrupt,11,16,0
+2823,may wti oil contract ends about 0.4% higher for the week,positive_anticipation_including_optimism,"[[""0.4% higher for the week""]]",0.4% higher for the week,8,15,9
+4007,'it's the hope that gets you': spurs and liverpool fans go head-to-head,pride,"[[""spurs and liverpool fans go head-to-head""]]",spurs and liverpool fans go head-to-head,12,23,11
+2842,priest arrested for massaging woman's breast while giving her last rites,guilt,"[[""massaging woman's breast while giving her last rites""]]",massaging woman's breast while giving her last rites,4,14,4
+4292,trump heckled by virginia delegate while discussing ‘horrors of slavery’,anger,"[[""discussing ‘horrors of""]]",discussing ‘horrors of,10,14,0
+1130,scott morrison says ‘ni hao’ to voter who replied ‘i’m korean’ in hilarious election gaffe,shame,"[[""says ‘ni hao’ to voter who replied ‘i’m korean’ in hilarious election gaffe""]]",says ‘ni hao’ to voter who replied ‘i’m korean’ in hilarious election gaffe,7,32,13
+4099,nepal says everest rules might change after traffic jams and deaths,sadness,"[[""says everest rules might change after traffic jams and deaths""]]",says everest rules might change after traffic jams and deaths,3,14,12
+2766,david blaine: magician accused of sexual assault,negative_surprise,"[[""magician accused of sexual assault""]]",magician accused of sexual assault,7,11,8
+74,katarina johnson-thompson smashes her personal best to win heptathlon,annoyance,"[[""smashes her personal best to win heptathlon""]]",smashes her personal best to win heptathlon,12,22,1
+4611,the trump administration is making hezbollah stronger,negative_surprise,"[[""the trump administration""]]",the trump administration,1,4,8
+2124,"mass stabbing in japan leaves 17 injured, 3 dead, including 11-year-old girl",sadness,"[[""mass stabbing in japan leaves 17 injured, 3 dead, including 11-year-old girl""]]","mass stabbing in japan leaves 17 injured, 3 dead, including 11-year-old girl",1,20,12
+1356,"adw capital demands public strategic alternatives process, announces its own public investor meeting to discuss the mismanagement of select interior concepts and encourages all investors to refrai...",positive_surprise,"[[""public""]]",public,5,5,10
+2733,3m knew about pfas food contamination in 2001,negative_surprise,"[[""knew about pfas food contamination in 2001""]]",knew about pfas food contamination in 2001,3,11,8
+3023,baylor wins title after notre dame’s hero misses the mark,joy,"[[""wins title after notre dame’s hero misses the mark""]]",wins title after notre dame’s hero misses the mark,3,15,5
+1013,hundreds of thousands are set to march in london for a second brexit referendum,anger,"[[""march in london for a second brexit referendum""]]",march in london for a second brexit referendum,7,17,0
+3528,daughter calls for compassion for mom’s alleged killer twin at funeral,love_including_like,"[[""compassion for mom’s alleged killer twin at funeral""]]",compassion for mom’s alleged killer twin at funeral,4,13,6
+688,brooks: 'a lot of people got out ahead of the evidence' on collusion - trump isn't exonerated,disgust,"[[""got out ahead of the evidence' on collusion""]]",got out ahead of the evidence' on collusion,10,20,2
+4058,four immigrants have died at stewart ice jail in georgia. advocates want it shut down,sadness,"[[""died at stewart ice jail""]]",died at stewart ice jail,4,9,12
+1223,welfare money is paying for a lot of things besides welfare,positive_surprise,"[[""paying for a lot of things besides welfare""]]",paying for a lot of things besides welfare,4,11,10
+2431,"some democratic candidates point finger at trump for shootings, mulvaney says “not fair”",annoyance,"[[""mulvaney says “not fair”""]]",mulvaney says “not fair”,13,21,1
+1896,puerto rico enters uncharted territory as ricardo rosselló prepares to resign as governor,negative_surprise,"[[""prepares to resign as governor""]]",prepares to resign as governor,19,23,8
+2871,the hawaiian language nearly died. a radio show sparked its revival,sadness,"[[""a radio show sparked its revival""]]",a radio show sparked its revival,9,14,12
+792,new polling of 2020 democrats head-to-head with trump in a key swing state reveals his electoral weakness,negative_surprise,"[[""reveals his electoral weakness""]]",reveals his electoral weakness,20,23,8
+1963,a reckoning is in store for democrats,disgust,"[[""a reckoning is in store for democrats""]]",a reckoning is in store for democrats,1,10,2
+2763,creepy porn lawyer michael avenatti endorses mollie hemingway’s kavanaugh blockbuster: ‘complete trash’ by ‘complete hacks’,negative_surprise,"[[""mollie hemingway’s kavanaugh blockbuster: ‘complete trash’ by ‘complete hacks’""]]",mollie hemingway’s kavanaugh blockbuster: ‘complete trash’ by ‘complete hacks’,15,38,8
+4097,"nasdaq turns positive, up 2 points or less than 0.1%",positive_anticipation_including_optimism,"[[""up 2 points or less than 0.1%""]]",up 2 points or less than 0.1%,8,17,9
+728,help to buy scheme was abused by thousands of people who did not need a subsidy to get on the ladder,guilt,"[[""thousands of people who did not need a subsidy to get on the ladder""]]",thousands of people who did not need a subsidy to get on the ladder,8,23,4
+2685,conjoined twin sisters successfully separated and canand#039;t stop snuggling,joy,"[[""t stop snuggling""]]",t stop snuggling,15,20,5
+3280,"after attacks on assyrians, northern iraq’s christian minority recommits to a homeland",fear,"[[""northern iraq’s christian minority recommits to a homeland""]]",northern iraq’s christian minority recommits to a homeland,8,24,3
+4733,"at&t’s streaming service, directv now, has lost nearly 20 percent of its subscribers in the last 6 months",sadness,"[[""has lost nearly 20 percent of its subscribers in the last 6 months""]]",has lost nearly 20 percent of its subscribers in the last 6 months,13,25,12
+4372,first facebook censored pro-life content. now a top exec donated a million bucks to abortion factory,disgust,"[[""now a top exec donated a million bucks to abortion factory""]]",now a top exec donated a million bucks to abortion factory,12,23,2
+2255,burn. build. repeat: why our wildfire policy is so deadly,fear,"[[""why our wildfire policy is so deadly""]]",why our wildfire policy is so deadly,7,14,3
+540,this is donald trump’s weakest moment yet,annoyance,"[[""weakest moment yet""]]",weakest moment yet,9,12,1
+914,"ag barr not legally required to release full mueller report, alan dershowitz tells sean hannity",negative_surprise,"[[""required to release full mueller report, alan dershowitz tells sean hannity"",""release full mueller report, alan dershowitz tells sean hannity""]]","required to release full mueller report, alan dershowitz tells sean hannity",7,27,8
+4635,"dhs to release 1.8k border crossers, illegal aliens into u.s. over weekend",positive_anticipation_including_optimism,"[[""illegal aliens into u.s. over weekend""]]",illegal aliens into u.s. over weekend,13,21,9
+996,"free speech on campus is doing just fine, thank you",joy,"[[""free speech on campus is doing just fine""]]",free speech on campus is doing just fine,1,8,5
+608,sri lanka shakes up top security posts after deadly bombings,negative_surprise,"[[""security posts after deadly bombings""]]",security posts after deadly bombings,8,12,8
+468,"malaysia to send 3,000 tonnes of plastic waste back to countries of origin",positive_surprise,"[[""send 3,000 tonnes of plastic waste back to countries of origin""]]","send 3,000 tonnes of plastic waste back to countries of origin",5,17,10
+1254,chris plante: 'cnn is part of the democratic party's apparatus',annoyance,"[[""cnn is part of the democratic party's apparatus""]]",cnn is part of the democratic party's apparatus,7,17,1
+1655,eli lilly stock price target cut to $118 from $120 at cfra,negative_surprise,"[[""target cut to $118 from $120 at cfra""]]",target cut to $118 from $120 at cfra,8,18,8
+2279,"feminist comedian samantha bee calls pro-life 'unplanned' movie 'made up' propaganda, edits trailer for her narrative on planned parenthood",anger,"[[""calls pro-life 'unplanned' movie 'made up'""]]",calls pro-life 'unplanned' movie 'made up',7,21,0
+4229,hillary clinton says election was ‘stolen’ from her,disgust,"[[""election was ‘stolen’ from her""]]",election was ‘stolen’ from her,7,13,2
+61,"iran says us cyber attacks failed, hints at possible talks",negative_surprise,"[[""US Cyber Attacks Failed""]]",us cyber attacks failed,4,9,8
+3478,help! my children are furious i’m having sex with their half-brother.,anger,"[[""i’m having sex with their half-brother.""]]",i’m having sex with their half-brother.,7,17,0
+3361,nicolas maduro orders plan to ration electricity in venezuela,disgust,"[[""venezuela""]]",venezuela,13,16,2
+422,eiffel tower closed after man tries to climb paris landmark,negative_surprise,"[[""tries to climb paris landmark""]]",tries to climb paris landmark,8,13,8
+2287,house democrats ready vote to undercut health care innovation,anger,"[[""vote to undercut health care innovation""]]",vote to undercut health care innovation,5,11,0
+3020,an hour of activity may keep disability away,positive_surprise,"[[""may keep disability away"",""an hour of activity may keep disability away""]]",may keep disability away,5,8,10
+469,man lands job after officer gives him ride to interview instead of ticket,positive_surprise,"[[""gives him ride to interview instead of ticket""]]",gives him ride to interview instead of ticket,6,13,10
+3975,birds meet their fly sneaker ‘twins’ in this highly amusing thread,joy,"[[""in this highly""]]",in this highly,10,12,5
+1325,virginia beach gunman dewayne craddock quit job hours before massacre,disgust,"[[""quit job hours before massacre""]]",quit job hours before massacre,11,15,2
+2783,federal judge delivers bodyblow to donald trump in deutsche bank battle over his tax returns,negative_surprise,"[[""donald trump in deutsche bank battle over his tax returns"",""deutsche bank battle over his tax returns""]]",donald trump in deutsche bank battle over his tax returns,8,21,8
+4054,"explosion in murrieta neighborhood kills one, injures 15",sadness,"[[""explosion in murrieta neighborhood kills one, injures 15""]]","explosion in murrieta neighborhood kills one, injures 15",1,14,12
+916,abbvie to acquire botox maker allergan for $63bn,positive_surprise,"[[""acquire botox maker allergan for $63bn""]]",acquire botox maker allergan for $63bn,5,17,10
+4041,california synagogue rabbi injured in shooting: 'terror will not win',sadness,"[[""shooting: 'terror will not win'""]]",shooting: 'terror will not win',10,17,12
+409,christchurch shootings: the new zealanders rallying to help victims,sadness,"[[""the new zealanders rallying to help victims"",""christchurch shootings: the new zealanders rallying to help victims""]]",the new zealanders rallying to help victims,7,17,12
+774,maria butina says she was 'building peace.' that's not how the feds see it,negative_surprise,"[[""maria butina says she was 'building peace.' that's not how the feds see it""]]",maria butina says she was 'building peace.' that's not how the feds see it,1,22,8
+1219,"violent storm batters italian beach, sends sunbathers running",fear,"[[""italian beach, sends sunbathers running""]]","italian beach, sends sunbathers running",5,14,3
+1791,us-mexico border apprehensions soared to over 144k in may,negative_surprise,"[[""apprehensions soared to over 144k in may"",""us-mexico border apprehensions soared to over 144k in may""]]",apprehensions soared to over 144k in may,7,17,8
+4249,"military duped into buying fake, chinese-made military gear",negative_surprise,"[[""military duped into buying fake, chinese-made military gear""]]","military duped into buying fake, chinese-made military gear",1,13,8
+33,george archer – the 1969 masters winner who had an amazing secret | ewan murray,pride,"[[""the 1969 masters winner who had an amazing secret""]]",the 1969 masters winner who had an amazing secret,7,15,11
+3546,greek pm says may seek sanctions against turkey in gas row,disgust,"[[""says may seek sanctions against turkey in gas row""]]",says may seek sanctions against turkey in gas row,5,13,2
+4358,"washington splurges today, promises to repent tomorrow",annoyance,"[[""promises to repent tomorrow""]]",promises to repent tomorrow,9,13,1
+1192,trump does an about-face on pakistan—and blunders into the kashmir dispute,disgust,"[[""does an about-face on pakistan—and blunders into the kashmir dispute""]]",does an about-face on pakistan—and blunders into the kashmir dispute,3,22,2
+1320,trump outdoes himself with latest display of rank hatred and rancid bigotry,anger,"[[""rank hatred and rancid bigotry""]]",rank hatred and rancid bigotry,11,18,0
+3995,conservative writer gets punched kicked and 'milkshaked' at a portland rally,anger,"[[""gets punched kicked and 'milkshaked'""]]",gets punched kicked and 'milkshaked',3,11,0
+4570,"israel launches ‘trump heights’ on golan, but construction may lag",negative_surprise,"[[""construction may lag""]]",construction may lag,15,18,8
+3867,police department helps animal shelter thatand#039;s overrun with cats,positive_anticipation_including_optimism,"[[""s overrun with cats""]]",s overrun with cats,12,15,9
+3843,experts are already arguing over how to rebuild notre dame,positive_surprise,"[[""already arguing over how to rebuild notre dame""]]",already arguing over how to rebuild notre dame,3,12,10
+3449,2020 dems defend rep. omar from trump amid controversy over 9/11 remarks,annoyance,"[[""amid controversy over 9/11 remarks""]]",amid controversy over 9/11 remarks,13,19,1
+3825,afghan president holds council to set agenda for peace talks,positive_anticipation_including_optimism,"[[""holds council to set agenda for peace talks""]]",holds council to set agenda for peace talks,5,12,9
+306,"men notice elderly woman eating alone, invite her to join them",positive_surprise,"[[""invite her to join them""]]",invite her to join them,8,12,10
+2583,theresa may meets her lonely end,sadness,"[[""meets her lonely end""]]",meets her lonely end,4,7,12
+1252,"cnn's cooper: trump's 'cruelty' is 'not a bug of the system, it’s a feature'",anger,"[[""not a bug of the system, it’s a feature'""]]","not a bug of the system, it’s a feature'",17,29,0
+1852,giro d'italia: richard carapaz tightens grip as nibali leapfrogs roglic,pride,"[[""nibali leapfrogs roglic""]]",nibali leapfrogs roglic,17,26,11
+981,elizabeth warren just unveiled a plan to close the racial wealth gap,positive_surprise,"[[""close the racial wealth gap""]]",close the racial wealth gap,11,15,10
+2111,biman airlines plane skids off runway in myanmar; 4 injured,sadness,"[[""4 injured""]]",4 injured,14,15,12
+2810,justice gorsuch wages war for the constitutional order,positive_surprise,"[[""wages war for the constitutional order""]]",wages war for the constitutional order,5,10,10
+4797,donald trump admits he doesn’t really want to stop illegal immigration,shame,"[[""he doesn’t really want to stop illegal immigration""]]",he doesn’t really want to stop illegal immigration,6,15,13
+586,french tycoons show competitive streak over notre dame aid,joy,"[[""over notre dame aid""]]",over notre dame aid,10,15,5
+4295,"trump steps up attacks on progressive congresswomen, says they 'hate our country' and israel",anger,"[[""progressive congresswomen""]]",progressive congresswomen,7,10,0
+4096,"mother, daughter killed pregnant teen with cable and ripped baby from womb: police",sadness,"[[""pregnant teen with cable and ripped baby from""]]",pregnant teen with cable and ripped baby from,5,12,12
+4483,baseball is the only sport that justifies optimism on opening day,joy,"[[""baseball is the only sport that justifies optimism""]]",baseball is the only sport that justifies optimism,1,11,5
+4610,the surprising way bodycams can keep police officers from helping people,negative_surprise,"[[""can keep police officers from helping people""]]",can keep police officers from helping people,7,13,8
+4891,team trump has found a news outlet even more fawning than fox news,disgust,"[[""even more fawning than fox news""]]",even more fawning than fox news,9,16,2
+1929,trump celebrates earth day with a proclamation about how capitalism is good,joy,"[[""capitalism is good""]]",capitalism is good,11,13,5
+2067,"growing number of latinos broaden labor's mission, political power",joy,"[[""broaden labor's mission, political power""]]","broaden labor's mission, political power",7,15,5
+2835,north carolina’s republican party is having an identity crisis,negative_surprise,"[[""having an identity crisis""]]",having an identity crisis,10,13,8
+401,bernie sanders is right to go on fox news,annoyance,"[[""go on fox news""]]",go on fox news,9,12,1
+225,method man gives us some brilliant work advice,positive_surprise,"[[""some brilliant work advice""]]",some brilliant work advice,5,8,10
+3184,"npr diversity executive: let the public, not journalists, decide who is racist",disgust,"[[""let the public, not journalists, decide who is racist""]]","let the public, not journalists, decide who is racist",7,17,2
+2774,emily post’s great-great-granddaughter explains the proper way to get high,negative_surprise,"[[""great-great-granddaughter explains the proper way to get high"",""explains the proper way to get high""]]",great-great-granddaughter explains the proper way to get high,6,17,8
+2159,needless government meddling is making an amazing new cancer treatment harder to get,anger,"[[""making an amazing new cancer treatment harder to get"",""is making an amazing new cancer treatment harder to get""]]",making an amazing new cancer treatment harder to get,7,15,0
+2227,"baltimore residents: trump's attacks on the city are rooted in ""racism and white supremacy""",anger,"[[""racism and white supremacy"",""attacks on the city are rooted in \\""\\""racism and white supremacy\\""\\""\\""""]]","""racism and white supremacy""",18,23,0
+799,o’rourke dodges on whether pro-lifers are welcomed in the dem party,negative_surprise,"[[""welcomed in the dem party""]]",welcomed in the dem party,15,19,8
+2721,"scouted: toms added four issues to its charitable portfolio, from ending gun violence to access to safe water",love_including_like,"[[""ending gun violence to access to safe water""]]",ending gun violence to access to safe water,15,22,6
+2516,"for asian americans, coming out in 2019 can still present unique challenges",negative_anticipation_including_pessimism,"[[""coming out in 2019 can still present unique challenges""]]",coming out in 2019 can still present unique challenges,8,16,7
+465,mps blast 'irresponsible' jeremy kyle show over 'fake' lie detector tests,annoyance,"[[""'fake' lie detector tests""]]",'fake' lie detector tests,16,21,1
+1257,"david letterman: if i had a late night show, i would be really ‘ugly’ to trump",disgust,"[[""if i had a late night show, i would be really ‘ugly’ to trump""]]","if i had a late night show, i would be really ‘ugly’ to trump",6,23,2
+2199,trump brands london mayor a 'disaster',anger,"[[""london mayor a 'disaster'""],[""brands london mayor a""]]",london mayor a 'disaster',4,10,0
+1818,bennet meets polling criterion for first democratic debates,positive_surprise,"[[""meets polling criterion for first democratic debates""]]",meets polling criterion for first democratic debates,3,9,10
+1576,"until recently, i’d never seen another black hunter depicted in pop culture. when i finally did, it hit very close to home.",positive_surprise,"[[""another black hunter depicted in pop culture. when i finally did, it hit very close to home.""]]","another black hunter depicted in pop culture. when i finally did, it hit very close to home.",9,28,10
+4228,georgia governor dismisses hollywood threats on eve of pro-life 'heartbeat' bill signing,anger,"[[""dismisses hollywood threats on eve of pro-life 'heartbeat' bill signing"",""hollywood threats on eve of pro-life 'heartbeat' bill signing""]]",dismisses hollywood threats on eve of pro-life 'heartbeat' bill signing,5,21,0
+4758,"nearly 8 months after hurricane michael, florida panhandle feels left behind",sadness,"[[""feels left behind""]]",feels left behind,16,18,12
+4355,twice failed presidential candidate hillary clinton tells dems how they should campaign to beat trump,positive_anticipation_including_optimism,"[[""hillary clinton tells dems how they should campaign to beat trump""]]",hillary clinton tells dems how they should campaign to beat trump,5,20,9
+2565,south korea says north korea has fired unidentified projectiles,fear,"[[""unidentified projectiles""]]",unidentified projectiles,12,14,3
+2701,most americans don’t support higher defense spending,annoyance,"[[""don’t support higher defense spending"",""higher defense spending""]]",don’t support higher defense spending,5,11,1
+3960,alabama police ruined a couple’s lives over $50 of weed. now the charges against them have been dropped,anger,"[[""weed. now the charges against them have been dropped""]]",weed. now the charges against them have been dropped,15,24,0
+3564,jussie smollett could win an naacp award—and host anthony anderson hopes he does: 'the system worked for him',positive_anticipation_including_optimism,"[[""naacp award—and host anthony anderson hopes he does: 'the system worked for him'"",""could win an naacp award""]]",naacp award—and host anthony anderson hopes he does: 'the system worked for him',11,33,9
+2110,a migrant ship with a tragic history is at the venice biennale. a new migrant boat sinking shows it’s more than a relic.,sadness,"[[""sinking shows it’s more than a relic.""],[""a new migrant boat sinking""]]",sinking shows it’s more than a relic.,22,32,12
+1342,"11,000 americans will die waiting for transplants this year",negative_anticipation_including_pessimism,"[[""waiting for transplants this year"",""will die waiting for transplants this year""]]",waiting for transplants this year,9,14,7
+4861,conservatives should not celebrate religious tyranny and coercion,disgust,"[[""conservatives should not celebrate religious tyranny and coercion""]]",conservatives should not celebrate religious tyranny and coercion,1,13,2
+2217,‘it feels like a whole century was cut out.’ chinese censors slice six minutes from game of thrones premiere,negative_surprise,"[[""‘it feels like a whole century was cut out.’""]]",‘it feels like a whole century was cut out.’,1,12,8
+360,‘american taliban’ to be released from prison thursday,positive_surprise,"[[""to be released from prison thursday""]]",to be released from prison thursday,9,16,10
+2856,stray dog becomes first dog to climb himalayan summit,joy,"[[""first dog to climb himalayan summit""]]",first dog to climb himalayan summit,4,11,5
+2961,researchers have figured out how to convert all blood types into the universal type o,positive_surprise,"[[""have figured out how to convert all blood types into the universal type o""]]",have figured out how to convert all blood types into the universal type o,2,15,10
+1060,mark levin’s ‘unfreedom of the press’,positive_surprise,"[[""‘unfreedom of the press’""]]",‘unfreedom of the press’,6,13,10
+2676,a historic breakthrough for sex workers’ rights,positive_surprise,"[[""historic breakthrough""]]",historic breakthrough,2,3,10
+1612,"amazon prime day and the psychology of sales, explained",trust,"[[""day and the psychology of sales, explained"",""amazon prime day and the psychology of sales, explained""]]","day and the psychology of sales, explained",5,12,14
+4050,donald trump state visit: what happened on day one,fear,"[[""happened on day one""]]",happened on day one,9,12,3
+1804,'house of horrors' child abuse cases reveal how offenders nationwide use homeschooling to hide their crimes,sadness,"[[""child abuse cases reveal how offenders nationwide use homeschooling to hide their crimes""]]",child abuse cases reveal how offenders nationwide use homeschooling to hide their crimes,7,22,12
+1167,the text messages that earned this michigan goper a grand jury indictment,negative_surprise,"[[""michigan goper a grand jury indictment""]]",michigan goper a grand jury indictment,7,15,8
+4764,pop star halsey: i was on the verge of prostitution before fame,sadness,"[[""i was on the verge of prostitution before fame""]]",i was on the verge of prostitution before fame,7,15,12
+3712,greek police arrest suspect in greek-australian's murder,guilt,"[[""arrest suspect in greek-australian's murder""]]",arrest suspect in greek-australian's murder,5,17,4
+1168,the trade secret: firms that promised high-tech ransomware solutions almost always just pay the hackers,trust,"[[""firms that promised high-tech ransomware solutions almost always just pay the hackers""]]",firms that promised high-tech ransomware solutions almost always just pay the hackers,5,20,14
+1287,"networks go limp on shocking poll on aoc, omar 'hurting democrats' with swing voters",negative_surprise,"[[""democrats' with swing voters""]]",democrats' with swing voters,15,20,8
+4114,rainfall totals of 5-7 inches inundate baton rouge area and trigger flash floods that kill 1,sadness,"[[""baton rouge area and trigger flash""]]",baton rouge area and trigger flash,11,19,12
+2903,‘you’re the motherf*cking best!’ soccer star megan rapino urges fans to ‘be better’ in rabble-rousing speech on live tv,joy,"[[""‘be better’ in rabble-rousing speech on live tv""]]",‘be better’ in rabble-rousing speech on live tv,23,39,5
+1942,burger king calls police for help with bobcat trapped on roof,positive_anticipation_including_optimism,"[[""trapped on roof""]]",trapped on roof,12,14,9
+818,"revulsion in northern ireland over riot, fatal shooting",anger,"[[""in northern ireland over riot, fatal shooting"",""over riot, fatal shooting""]]","in northern ireland over riot, fatal shooting",5,14,0
+1014,imf gives mozambique $118 million for cyclone idai rebuilding,positive_surprise,"[[""$118 million for cyclone idai rebuilding""]]",$118 million for cyclone idai rebuilding,9,16,10
+4972,hot weather and bad air start off the week for southern california,negative_surprise,"[[""week for southern california""]]",week for southern california,9,16,8
+4123,snipers testify that navy seal edward gallagher shot young girl and old man in iraq,sadness,"[[""shot young girl and old man in iraq""]]",shot young girl and old man in iraq,12,21,12
+165,the architect of many of trump’s pro-coal plans is leaving the epa,negative_anticipation_including_pessimism,"[[""of many of trump’s pro-coal plans is leaving the epa""]]",of many of trump’s pro-coal plans is leaving the epa,3,18,7
+1572,us diplomat cites iran threat over saudi arms sales,fear,"[[""saudi arms sales"",""threat over saudi arms sales""]]",saudi arms sales,8,11,3
+1108,problematic women: how kamala harris’ ‘wage gap’ plan would actually hurt women,annoyance,"[[""how kamala harris’ ‘wage gap’ plan would actually hurt women""]]",how kamala harris’ ‘wage gap’ plan would actually hurt women,4,20,1
+2457,california woman posing as social worker tried to kidnap newborn: cops,negative_surprise,"[[""tried to kidnap newborn""]]",tried to kidnap newborn,11,14,8
+927,"angela merkel responds to being labeled trump's 'punching bag'; he 'has his opinions, i have mine'",annoyance,"[[""he 'has his opinions, i have mine'""]]","he 'has his opinions, i have mine'",19,28,1
+3454,arizona iced tea and adidas promise to make 99-cent sneakers available 'at a later time' after permanently shutting down pop-up event following the assault of 2 teens,negative_surprise,"[[""assault of 2 teens""]]",assault of 2 teens,35,38,8
+3792,"trump is so abhorrent, even a stellar economy can't save him",anger,"[[""even a stellar economy can't save him""]]",even a stellar economy can't save him,10,18,0
+4285,things just took an ugly turn in donald trump jr subpoena battle,negative_surprise,"[[""things just took an ugly turn""]]",things just took an ugly turn,1,6,8
+3818,‘we don’t fear you’: nikita parris and england are ready for world cup holders usa,fear,"[[""ready for world cup holders usa""]]",ready for world cup holders usa,20,26,3
+4284,"they worked in sweltering heat for exxon, shell, and walmart. they didn’t get paid a dime.",disgust,"[[""they didn’t get paid a dime.""]]",they didn’t get paid a dime.,20,29,2
+3959,al qaeda’s master terrorists are still on facebook and youtube,fear,"[[""are still on facebook and youtube""]]",are still on facebook and youtube,9,17,3
+4540,climber dies on everest as death toll in himalayas reaches 18,negative_surprise,"[[""climber dies on everest as death toll in himalayas reaches 18""]]",climber dies on everest as death toll in himalayas reaches 18,1,15,8
+2493,barr exposed the rampant desperation of trump's foes,negative_anticipation_including_pessimism,"[[""the rampant desperation of trump's foes""]]",the rampant desperation of trump's foes,4,14,7
+3848,hilarious! president trump: i wanted to kiss my general who defeated isis but “i went to kiss the general and i felt like joe biden”,joy,"[[""went to kiss the general""],[""general""]]",went to kiss the general,22,26,5
+1569,"uk ‘like an emerging market’, warns funds veteran",fear,"[[""like an emerging market’, warns funds veteran""]]","like an emerging market’, warns funds veteran",3,11,3
+2470,"still angling for a deal, trump backs kim jong un over biden, bolton and japan",positive_anticipation_including_optimism,"[[""still angling for a deal, trump backs kim jong un over biden, bolton and japan"",""over biden, bolton and japan""]]","still angling for a deal, trump backs kim jong un over biden, bolton and japan",1,25,9
+2855,"stratus building solutions ranked no. 2 out of entrepreneur's highly competitive 'top 100 franchises for less than $50,000 in 2019'",negative_surprise,"[[""ranked no. 2 out of entrepreneur's highly competitive 'top 100 franchises for less than $50,000 in 2019'""]]","ranked no. 2 out of entrepreneur's highly competitive 'top 100 franchises for less than $50,000 in 2019'",6,30,8
+1280,lyon bomb suspect had pledged allegiance to is,trust,"[[""had pledged allegiance to is""]]",had pledged allegiance to is,5,9,14
+4590,"patrick beverley, jared dudley, and the art of being an nba pest",disgust,"[[""and the art of being an nba pest""]]",and the art of being an nba pest,12,21,2
+3858,natural history museum won't host event honoring brazil president jair bolsonaro,negative_surprise,"[[""won't host event honoring brazil president jair bolsonaro""]]",won't host event honoring brazil president jair bolsonaro,4,19,8
+587,full-term abortion clinic injures woman during botched abortion – report,anger,"[[""full-term abortion clinic injures woman during botched abortion – report0""]]",full-term abortion clinic injures woman during botched abortion – report,1,16,0
+4221,democrats blast biden for recalling 'civil' relationship with segregationists,anger,"[[""relationship with segregationists""]]",relationship with segregationists,11,14,0
+4918,oberlin college to pay bakery $11m after furthering racism accusations: jury,guilt,"[[""furthering racism""]]",furthering racism,12,14,4
+3167,it’s time to end the death penalty nationwide,positive_anticipation_including_optimism,"[[""it’s time to end""]]",it’s time to end,1,6,9
+4451,"with federal executions looming, the democrats’ death penalty legacy is coming back to haunt us",fear,"[[""death penalty legacy is coming back to haunt us""]]",death penalty legacy is coming back to haunt us,10,19,3
+4871,new report finds same-day voter registration laws produce a sizable boost in voter turnout,positive_surprise,"[[""boost""]]",boost,14,14,10
+1847,"fox’s jesse watters says he’s ‘tired and bored’ of aoc, proceeds to talk at length about her",disgust,"[[""proceeds to talk at length about her""]]",proceeds to talk at length about her,22,28,2
+3548,"holy hypocrisy, batman! alyssa milano defends ‘super-affectionate’ joe biden, confesses to some problematic behavior of her own",shame,"[[""‘super-affectionate’ joe biden, confesses to some problematic behavior of her own""]]","‘super-affectionate’ joe biden, confesses to some problematic behavior of her own",19,37,13
+3517,braised black beans that will make you forget meat,joy,"[[""braised black beans that will make you forget meat""]]",braised black beans that will make you forget meat,1,10,5
+2141,thousands mourn bosnian government critic slain in ambush,sadness,"[[""bosnian government critic slain in ambush"",""slain in ambush""]]",bosnian government critic slain in ambush,5,12,12
+1778,today’s back pages: maestro messi is from another planet as liverpool are floored,guilt,"[[""today’s back pages: maestro messi is from another planet as liverpool are floored""]]",today’s back pages: maestro messi is from another planet as liverpool are floored,1,21,4
+693,chelsea clinton received $300k as an iac board member - for attending just six meetings,joy,"[[""received $300k as an iac board member - for attending just six meetings""]]",received $300k as an iac board member - for attending just six meetings,7,22,5
+1349,a generation is learning how to strike,positive_surprise,"[[""learning how to strike""]]",learning how to strike,4,7,10
+1750,schumer backs up pelosi's resistance to impeachment inquiry,positive_surprise,"[[""resistance to impeachment inquiry""]]",resistance to impeachment inquiry,11,16,10
+3605,storms in america and the pacific are evidence of climate change,sadness,"[[""climate change""]]",climate change,14,15,12
+1311,"the pentagon’s top ranks have been empty for a long time. now 1,581 problems are waiting to be solved.",negative_anticipation_including_pessimism,"[[""1,581 problems are waiting to be""]]","1,581 problems are waiting to be",18,26,7
+243,a circus in germany is using holograms instead of animals to stop mistreatment,pride,"[[""instead of animals to stop mistreatment""]]",instead of animals to stop mistreatment,12,19,11
+4926,encounters: max greenfield of ‘the neighborhood’ takes his daughter out for ice cream,joy,"[[""takes his daughter out for ice cream""]]",takes his daughter out for ice cream,12,18,5
+4776,the battle for women’s suffrage in the u.s.,sadness,"[[""the""],[""suffrage in the u.s.""]]",the,1,1,12
+4258,"pelosi hits back at trump's attacks on cummings, calls kushner a 'slumlord'",negative_surprise,"[[""calls kushner a 'slumlord'""],[""attacks""]]",calls kushner a 'slumlord',17,26,8
+2456,british army soldier reprimanded after going on a killing spree during virtual battlefield exercise,shame,"[[""killing spree during virtual battlefield exercise""]]",killing spree during virtual battlefield exercise,14,20,13
+3381,sandra guzman: women in puerto rico know all too well why rossello must resign,trust,"[[""women in puerto rico know all too well why rossello must resign""]]",women in puerto rico know all too well why rossello must resign,7,23,14
+1891,pizza deliveryman who called 911 after seeing naked child in man's motel room honored by police,pride,"[[""911 after seeing naked child in man's motel room honored by police""]]",911 after seeing naked child in man's motel room honored by police,6,19,11
+307,micron stock price target raised to $36 from $32 at cfra,positive_surprise,"[[""micron stock price target raised to $36 from $32 at cfra""]]",micron stock price target raised to $36 from $32 at cfra,1,15,10
+402,betsy devos quietly making it easier for dying for-profit schools to rip off a few more students on the way out,disgust,"[[""dying for-profit schools to rip off a few more students on the way out""]]",dying for-profit schools to rip off a few more students on the way out,10,25,2
+954,conway takes aim at biden's new candidacy: 'he's the frontrunner!',joy,"[[""new""]]",new,10,10,5
+266,democrats are losing this made-for-tv moment,negative_surprise,"[[""this made-for-tv moment""]]",this made-for-tv moment,5,12,8
+2185,yosemite to restore names to historic attractions under $12-million settlement,positive_surprise,"[[""restore names to historic attractions under $12-million settlement""]]",restore names to historic attractions under $12-million settlement,5,15,10
+4581,nearly half of gps have taken early retirement or slashed their hours over pensions row,negative_surprise,"[[""hours over pensions row""]]",hours over pensions row,13,17,8
+3884,the world is burning and those in power are stoking the flames,anger,"[[""the world is burning and those in power are stoking the flames""]]",the world is burning and those in power are stoking the flames,1,14,0
+1603,'the git up' is the next viral country rap song,joy,"[[""viral country rap song""]]",viral country rap song,10,13,5
+3315,el paso walmart shooting: police respond to gun attack,fear,"[[""el paso walmart shooting""]]",el paso walmart shooting,1,8,3
+2578,the toxic-gas catastrophe hiding beneath your home,negative_surprise,"[[""the toxic-gas catastrophe hiding beneath your home""]]",the toxic-gas catastrophe hiding beneath your home,1,11,8
+1542,the amount of plastic in the ocean is a lot worse than we thought,negative_surprise,"[[""the amount of plastic in the ocean is a lot worse than we thought""]]",the amount of plastic in the ocean is a lot worse than we thought,1,14,8
+3244,trump risks a return to the days of ‘fire and fury’ with north korea,fear,"[[""days of ‘fire and fury’ with north korea""]]",days of ‘fire and fury’ with north korea,8,19,3
+3472,exclusive -- carson: clear cut evidence of facebook advertising platform discrimination,trust,"[[""clear cut evidence of facebook advertising platform discrimination""]]",clear cut evidence of facebook advertising platform discrimination,7,15,14
+4459,dominican resort claims us tourist went public with assault allegation after it refused her demand for $2.2 million,guilt,"[[""allegation after it refused her demand for $2.2 million""]]",allegation after it refused her demand for $2.2 million,12,24,4
+2748,boxing legend pernell ‘sweet pea’ whitaker fatally struck by car,negative_surprise,"[[""fatally struck by car""]]",fatally struck by car,13,17,8
+2881,the shameful truth: america only put a man on the moon with the help of nazi monsters,shame,"[[""only put a man on the moon with the help of nazi monsters"",""america only put a man on the moon with the help of nazi monsters""]]",only put a man on the moon with the help of nazi monsters,9,22,13
+3015,plane with the largest wingspan in the world takes flight,positive_anticipation_including_optimism,"[[""wingspan in the world takes flight""]]",wingspan in the world takes flight,5,10,9
+562,what the space age taught us: earth is the best planet out there,joy,"[[""earth is the best planet out there""]]",earth is the best planet out there,8,14,5
+4017,"a migrant girl died in u.s. custody, and trump officials didn't publicly disclose it for 8 months",sadness,"[[""a migrant girl died in u.s. custody""]]",a migrant girl died in u.s. custody,1,10,12
+4311,abortion advocates are losing. don’t give them a lifeline,sadness,"[[""abortion advocates are losing. don’t give them a lifeline"",""don’t give them a lifeline""]]",abortion advocates are losing. don’t give them a lifeline,1,13,12
+2779,"ex-minister’s son, 25, faces a retrial over the death of three-year-old alfie lamb",negative_surprise,"[[""death of three-year-old""]]",death of three-year-old,17,23,8
+4757,ny times bemoans ‘disciplined’ mueller outfoxed by trump and ‘handpicked’ barr,sadness,"[[""trump and ‘handpicked’ barr"",""outfoxed by trump and ‘handpicked’ barr""]]",trump and ‘handpicked’ barr,18,27,12
+4822,trudeau ejects whistle-blowing mps from liberal caucus,anger,"[[""from liberal caucus""]]",from liberal caucus,11,13,0
+647,"16 u.s. marines arrested on human smuggling, drug charges near border",anger,"[[""human smuggling, drug charges near border""]]","human smuggling, drug charges near border",10,16,0
+575,"blue states warned of salt apocalypse, it hasn't happened",annoyance,"[[""it hasn't happened""]]",it hasn't happened,12,16,1
+2032,trump responds to calls to fire kellyanne conway after report she violated federal law 'numerous' times,anger,"[[""violated federal law 'numerous' times""],[""report""]]",violated federal law 'numerous' times,16,22,0
+344,trump says he is confident mexico will enforce new immigration deal,positive_surprise,"[[""he is confident mexico will enforce new immigration deal""]]",he is confident mexico will enforce new immigration deal,4,14,10
+2043,drums of looming iran war resound in congress,fear,"[[""drums of looming iran war""]]",drums of looming iran war,1,6,3
+3537,"federal agents storm venezuelan embassy, arrest protesters",disgust,"[[""storm venezuelan embassy, arrest protesters""]]","storm venezuelan embassy, arrest protesters",3,12,2
+1544,the real reason nra leaders are suddenly eating each other alive,disgust,"[[""leaders are suddenly eating each other alive""]]",leaders are suddenly eating each other alive,6,12,2
+510,some drug groups are still pushing triple-digit price rises,negative_anticipation_including_pessimism,"[[""still pushing triple-digit price rises""]]",still pushing triple-digit price rises,5,11,7
+1844,"finally, assange will face the legal cases against him",trust,"[[""will face the legal cases against him""]]",will face the legal cases against him,6,12,14
+3320,"facebook’s ad algorithm is a race and gender stereotyping machine, new study suggests",negative_surprise,"[[""facebook’s ad algorithm is a race and gender stereotyping machine, new study suggests"",""is a race and gender stereotyping machine, new study suggests""]]","facebook’s ad algorithm is a race and gender stereotyping machine, new study suggests",1,19,8
+925,amlo makes economic mis-steps as bolsonaro delivers reforms,shame,"[[""bolsonaro delivers reforms""]]",bolsonaro delivers reforms,10,15,13
+3242,"trump declares victory, mocks mueller testimony: ‘this was a devastating day for the democrats’",negative_surprise,"[[""trump declares victory""]]",trump declares victory,1,4,8
+4806,kellyanne conway calls out msnbc for falsely accusing trump of collusion,shame,"[[""falsely accusing trump of collusion""]]",falsely accusing trump of collusion,14,21,13
+4560,government data are ever more important to economic research,positive_anticipation_including_optimism,"[[""to economic research""]]",to economic research,7,9,9
+1427,gun control could finally have its moment in virginia,positive_surprise,"[[""could finally have its moment in virginia"",""gun control could finally have its moment in virginia""]]",could finally have its moment in virginia,3,10,10
+3318,everyone is screaming for meryl streep’s big little lies scream,disgust,"[[""meryl streep’s big little lies scream""]]",meryl streep’s big little lies scream,5,15,2
+3182,"mueller shuns spotlight, but says probe didn’t ‘exonerate’ trump",negative_surprise,"[[""but says probe didn’t ‘exonerate’ trump""]]",but says probe didn’t ‘exonerate’ trump,9,21,8
+732,hong kong protesters storm legislature on anniversary of city's return to chinese rule,annoyance,"[[""return to chinese rule""]]",return to chinese rule,14,18,1
+4666,"for $500 million, rivian will teach ford how to make electric vehicles",positive_surprise,"[[""how to make electric vehicles""]]",how to make electric vehicles,13,17,10
+2369,watch broward county sheriff’s deputies slam a 14-year-old boy’s head into the pavement,anger,"[[""head into the pavement""]]",head into the pavement,19,22,0
+2267,dan crenshaw rips into google execs at hearing for labeling ben shapiro a nazi,anger,"[[""labeling ben shapiro a nazi""]]",labeling ben shapiro a nazi,18,27,0
+903,"navy seals tried for months to report superior for war crimes and were told to ""let it go""",annoyance,"[[""war crimes and were told to \\""\\""let it go\\""\\""\\""""]]","war crimes and were told to ""let it go""",10,20,1
+2872,the hospital is too damn loud,anger,"[[""too damn loud""]]",too damn loud,4,6,0
+4389,"a new nuclear arms race: as nato marks 70th anniversary, threat of nuclear confrontation grows",negative_anticipation_including_pessimism,"[[""threat of nuclear confrontation grows""]]",threat of nuclear confrontation grows,15,19,7
+2135,scientists explain how climate change made hurricane maria so devastating,sadness,"[[""explain how climate change made hurricane maria so devastating""]]",explain how climate change made hurricane maria so devastating,2,11,12
+1905,san francisco approves forced treatment for homeless who are mentally ill,positive_surprise,"[[""who are mentally ill""]]",who are mentally ill,13,16,10
+4321,donald trump’s formal “rebuttal” to the mueller report is as ridiculous as we knew it would be,annoyance,"[[""as ridiculous as we knew it would be""]]",as ridiculous as we knew it would be,20,27,1
+2980,13-year-old opens bakery and matches every sale with a donation to the homeless,joy,"[[""opens bakery and matches every sale with a donation to the homeless""]]",opens bakery and matches every sale with a donation to the homeless,6,17,5
+175,triciabiz launches online business school for entrepreneurs in africa,annoyance,"[[""launches online business school for entrepreneurs in africa""]]",launches online business school for entrepreneurs in africa,6,15,1
+1370,biden unveils health plan doubling down on the afforable care act,positive_anticipation_including_optimism,"[[""unveils health plan doubling down on the afforable care act""]]",unveils health plan doubling down on the afforable care act,3,17,9
+2746,bernie sanders: the boss’s worst nightmare,fear,"[[""the boss’s worst nightmare""]]",the boss’s worst nightmare,7,12,3
+4792,"b-52, aircraft carrier in mideast over iran conduct exercise",shame,"[[""iran conduct exercise""]]",iran conduct exercise,12,15,13
+660,"after series of uk milkshake tossing incidents, leftists say such physical attacks are effective — and 'absolutely hilarious'",anger,"[[""leftists say such physical attacks are effective — and 'absolutely hilarious'""]]",leftists say such physical attacks are effective — and 'absolutely hilarious',11,26,0
+275,free tickets to see rams and chargers practice at socal training camps,positive_surprise,"[[""free tickets to see rams and chargers""]]",free tickets to see rams and chargers,1,9,10
+73,kamala harris campaign insists ‘she’s been very clear’ on health care,positive_surprise,"[[""‘she’s been very clear’ on health care""]]",‘she’s been very clear’ on health care,9,19,10
+2259,china drank the most beer in the world in 2018,positive_surprise,"[[""drank the most beer in the world in 2018""]]",drank the most beer in the world in 2018,3,11,10
+4546,donald trump is even further gone than we thought,negative_surprise,"[[""is even further gone than we thought""]]",is even further gone than we thought,5,11,8
+2196,msnbc's deutsch says democrats 'at war' with trump,anger,"[[""democrats 'at war' with trump""]]",democrats 'at war' with trump,12,20,0
+4908,stephanie grace: why gov. john bel edwards has to worry about attracting democrats too,negative_anticipation_including_pessimism,"[[""has to worry about attracting democrats too""]]",has to worry about attracting democrats too,18,25,7
+1340,#backpoch: tottenham fans urge daniel levy to back boss mauricio pochettino,anger,"[[""tottenham fans urge daniel levy to back boss mauricio pochettino""]]",tottenham fans urge daniel levy to back boss mauricio pochettino,6,25,0
+4910,the reporter who wrote about layoffs at the cleveland plain dealer after he was laid off,fear,"[[""after he was laid off""]]",after he was laid off,16,20,3
+1581,"watch msc opera cruise ship crash into dock and smaller boat in venice, italy",sadness,"[[""into dock and smaller boat in venice, italy""]]","into dock and smaller boat in venice, italy",9,20,12
+3406,this snl sketch with emma thompson will change the way you watch beauty and the beast,joy,"[[""change the way you watch beauty and the beast"",""will change the way you watch beauty and the beast""]]",change the way you watch beauty and the beast,14,22,5
+3113,"brockmire mocks god as 'sky daddy,' calls jesus 'the mayor of auschwitz'",disgust,"[[""as 'sky daddy,' calls jesus 'the mayor of auschwitz'""]]","as 'sky daddy,' calls jesus 'the mayor of auschwitz'",8,25,2
+322,saudi arabia plans to let women leave the country without the permission of a man,positive_surprise,"[[""leave the country without the permission of a man""]]",leave the country without the permission of a man,10,18,10
+4135,the latest: portugal confirms 29 germans killed on madeira,sadness,"[[""portugal confirms 29 germans killed on madeira"",""29 germans killed on madeira""]]",portugal confirms 29 germans killed on madeira,4,15,12
+2501,"dayton police officers run toward the fire, take out shooter",fear,"[[""take out shooter""]]",take out shooter,10,12,3
+3697,"f1: ‘sebastian vettel only needs one good race - it’s just a phase’, says nico rosberg",positive_anticipation_including_optimism,"[[""only needs one good race""]]",only needs one good race,11,15,9
+1423,georgia's department of public health is going after a charity that feeds hungry kids for using 'uncertified' kitchens,disgust,"[[""for using 'uncertified' kitchens""]]",for using 'uncertified' kitchens,19,28,2
+4844,nolte: dirty cop robert mueller selectively edited trump lawyer voice mail,disgust,"[[""trump lawyer""]]",trump lawyer,15,17,2
+2101,trump lauds military at independence day celebrations,positive_surprise,"[[""lauds military at independence day celebrations""]]",lauds military at independence day celebrations,3,9,10
+3210,ryanair announces plan to cut hundreds of jobs,negative_anticipation_including_pessimism,"[[""plan to cut hundreds of jobs""]]",plan to cut hundreds of jobs,5,10,7
+2275,eurovision faces backlash as musical kitschfest hits israel,anger,"[[""faces backlash as musical kitschfest hits israel""]]",faces backlash as musical kitschfest hits israel,3,14,0
+604,"rnc, accusing democrats of 'deafening silence' over desecrations, sends 74 american flags to top dems",guilt,"[[""'deafening silence' over desecrations, sends 74 american flags to top dems""]]","'deafening silence' over desecrations, sends 74 american flags to top dems",8,27,4
+4202,"iran seizes foreign oil tanker with crew of 12, state tv says",negative_surprise,"[[""seizes foreign oil tanker with crew of 12, state tv says""]]","seizes foreign oil tanker with crew of 12, state tv says",3,16,8
+4905,puerto rico doesn’t want political unrest to deter tourists from its beaches,fear,"[[""doesn’t want political unrest to deter tourists from its beaches""]]",doesn’t want political unrest to deter tourists from its beaches,6,18,3
+3629,"trump seeks weaker protections, as 1 million species face extinction",trust,"[[""weaker protections, as 1 million species face extinction""]]","weaker protections, as 1 million species face extinction",4,13,14
+3859,neighborhoods across the country are building miniature pantries to help those in need,positive_surprise,"[[""are building miniature pantries to help those in need""]]",are building miniature pantries to help those in need,5,14,10
+4171,epoch times publisher pens fiery letter accusing nbc news reporters of asking inappropiate questions,disgust,"[[""accusing nbc news reporters of asking inappropiate questions"",""pens fiery letter accusing nbc news reporters of asking inappropiate questions""]]",accusing nbc news reporters of asking inappropiate questions,10,23,2
+3903,"“while i live, i remember”: agnès varda’s way of seeing",annoyance,"[[""way of seeing""]]",way of seeing,17,19,1
+4660,donald trump tells the truth today,positive_surprise,"[[""tells the truth today""]]",tells the truth today,5,8,10
+1230,winners and losers from the gop tax cuts this year,trust,"[[""gop tax cuts this year""]]",gop tax cuts this year,7,12,14
+4290,trump calls robert mueller’s probe an ‘attempted coup’,anger,"[[""‘attempted coup’""]]",‘attempted coup’,13,16,0
+1248,bill donohue slams fox news for cutting his segment after he points out recent attacks on french churches,disgust,"[[""for cutting his segment after he points out recent attacks on french churches""]]",for cutting his segment after he points out recent attacks on french churches,9,22,2
+334,"thanks to education, global fertility could fall faster than expected",love_including_like,"[[""global fertility could fall faster than expected""]]",global fertility could fall faster than expected,5,11,6
+2463,illegal alien charged with murdering four americans claims he is ‘mentally disabled’,disgust,"[[""disabled’""]]",disabled’,15,16,2
+4012,3rd mexican journalist murdered in 1 week — 10th in 2019,sadness,"[[""3rd mexican journalist murdered in 1 week""]]",3rd mexican journalist murdered in 1 week,1,9,12
+228,one restaurant's simple approach to fighting food waste,positive_surprise,"[[""simple approach to fighting food waste""]]",simple approach to fighting food waste,5,10,10
+1003,gofundme deletes south bend police officer’s donation page,negative_surprise,"[[""gofundme deletes south bend police officer’s donation page""]]",gofundme deletes south bend police officer’s donation page,1,15,8
+945,"candidates of a certain age, &c.",fear,"[[""candidates of a certain age, &c.""]]","candidates of a certain age, &c.",1,9,3
+1233,wokesters go after democrat cartoonist for objecting to abortion,anger,"[[""objecting to abortion""]]",objecting to abortion,9,12,0
+670,bahaha! eric swalwell talking smack about barr and how they will ‘hold trump accountable’ is even funnier now (watch),joy,"[[""is even funnier now (watch)""],[""‘hold trump""]]",is even funnier now (watch),27,34,5
+546,trump administration ramps up its fight to wipe out a federal agency,annoyance,"[[""wipe out a federal agency""]]",wipe out a federal agency,10,14,1
+4455,5 cool online startups that drop new products every single week of the year,love_including_like,"[[""drop new products every single week of the year""]]",drop new products every single week of the year,7,15,6
+1588,whitewashing history: america’s racist legacy from slavery to the war on immigrants,sadness,"[[""war on immigrants""]]",war on immigrants,17,19,12
+2529,japan and south korea’s history wars are about to get ugly,fear,"[[""history wars are about to get ugly""]]",history wars are about to get ugly,11,17,3
+2207,please enjoy all the newscasters totally incapable of believing that august has arrived,joy,"[[""believing""]]",believing,10,10,5
+3821,"'pharma bro' martin shkreli loses appeal, will stay in prison",negative_surprise,"[[""'pharma bro' martin shkreli loses appeal, will stay in prison"",""martin shkreli loses appeal, will stay in prison""]]","'pharma bro' martin shkreli loses appeal, will stay in prison",1,22,8
+2517,"for our dedicated food readers, the dinner is in the detail | paul chadwick",joy,"[[""for our dedicated food readers, the dinner is in the detail""]]","for our dedicated food readers, the dinner is in the detail",1,12,5
+2637,justin amash's principled stand against trump will not make him popular in the gop,negative_anticipation_including_pessimism,"[[""in the gop""]]",in the gop,18,21,7
+1620,"before trump criticized the urban poverty he uses to attack democrats, he profited from it",negative_surprise,"[[""criticized the urban poverty he uses to attack democrats, he profited from it""]]","criticized the urban poverty he uses to attack democrats, he profited from it",4,19,8
+1563,trump’s fcc votes to end local governments’ ability to regulate and charge cable broadband industry,negative_surprise,"[[""votes to end local governments’ ability to regulate and charge cable broadband industry""]]",votes to end local governments’ ability to regulate and charge cable broadband industry,7,20,8
+1039,kamala harris continues to lie about charlottesville 'very fine people' hoax,disgust,"[[""continues to lie about charlottesville 'very fine people' hoax"",""lie about charlottesville 'very fine people' hoax""]]",continues to lie about charlottesville 'very fine people' hoax,7,22,2
+3798,u.s. seizes control of north korean cargo ship used to skirt international sanctions,anger,"[[""seizes control of north korean cargo ship used to skirt international sanctions""]]",seizes control of north korean cargo ship used to skirt international sanctions,5,19,0
+4947,sen. durbin: mueller testimony won't likely bring breakthroughs,negative_anticipation_including_pessimism,"[[""mueller testimony won't likely bring breakthroughs""]]",mueller testimony won't likely bring breakthroughs,8,18,7
+3676,buttigieg: questions on third-trimester abortions are hypotheticals,negative_anticipation_including_pessimism,"[[""abortions are hypotheticals""]]",abortions are hypotheticals,11,18,7
+2919,avengers: endgame’s astonishing box office soars past $2 billion,positive_surprise,"[[""astonishing box office soars past $2 billion""]]",astonishing box office soars past $2 billion,9,19,10
+2505,dozens of rockets launched into israel,fear,"[[""rockets launched into israel""]]",rockets launched into israel,3,8,3
+1445,illinois becomes 11th state to legalize weed,positive_surprise,"[[""legalize weed""]]",legalize weed,8,10,10
+2539,"money talks, and it says climate change is real",trust,"[[""climate change is real""]]",climate change is real,7,10,14
+54,immigrant soldiers are now being denied us citizenship at a higher rate than civilians,annoyance,"[[""denied us citizenship at a higher rate than civilians""]]",denied us citizenship at a higher rate than civilians,6,14,1
+1470,man who confessed to killing 11-year-old sentenced to life,guilt,"[[""sentenced to life""]]",sentenced to life,11,13,4
+4505,‘i’m just over the moon.’ prince harry can’t stop beaming about his new royal baby boy with meghan markle,joy,"[[""can’t stop beaming about his new royal baby boy with meghan markle"",""about his new royal baby boy with meghan markle""]]",can’t stop beaming about his new royal baby boy with meghan markle,14,30,5
+3877,serial hot-take-haver pardes seleh is totally cringing at all you housewives ‘who haven’t worked a day in their life’,negative_surprise,"[[""all you housewives ‘who haven’t worked a day in their life""]]",all you housewives ‘who haven’t worked a day in their life,18,32,8
+4314,beto slams warren’s ‘mistaken’ call to decriminalize border crossings,anger,"[[""slams warren’s""],[""warren’s""]]",slams warren’s,3,8,0
+2784,"foreign generic drugs: a matter of life, or death",fear,"[[""foreign generic drugs""]]",foreign generic drugs,1,3,3
+1712,naacp delegates vote unanimously to call for congress to impeach president trump,annoyance,"[[""to impeach president trump""]]",to impeach president trump,11,16,1
+752,james holzhauer’s jeopardy winning streak has come to an end,sadness,"[[""winning streak has come to an end""]]",winning streak has come to an end,14,20,12
+3193,ohio man raped now-pregnant 11-year-old girl: authorities,anger,"[[""raped now-pregnant 11-year-old girl""]]",raped now-pregnant 11-year-old girl,4,13,0
+151,the decathlon: ten things from the world of sport on 23 april,negative_surprise,"[[""the world of sport on 23 april""]]",the world of sport on 23 april,10,18,8
+4115,ralph nader's grandniece died in ethiopian plane crash; now he is urging boycott of boeing jet,sadness,"[[""now he is urging boycott of boeing jet""]]",now he is urging boycott of boeing jet,20,29,12
+4677,iran says it has broken stockpile limit set by nuclear deal,negative_surprise,"[[""it has broken stockpile limit set by nuclear deal""]]",it has broken stockpile limit set by nuclear deal,4,13,8
+1058,man killed by masked gunman who used anti-gay slur: cops,anger,"[[""man killed by masked gunman""]]",man killed by masked gunman,1,6,0
+2074,users line up as toronto opens its first pot shop,joy,"[[""opens its first pot shop""]]",opens its first pot shop,8,12,5
+359,"with craig indictment, mueller probe sends ripples through the swamp",disgust,"[[""mueller probe sends ripples through the swamp""]]",mueller probe sends ripples through the swamp,7,16,2
+1377,"budget deal moving ahead, despite outrage on the right",disgust,"[[""despite outrage on the right""]]",despite outrage on the right,6,10,2
+72,justin amash faces intense blowback after trump impeachment claims — then trump hits back,negative_anticipation_including_pessimism,"[[""trump impeachment claims — then trump hits back""]]",trump impeachment claims — then trump hits back,10,21,7
+150,the death of america’s frontier vision,annoyance,"[[""america’s frontier vision""]]",america’s frontier vision,4,10,1
+4517,"schiff on impeachment: 'at this point, i'm not prepared to recommend it'",negative_anticipation_including_pessimism,"[[""not prepared""],[""to recommend""]]",not prepared,17,18,7
+4165,an epidemic of body shaming is taking its toll on men’s mental health,shame,"[[""taking its toll on men’s mental health""]]",taking its toll on men’s mental health,9,17,13
+891,white house condemns day-long taliban attack that killed at least 6,anger,"[[""taliban attack that killed at least 6""]]",taliban attack that killed at least 6,10,18,0
+1264,"elizabeth warren, unveiling opioid plan, says sackler name should come off harvard buildings",disgust,"[[""says sackler name should come off harvard buildings""]]",says sackler name should come off harvard buildings,15,25,2
+3272,44 injured when wave goes rogue in 'tsunami pool' in chinese water park,sadness,"[[""when wave""],[""when wave goes rogue""]]",when wave,3,4,12
+4955,"china, the us and trade in a dog-eat-dog world",annoyance,"[[""trade in a dog-eat-dog world""]]",trade in a dog-eat-dog world,7,15,1
+3860,new orleans braces for a one-two weather punch,negative_anticipation_including_pessimism,"[[""one-two weather punch""]]",one-two weather punch,9,13,7
+2479,"vice president pence tours border patrol facility with almost 400 men in ‘crowded’ cages, ‘horrendous stench’",disgust,"[[""with almost 400 men in ‘crowded’""]]",with almost 400 men in ‘crowded’,9,16,2
+2142,truck slams into crowd on highway in guatemala; 30 dead,sadness,"[[""30 dead""]]",30 dead,14,15,12
+138,subtle hints that it may be time to clean your car,positive_anticipation_including_optimism,"[[""clean your car""]]",clean your car,9,11,9
+922,"airline goes bankrupt, leaves thousands stranded across europe",negative_surprise,"[[""leaves thousands stranded across europe""]]",leaves thousands stranded across europe,5,10,8
+3810,woman arrested under terrorism act after death of journalist lyra mckee,fear,"[[""after death of journalist lyra mckee""]]",after death of journalist lyra mckee,6,14,3
+2793,here is what war with iran would look like,fear,"[[""war with iran would look like""]]",war with iran would look like,4,10,3
+4112,plastic is everywhere. we can no longer ignore that.,sadness,"[[""we can no longer ignore that.""]]",we can no longer ignore that.,5,11,12
+4370,donald trump’s unprecedented assault on the power of congress,anger,"[[""unprecedented assault on the power of congress""]]",unprecedented assault on the power of congress,7,13,0
+1348,8 things to know about tourist deaths in the dominican republic,fear,"[[""tourist deaths in the dominican republic""]]",tourist deaths in the dominican republic,6,13,3
+1615,anchorage hits 90 degrees for first time in recorded history,negative_surprise,"[[""anchorage hits 90 degrees for first time in recorded history""]]",anchorage hits 90 degrees for first time in recorded history,1,11,8
+342,trump can’t even get the russia thing right anymore,disgust,"[[""can’t even get the russia thing right anymore""]]",can’t even get the russia thing right anymore,3,14,2
+1030,ivanka & jared are cons and threats to national security,fear,"[[""cons and threats to national security""]]",cons and threats to national security,8,14,3
+3490,shameless: cam edwards calls time magazine out for trying to spin co vigil student walk-out,shame,"[[""magazine out for trying to spin co vigil student walk-out""]]",magazine out for trying to spin co vigil student walk-out,11,24,13
+3190,nipsey hussle’s devastated bodyguard j-roc quits security business,sadness,"[[""bodyguard j-roc quits security business""]]",bodyguard j-roc quits security business,10,18,12
+2815,like omg marx is so fetch! dana loesch has like the perfect take on teen vogue’s puff piece on karl marx and lol,love_including_like,"[[""has like the perfect take on teen vogue’s puff piece on karl marx and lol""]]",has like the perfect take on teen vogue’s puff piece on karl marx and lol,17,39,6
+4305,wayfair workers walk out to protest furniture sale to migrant detention center,anger,"[[""protest furniture sale to migrant detention center""]]",protest furniture sale to migrant detention center,7,13,0
+4579,"meet jeffrey epstein, the billionaire financier arrested for alleged sex trafficking who's rubbed elbows with donald trump, bill clinton, and kevin spacey",negative_surprise,"[[""alleged sex trafficking who's rubbed elbows with donald trump, bill clinton, and kevin spacey""]]","alleged sex trafficking who's rubbed elbows with donald trump, bill clinton, and kevin spacey",16,40,8
+4770,"six years after coup, egypt’s first democratically elected president dies",sadness,"[[""egypt’s first democratically elected president dies""]]",egypt’s first democratically elected president dies,6,16,12
+1163,the president’s rather strange message to bernie sanders,negative_anticipation_including_pessimism,"[[""strange message""]]",strange message,6,7,7
+3766,speaker pelosi backs down on impeachment talk after president trump rips into her,negative_surprise,"[[""rips into her""]]",rips into her,16,19,8
+4101,new zealand bikers perform haka in honor of christchurch victims,pride,"[[""honor of christchurch victims""]]",honor of christchurch victims,11,16,11
+512,"sri lanka easter attack leader died in hotel bombing, officials say",sadness,"[[""died in hotel bombing, officials say""]]","died in hotel bombing, officials say",9,15,12
+3560,japanese workers are very upset about their upcoming 10-day holiday,anger,"[[""about their upcoming 10-day holiday\\""""]]",about their upcoming 10-day holiday,8,14,0
+4643,ntsb joining ethiopian airlines crash investigation,positive_anticipation_including_optimism,"[[""joining ethiopian airlines crash investigation""]]",joining ethiopian airlines crash investigation,4,11,9
+3342,jersey shore concert series canceled after discovery of threatened shorebird nest,negative_surprise,"[[""after discovery of threatened shorebird nest""]]",after discovery of threatened shorebird nest,6,12,8
+3753,puerto ricans are resisting policing as a solution to crisis,fear,"[[""resisting policing as a solution to crisis""]]",resisting policing as a solution to crisis,8,14,3
+1608,"accused utrecht shooter admits guilt, faces terror-related charges: dutch prosecutors",guilt,"[[""faces terror-related charges: dutch prosecutors""]]",faces terror-related charges: dutch prosecutors,9,17,4
+1138,"some mad, bad news: big oil is actively involved in climate talks",negative_surprise,"[[""actively involved in climate talks""]]",actively involved in climate talks,10,14,8
+2970,the 2018 nobel peace prize is awarded to a surgeon and a former slave,positive_surprise,"[[""awarded to a surgeon and a former slave""]]",awarded to a surgeon and a former slave,8,15,10
+1016,irs eases penalty for taxpayers who paid too little,positive_anticipation_including_optimism,"[[""who paid too little""]]",who paid too little,9,12,9
+4434,terrified city workers in virginia beach shooting: all you could hear was gunshots,fear,"[[""all you could hear was gunshots""]]",all you could hear was gunshots,10,16,3
+4022,"amnesty, watchdog group: u.s.-led coalition killed 1,600 civilians in raqqa",anger,"[[""civilians""],[""killed 1,600 civilians""]]",civilians,20,20,0
+652,a ‘fantasy’: medieval scholars educate white nationalists on their ‘pure white europe’ claims,negative_surprise,"[[""nationalists on their ‘pure white europe’ claims""]]",nationalists on their ‘pure white europe’ claims,10,19,8
+1794,vox sentences: black churches are burning,sadness,"[[""black churches are burning""]]",black churches are burning,5,8,12
+411,climate scientists partner with mckinsey to push companies to self-regulate,annoyance,"[[""to push companies to self-regulate""]]",to push companies to self-regulate,9,15,1
+1668,here's what happened to president trump's approval rating after the mueller report,negative_anticipation_including_pessimism,"[[""approval rating after the mueller report""]]",approval rating after the mueller report,12,19,7
+3289,august wti oil trades at $57.53/bbl vs. $57.44 before the rig data,disgust,"[[""august wti oil trades at $57.53/bbl vs. $57.44 before the rig data""]]",august wti oil trades at $57.53/bbl vs. $57.44 before the rig data,1,26,2
+2099,"singapore abolishes school exam rankings, says learning is not a competition",positive_surprise,"[[""abolishes school exam rankings"",""school exam rankings, says learning is not a competition""]]",abolishes school exam rankings,4,9,10
+766,kids in philadelphia muslim society: ‘we will chop off their heads’ for allah,anger,"[[""‘we will chop off their heads’ for allah""]]",‘we will chop off their heads’ for allah,14,25,0
+2036,cricketer joe clarke - who sent 'foul' whatsapp sex texts to rapist alex hepburn - plays for club,negative_surprise,"[[""alex hepburn""]]",alex hepburn,21,25,8
+3256,watch - bernie sanders would move u.s. embassy out of jerusalem,positive_anticipation_including_optimism,"[[""move u.s. embassy out of jerusalem""]]",move u.s. embassy out of jerusalem,9,20,9
+2090,the perverse paradox of the mueller report,negative_surprise,"[[""mueller report""]]",mueller report,8,11,8
+1755,supernatural’s 15th season will be its last,negative_surprise,"[[""15th season will be its last""]]",15th season will be its last,4,9,8
+1088,oprah always travels with avocados grown from her own orchard because ‘it’s ridiculous to pay for avocados’,annoyance,"[[""travels with avocados grown from her own orchard because ‘it’s ridiculous to pay for avocados""]]",travels with avocados grown from her own orchard because ‘it’s ridiculous to pay for avocados,4,28,1
+4624,walmart got a $2.2 billion tax cut. now it’s laying off workers,negative_surprise,"[[""laying off workers""]]",laying off workers,18,20,8
+4308,a brief history of the movie-summarizing end-credits rap,positive_anticipation_including_optimism,"[[""summarizing end-credits rap""]]",summarizing end-credits rap,8,14,9
+452,"iraq, lebanon to stay away from mideast peace conference",anger,"[[""mideast peace conference""]]",mideast peace conference,12,16,0
+4698,texas governor announces $1.6b deal for teacher raises,positive_surprise,"[[""announces $1.6b deal for teacher raises""]]",announces $1.6b deal for teacher raises,5,14,10
+1830,de blasio: the nypd will investigate the new rape claim against trump if a complaint is filed,negative_surprise,"[[""rape claim against trump if a complaint is filed""]]",rape claim against trump if a complaint is filed,15,24,8
+565,"world war one fanatic's collection of bombs and shells is set to fetch £5,000 at auction",pride,"[[""bombs and shells is set to fetch £5,000 at auction""]]","bombs and shells is set to fetch £5,000 at auction",10,22,11
+2117,honor the fallen: two u.s. soldiers killed in afghanistan,sadness,"[[""two u.s. soldiers killed in afghanistan""]]",two u.s. soldiers killed in afghanistan,5,16,12
+4681,"july wti oil down $1.80, or 3.4%, to settle at $51.68/bbl on nymex",negative_surprise,"[[""1.80, or 3.4%, to settle at $51.68/bbl on nymex""]]","1.80, or 3.4%, to settle at $51.68/bbl on nymex",9,33,8
+4288,"trump thinks his critics are traitors, and they sling the charge back at him",disgust,"[[""they sling the charge back at him""]]",they sling the charge back at him,11,18,2
+1809,alexandria ocasio-cortez and hillary clinton mocked jared kushner on twitter,negative_surprise,"[[""mocked jared kushner on twitter""]]",mocked jared kushner on twitter,18,27,8
+4077,joe biden is hillary clinton 2.0 — democrats would be mad to nominate him,sadness,"[[""democrats would be mad to nominate him""]]",democrats would be mad to nominate him,15,22,12
+389,aoc and warren have some tough questions for mnuchin about sears’s collapse,annoyance,"[[""some tough questions for mnuchin about sears’s collapse""]]",some tough questions for mnuchin about sears’s collapse,7,19,1
+4701,the myths of means-testing are still alive among democrats,positive_surprise,"[[""are still alive among democrats""]]",are still alive among democrats,7,12,10
+4402,"everywhere is war: the american threat to iran, venezuela, and women",fear,"[[""the american threat to iran, venezuela, and women""]]","the american threat to iran, venezuela, and women",5,20,3
+2992,high school students shovel womanand#039;s driveway at 4:30 am so she can make it to dialysis treatment,joy,"[[""shovel womanand#039"",""s driveway at 4:30 am so she can make it to dialysis treatment""]]",shovel womanand#039,4,10,5
+2269,democrats freak out over ag barr’s obama ‘spying’ comments,fear,"[[""over ag barr’s obama ‘spying’ comments""]]",over ag barr’s obama ‘spying’ comments,5,18,3
+3442,‘unreal’: wh reporter april ryan ‘playing the victim’ after mike huckabee slams her ‘incitement’ against sarah sanders,disgust,"[[""‘playing the victim’ after mike huckabee slams her ‘incitement’""],[""after mike huckabee slams her ‘incitement’ against sarah sanders""]]",‘playing the victim’ after mike huckabee slams her ‘incitement’,14,33,2
+1651,donald trump has utterly deranged meltdown while aboard air force one,annoyance,"[[""meltdown while aboard air force one""]]",meltdown while aboard air force one,10,16,1
+4254,"not a ‘racist bone in my body’ says trump, as pelosi urges house to condemn",anger,"[[""pelosi urges house to condemn""]]",pelosi urges house to condemn,15,24,0
+1091,poll: democratic women okay with ‘handsy’ joe biden,positive_surprise,"[[""democratic women okay with ‘handsy’ joe biden""]]",democratic women okay with ‘handsy’ joe biden,3,14,10
+2439,"trump signs 9/11 first responder bill with press conference of lies, insults, and no democrats",annoyance,"[[""conference of lies, insults, and no democrats""]]","conference of lies, insults, and no democrats",13,22,1
+52,"illegal immigrant, 33, is charged in the shooting death of 28-year-old oklahoma mother-of-one",negative_surprise,"[[""shooting death of 28-year-old""]]",shooting death of 28-year-old,10,17,8
+444,hong kong police make ‘largest ever’ seizure of explosives in lead up to protests,sadness,"[[""make ‘largest ever’ seizure of explosives in lead up to protests""]]",make ‘largest ever’ seizure of explosives in lead up to protests,6,18,12
+3664,a jury said katy perry’s “dark horse” copied another song. the $2.8 million verdict is alarming.,negative_surprise,"[[""“dark horse” copied another""]]",“dark horse” copied another,10,15,8
+2617,daughter of tennessee man executed in 2006 seeks dna testing,guilt,"[[""executed in 2006 seeks dna testing""]]",executed in 2006 seeks dna testing,7,13,4
+2000,"'you're a white supremacist, laura': joaquin castro feuds with fox news host",anger,"[[""joaquin castro feuds with fox news host""]]",joaquin castro feuds with fox news host,17,27,0
+3637,"us takes illegal, dangerous actions toward regime change in venezuela",guilt,"[[""dangerous actions toward regime change in venezuela""]]",dangerous actions toward regime change in venezuela,5,14,4
+3429,wayfair should have seen this coming,negative_surprise,"[[""should have seen this coming""]]",should have seen this coming,3,7,8
+4836,"flashback: hateful maher condemns ‘race-baiting reagan,’ ‘responsible for our decline’",anger,"[[""responsible for our decline""]]",responsible for our decline,21,24,0
+4146,tribal attack: 18 women and children killed in papua new guinea,sadness,"[[""18 women and children killed in papua new guinea""]]",18 women and children killed in papua new guinea,4,16,12
+2718,keanu reeves is a real-life hero and this epic fan encounter involving an ice cream cone is proof,love_including_like,"[[""this epic fan encounter involving an ice cream cone is proof""]]",this epic fan encounter involving an ice cream cone is proof,13,23,6
+654,aclu calls for probe after black man was detained while moving into his home,fear,"[[""black man was detained while moving into his home"",""probe after black man was detained while moving into his home""]]",black man was detained while moving into his home,8,16,3
+1635,carolyn hax: husband’s abusive mom isn’t the only one who owes him an apology,guilt,"[[""the only one who owes him an apology""]]",the only one who owes him an apology,15,22,4
+1638,chinese woman carrying malware arrested at trump’s mar-a-lago,shame,"[[""carrying malware arrested at trump’s mar-a-lago""]]",carrying malware arrested at trump’s mar-a-lago,4,20,13
+2166,fired harvard dean ronald sullivan: 'unchecked emotion has replaced thoughtful reasoning on campus',annoyance,"[[""unchecked emotion has replaced thoughtful reasoning on campus""]]",unchecked emotion has replaced thoughtful reasoning on campus,14,23,1
+1006,haru coryne to join propublica illinois as data reporter,joy,"[[""haru coryne to join propublica illinois as data reporter"",""propublica illinois as data reporter""]]",haru coryne to join propublica illinois as data reporter,1,16,5
+4266,schiff threatens to subpoena fbi on russian election meddling investigation,negative_anticipation_including_pessimism,"[[""russian election meddling investigation""]]",russian election meddling investigation,12,18,7
+4353,trump to boeing: if you want some branding advice …,positive_anticipation_including_optimism,"[[""if you want some branding advice …""]]",if you want some branding advice …,8,14,9
+4163,‘we shall overcome’: remembering folk icon and activist pete seeger in his own words and songs,positive_anticipation_including_optimism,"[[""in his own words and songs""]]",in his own words and songs,16,21,9
+4639,iran says it will not surrender even if it is bombed,sadness,"[[""bombed""]]",bombed,12,12,12
+447,"in private chats, far-right goper discussed attacking, spying on activists",negative_surprise,"[[""discussed attacking, spying on activists"",""attacking, spying on activists""]]","discussed attacking, spying on activists",11,16,8
+3194,oliver north says he will not seek a 2nd term as nra president,negative_surprise,"[[""says he will not seek a 2nd term as nra president"",""he will not seek a 2nd term as nra president""]]",says he will not seek a 2nd term as nra president,4,15,8
+1486,"neutron stars merge, form an extremely powerful magnetic field",fear,"[[""powerful magnetic field""]]",powerful magnetic field,8,10,3
+2204,liberal entrepreneur gary vee scared of ‘massive entitlement’ ideas,fear,"[[""‘massive entitlement’ ideas""]]",‘massive entitlement’ ideas,9,16,3
+1882,mexican government official says ms-13 infiltrated caravans headed for us: reports,fear,"[[""ms-13 infiltrated caravans headed for us: reports""]]",ms-13 infiltrated caravans headed for us: reports,7,21,3
+96,mueller punted big questions to a congress ill-equipped to deal with them,negative_surprise,"[[""punted big questions to a congress ill-equipped to deal with them""]]",punted big questions to a congress ill-equipped to deal with them,4,17,8
+517,syrian state media: projectiles fired from israeli territory,fear,"[[""projectiles fired from israeli territory"",""projectiles fired""]]",projectiles fired from israeli territory,6,13,3
+4511,battle looms over full details of mueller report,negative_anticipation_including_pessimism,"[[""full details of mueller report"",""battle looms over full details""]]",full details of mueller report,5,11,7
+2323,outrage over arizona man who killed teen for listening to rap music,anger,"[[""outrage over arizona man who killed teen for listening to rap music""]]",outrage over arizona man who killed teen for listening to rap music,1,14,0
+3981,bronx firefighter killed in afghanistan suicide attack,sadness,"[[""afghanistan suicide attack""]]",afghanistan suicide attack,8,13,12
+417,drug dealer fleeing police on motorbike hit and killed grandmother,fear,"[[""killed grandmother""]]",killed grandmother,11,12,3
+2250,"bernie sanders blasts nra, calls for gun control after va beach shooting",anger,"[[""calls for gun control after va beach shooting"",""va beach shooting""]]",calls for gun control after va beach shooting,11,19,0
+2198,"trump unleashed: paul ryan 'weak, ineffective & stupid,' 'almost killed' republican party",anger,"[[""weak, ineffective & stupid,' 'almost killed' republican party""]]","weak, ineffective & stupid,' 'almost killed' republican party",11,23,0
+38,"he donated his mother's body for alzheimer's research — but it was sold to us army, 'strapped in a chair,' and used for blast testing",anger,"[[""but it was sold to us army, 'strapped in a chair,' and used for blast testing""]]","but it was sold to us army, 'strapped in a chair,' and used for blast testing",16,35,0
+3222,sister of sri lanka attacks 'ringleader' zahran hashim condemns attacks,disgust,"[[""'ringleader' zahran hashim condemns attacks"",""attacks 'ringleader' zahran hashim condemns attacks""]]",'ringleader' zahran hashim condemns attacks,8,21,2
+2109,"a 6-year-old was swept out to sea, and a group of brothers dove in after her",sadness,"[[""dove in after her""]]",dove in after her,18,21,12
+4401,earthquake: 4.1 quake strikes near ridgecrest,fear,"[[""4.1 quake strikes near ridgecrest""]]",4.1 quake strikes near ridgecrest,3,13,3
+1719,"no, rashida tlaib is definitely not antisemitic",positive_surprise,"[[""definitely not antisemitic""]]",definitely not antisemitic,10,15,10
+1244,against the great man theory of historians,disgust,"[[""against the great man theory of historians""]]",against the great man theory of historians,1,7,2
+894,winning socialism is about winning freedom,positive_surprise,"[[""winning socialism is about winning freedom""]]",winning socialism is about winning freedom,1,6,10
+574,"before being hacked, border surveillance firm lobbied to downplay security and privacy concerns about its technology",annoyance,"[[""downplay security and privacy concerns about its technology""]]",downplay security and privacy concerns about its technology,13,21,1
+2059,democratic candidates court black voters; biden apologizes,guilt,"[[""biden apologizes""]]",biden apologizes,7,10,4
+1583,what to expect at the second democratic presidential debate,positive_surprise,"[[""democratic presidential debate""]]",democratic presidential debate,7,9,10
+3764,"seedy app that 'undressed' women sparks backlash, taken offline",disgust,"[[""seedy app that 'undressed' women sparks backlash""]]",seedy app that 'undressed' women sparks backlash,1,12,2
+4033,bert vieira's daughter is 'living a nightmare' after her mum's mercedes was hit by police car,sadness,"[[""'living a nightmare' after her mum's mercedes was hit by police car""]]",'living a nightmare' after her mum's mercedes was hit by police car,10,28,12
+181,trump labels mueller probe an ‘attempted coup’,annoyance,"[[""‘attempted coup’""]]",‘attempted coup’,9,12,1
+36,gold futures move up after earlier declines as u.s. stock indexes turn lower,positive_surprise,"[[""declines""]]",declines,8,9,10
+3862,"new york state, which celebrated abortion extremism, outlaws declawing cats",joy,"[[""celebrated abortion extremism, outlaws declawing cats""]]","celebrated abortion extremism, outlaws declawing cats",7,19,5
+4104,notre-dame's spire collapses due to fire,negative_surprise,"[[""collapses due to fire""]]",collapses due to fire,9,13,8
+1161,the oberlin trial is a blueprint for fighting back,negative_surprise,"[[""the oberlin trial is a blueprint for fighting back""]]",the oberlin trial is a blueprint for fighting back,1,12,8
+1158,the fight for a green new deal can start with your union contract,positive_anticipation_including_optimism,"[[""can start with your union contract""]]",can start with your union contract,8,13,9
+4598,satire: governor northam hacks infowars’ broadcast,negative_surprise,"[[""governor northam hacks infowars’ broadcast""]]",governor northam hacks infowars’ broadcast,3,12,8
+618,trump order to make medical service costs more transparent,positive_surprise,"[[""costs more transparent""]]",costs more transparent,8,10,10
+4521,"baltimore writer d. watkins: ""we speak for ourselves: a word from forgotten black america""",sadness,"[[""a word from forgotten black america""]]",a word from forgotten black america,18,25,12
+3730,life lessons from three of the world’s most brutal sports,fear,"[[""three of the world’s most brutal sports""]]",three of the world’s most brutal sports,4,12,3
+4026,armed robber who held up gas station wearing teenage ninja turtles mask,fear,"[[""armed robber who held up gas station""]]",armed robber who held up gas station,1,9,3
+2458,donald trump reaches a disgusting new low and proves there is no bottom,disgust,"[[""new low and proves there is no bottom"",""reaches a disgusting new low and proves there is no bottom""]]",new low and proves there is no bottom,8,15,2
+4753,kennedy granddaughter found dead at family’s hyannis port compound after apparent drug overdose,sadness,"[[""found dead at family’s hyannis port compound after apparent drug overdose""]]",found dead at family’s hyannis port compound after apparent drug overdose,5,21,12
+1246,alabama mayor suggests “killing” lgbtq people is “only way” to fix society’s problems,anger,"[[""killing” lgbtq people is “only way” to fix society’s problems""]]",killing” lgbtq people is “only way” to fix society’s problems,7,24,0
+2399,"donald trump, the racist in the white house",annoyance,"[[""the racist in the white house""]]",the racist in the white house,6,11,1
+3667,ariana grande and justin bieber are cgi animals in this generation’s “we are the world”,positive_anticipation_including_optimism,"[[""cgi animals in this generation’s “we are the world”""]]",cgi animals in this generation’s “we are the world”,13,26,9
+2078,"newlyweds, both 100 years old, fell in love at assisted living facility",love_including_like,"[[""fell in love at assisted living facility""]]",fell in love at assisted living facility,10,16,6
+1444,"if classrooms are “free of politics,” the right wing will grow",positive_anticipation_including_optimism,"[[""if classrooms are “free of politics,” the right wing will grow""]]","if classrooms are “free of politics,” the right wing will grow",1,14,9
+3909,teacher cuts hair to match student being teased for her short hair,love_including_like,"[[""teacher cuts hair to match student being teased for her short hair""]]",teacher cuts hair to match student being teased for her short hair,1,12,6
+258,"children make parents happy, after all",joy,"[[""parents happy, after all""]]","parents happy, after all",3,7,5
+534,there's a little bit of psychopath in all of us,sadness,"[[""little bit of psychopath in all of us""]]",little bit of psychopath in all of us,5,15,12
+3399,the very american case of robert kraft and a florida prostitution sting,negative_surprise,"[[""robert kraft and a florida prostitution sting""]]",robert kraft and a florida prostitution sting,8,18,8
+1277,kamala harris says she was a progressive prosecutor. her record says otherwise.,disgust,"[[""her record says otherwise""]]",her record says otherwise,14,17,2
+2415,john paul stevens was right: citizens united opened the door to foreign money in u.s. elections,positive_surprise,"[[""opened the door to foreign money in u.s. elections"",""citizens united opened the door to foreign money in u.s. elections""]]",opened the door to foreign money in u.s. elections,15,26,10
+284,house approves “sweeping” provisions that target toxic “forever chemicals”,positive_surprise,"[[""“sweeping” provisions that target toxic “forever chemicals”""]]",“sweeping” provisions that target toxic “forever chemicals”,4,14,10
+2128,pit bulls maul dozens of cats to death at alabama shelter,sadness,"[[""alabama shelter""]]",alabama shelter,12,15,12
+1931,u.s. commander: al qaeda operating ‘across’ afghanistan,anger,"[[""al qaeda operating ‘across’ afghanistan""]]",al qaeda operating ‘across’ afghanistan,7,18,0
+1548,time to kick the islamizing turkey out of nato,anger,"[[""the islamizing turkey out of nato""]]",the islamizing turkey out of nato,4,12,0
+957,daily kos democratic straw poll: may 14 edition,positive_anticipation_including_optimism,"[[""straw poll: may 14 edition""]]",straw poll: may 14 edition,5,10,9
+1416,"fishermen find pieces of us drone shot down over iran, ambassador says",negative_surprise,"[[""us drone shot down over""]]",us drone shot down over,5,9,8
+393,arsonist gang firebombs 39 cars in a single night over 30-mile stretch of worcestershire,fear,"[[""a single night over 30-mile stretch of worcestershire""]]",a single night over 30-mile stretch of worcestershire,11,24,3
+3586,open thread for night owls: adam gopnik takes another look at impeachment of you-know-who,fear,"[[""impeachment of you-know-who""]]",impeachment of you-know-who,17,25,3
+822,scottish fans and media blast team after horror show in kazakhstan,fear,"[[""blast team after""]]",blast team after,7,9,3
+667,"as venezuela coup attempt fails to overthrow maduro, guaidó calls for protests",negative_surprise,"[[""guaidó calls for protests""]]",guaidó calls for protests,14,20,8
+2966,space telescope snaps a celestial family,positive_surprise,"[[""snaps a celestial family""]]",snaps a celestial family,3,6,10
+294,johnson heads tory leadership contest after first round,positive_surprise,"[[""heads tory leadership contest after first round""]]",heads tory leadership contest after first round,4,11,10
+208,'black mirror' season 5 first look has arrived,positive_surprise,"[[""season 5 first look has arrived""]]",season 5 first look has arrived,5,10,10
+4867,msnbc's wallace: 'we feel like we're fire hosing our viewers' by taking trump live,annoyance,"[[""feel like we're fire hosing our""]]",feel like we're fire hosing our,13,21,1
+2828,missouri’s last abortion clinic faces closure. ob-gyns are fighting back.,negative_surprise,"[[""ob-gyns are fighting back.""]]",ob-gyns are fighting back.,12,21,8
+931,ashton kutcher and mila kunis silence divorce rumors with a very comedic take,annoyance,"[[""silence divorce rumors with a very comedic take""]]",silence divorce rumors with a very comedic take,12,19,1
+3444,“hate has no place in our country” – president trump speaks following shootings: “these are people who are seriously mentally ill”,annoyance,"[[""are people who are seriously mentally""]]",are people who are seriously mentally,21,26,1
+3105,and now the mueller backlash begins,anger,"[[""and now the mueller""]]",and now the mueller,1,6,0
+3925,iraq combat veteran: pardon of war criminals sends disturbing message to u.s. military,negative_anticipation_including_pessimism,"[[""iraq combat veteran: pardon of war criminals sends disturbing message to u.s. military""]]",iraq combat veteran: pardon of war criminals sends disturbing message to u.s. military,1,19,7
+2735,a british warship foiled a plan by iran to seize a british oil tanker,positive_anticipation_including_optimism,"[[""foiled a plan by iran to seize a british oil tanker""]]",foiled a plan by iran to seize a british oil tanker,6,20,9
+345,trump’s gop takes its corruption to a whole new level,disgust,"[[""corruption to a whole new level"",""takes its corruption to a whole new level""]]",corruption to a whole new level,9,14,2
+238,'forgotten coast': a florida town fights to rebuild after hurricane michael,trust,"[[""florida town fights to rebuild after hurricane michael""]]",florida town fights to rebuild after hurricane michael,7,18,14
+4913,volvo warns on ‘irresponsible’ self-driving roll-out,negative_anticipation_including_pessimism,"[[""‘irresponsible’ self-driving roll-out""]]",‘irresponsible’ self-driving roll-out,5,15,7
+4533,"california dems to consider resolution that links israel to tree of life synagogue massacre, report says",negative_surprise,"[[""tree of life synagogue massacre, report says""]]","tree of life synagogue massacre, report says",17,24,8
+1724,"ocasio-cortez doubles down, says va problems are a ‘myth’",disgust,"[[""va problems are a ‘myth’""]]",va problems are a ‘myth’,12,19,2
+1682,jake tapper laughs in pence’s face: ‘we don’t have the cleanest air and water in the world’,joy,"[[""we don’t have the cleanest air and water in the world""]]",we don’t have the cleanest air and water in the world,14,27,5
+430,florida man killed by world’s most dangerous bird,sadness,"[[""world’s most dangerous bird""]]",world’s most dangerous bird,7,12,12
+680,bette midler: sarah huckabee sanders is ‘milkmaid’ who ‘slung s**t’,disgust,"[[""sarah huckabee sanders is ‘milkmaid’ who ‘slung s**t’""]]",sarah huckabee sanders is ‘milkmaid’ who ‘slung s**t’,6,27,2

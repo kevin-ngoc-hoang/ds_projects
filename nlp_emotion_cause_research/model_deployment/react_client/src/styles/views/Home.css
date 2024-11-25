@@ -1,0 +1,43 @@
+.home-container {
+  display: flex;
+  flex-direction: column;
+  height: calc(100% - 100px);
+  width: 100%;
+  background-color: var(--neutral-3);
+}
+
+.home-image {
+  height: 55%;
+  width: 100%;
+}
+
+.text-primary {
+  color: white;
+  font-family: 'Karla';
+  font-weight: 400;
+  font-size: 36px;
+  line-height: 42px;
+}
+
+.text-prompt-container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 190px;
+}
+
+.get-started-container {
+  display: flex;
+  justify-content: center;
+}
+
+.get-started-button {
+  background: var(--rainbow-gradient);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border-radius: 15px;
+  width: 331px;
+  height: 112px;
+  margin-bottom: 25px;
+}

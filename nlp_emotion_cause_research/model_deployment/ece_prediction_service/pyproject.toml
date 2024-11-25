@@ -1,0 +1,25 @@
+[tool.poetry]
+name = "ece-prediction-service"
+version = "0.1.0"
+description = "Emotion Cause Extraction prediction service"
+authors = ["Devin Suy <devinsuy@berkeley.edu>"]
+readme = "README.md"
+packages = [{include = "ece_prediction_service"}]
+
+[tool.poetry.dependencies]
+python = ">=3.11, <3.12"
+fastapi = "^0.101.0"
+uvicorn = "^0.23.2"
+requests = "^2.31.0"
+tensorflow = "^2.13.0"
+transformers = "^4.31.0"
+
+
+[tool.poetry.group.dev.dependencies]
+pytest = "^7.4.0"
+isort = "^5.12.0"
+black = "^23.7.0"
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
